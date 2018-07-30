@@ -1,0 +1,76 @@
+2018-07-30 18:56:55,953 main 
+2018-07-30 18:56:55,953 main -------------------------------------------------------------------
+2018-07-30 18:56:56,052 main [Bootstrapper] createLauncher
+2018-07-30 18:56:56,052 main [Bootstrapper] validate files
+2018-07-30 18:57:00,737 main [Bootstrapper] end validated files
+2018-07-30 18:57:00,738 main [Bootstrapper] Starting launcher...
+2018-07-30 18:57:00,843 Thread-3 > [TLAUNCHER][STATIC] initialize inner config
+2018-07-30 18:57:00,961 Thread-3 > [Loading] INITALIZING
+2018-07-30 18:57:01,564 Thread-3 > Starting TLauncher 2.43
+2018-07-30 18:57:01,564 Thread-3 > For more information, visit https://tlauncher.org/
+2018-07-30 18:57:01,570 Thread-3 > Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-07-30 18:57:01,573 Thread-3 > Startup time: 30.07.2018 18:57:01
+2018-07-30 18:57:01,573 Thread-3 > ---
+2018-07-30 18:57:01,684 Thread-3 > [Loading] LOADING_CONFIGURATION
+2018-07-30 18:57:01,685 Thread-3 > Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2018-07-30 18:57:01,689 Thread-3 > [Configuration] Constant values: {}
+2018-07-30 18:57:01,723 Thread-3 > Selected locale: ru_RU
+2018-07-30 18:57:01,773 Thread-3 > [Loading] LOADING_CONSOLE
+2018-07-30 18:57:02,085 Thread-3 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2018-07-30 18:57:02,334 Thread-3 > 
+2018-07-30 18:57:02,343 Thread-3 > [Downloader2] Loaded configuration: good
+2018-07-30 18:57:02,470 Thread-3 > [Updater] Requesting an update...
+2018-07-30 18:57:02,473 Thread-3 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-07-30 18:57:02,476 Thread-3 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-07-30 18:57:02,587 Thread-3 > [Updater] Request time: 112 ms
+2018-07-30 18:57:02,587 Thread-3 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-07-30 18:57:02,600 Thread-3 > [Browser] Loading resources...
+2018-07-30 18:57:02,769 Thread-3 > [Browser] Loading background...
+2018-07-30 18:57:02,865 Thread-3 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-07-30 18:57:02,872 Thread-3 > [Browser] Cleaning up after loading:
+2018-07-30 18:57:02,872 Thread-3 > Starting garbage collector: 40 / 87 MB
+2018-07-30 18:57:02,936 Thread-3 > Garbage collector completed: 14 / 108 MB
+2018-07-30 18:57:02,943 Thread-3 > [Loading] LOADING_MANAGERS
+2018-07-30 18:57:02,946 Thread-3 > [Browser] Running in JavaFX Thread
+2018-07-30 18:57:02,946 Thread-3 > [Browser] Preparing JavaFX...
+2018-07-30 18:57:02,954 Thread-3 > [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-07-30 18:57:02,970 Thread-3 > [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-07-30 18:57:02,972 Thread-3 > [TLauncherManager] Refresh allowed: true
+2018-07-30 18:57:02,974 Thread-3 > [TLauncherManager] Refreshing TLauncher...
+2018-07-30 18:57:02,974 Thread-3 > [AdvertisingStatusObserver]  started to get ad information
+2018-07-30 18:57:02,975 Thread-3 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-07-30 18:57:02,975 Thread-3 > [AdvertisingStatusObserver]  finished to get add information
+2018-07-30 18:57:02,980 Thread-3 > [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-07-30 18:57:03,013 Thread-3 > [Browser] Initializing...
+2018-07-30 18:57:03,032 Thread-3 > [TLauncherManager] Refreshed successfully!
+2018-07-30 18:57:03,454 Thread-3 > [Loading] LOADING_WINDOW
+2018-07-30 18:57:03,527 Thread-3 > [Loading] PREPARING_MAINPANE
+2018-07-30 18:57:03,617 Thread-3 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-07-30 18:57:03,618 Thread-3 > [Browser@41794343] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-07-30 18:57:03,725 Thread-3 > [Browser] add listens into server_choose
+2018-07-30 18:57:04,008 Thread-3 > [VersionManager] Refreshing versions remotely...
+2018-07-30 18:57:04,021 Thread-3 > [Downloader2] Loaded configuration: good
+2018-07-30 18:57:04,039 Thread-3 > [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-07-30 18:57:04,042 Thread-3 > [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-07-30 18:57:04,042 Thread-3 > [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-07-30 18:57:04,044 Thread-3 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-07-30 18:57:04,047 Thread-3 > [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-07-30 18:57:04,050 Thread-3 > [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-07-30 18:57:04,099 Thread-3 > [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 42 ms.
+2018-07-30 18:57:04,106 Thread-3 > [SkinVersionList] Got in 58 ms
+2018-07-30 18:57:04,121 Thread-3 > [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 76 ms.
+2018-07-30 18:57:04,158 Thread-3 > [ExtraVersionList] Got in 115 ms
+2018-07-30 18:57:04,647 Thread-3 > [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 602 ms.
+2018-07-30 18:57:04,712 Thread-3 > [OfficialVersionList] Got in 673 ms
+2018-07-30 18:57:04,713 Thread-3 > [VersionManager] Versions has been refreshed (705 ms)
+2018-07-30 18:57:05,280 Thread-3 > [Loading] POSTINIT_GUI
+2018-07-30 18:57:05,280 Thread-3 > [Frame] Packing main frame...
+2018-07-30 18:57:05,331 Thread-3 > [Frame] Resizing main pane...
+2018-07-30 18:57:05,332 Thread-3 > Updater is already closed. Showing up...
+2018-07-30 18:57:05,333 Thread-3 > Visibility set.
+2018-07-30 18:57:05,334 Thread-3 > [Loading] REFRESHING_INFO
+2018-07-30 18:57:05,335 Thread-3 > [VersionManager] Refreshing versions remotely...
+2018-07-30 18:57:05,336 Thread-3 > [ServerListManager] Refreshing servers...
+2018-07-30 18:57:05,336 Thread-3 > Started! (3653 ms.)
+2018-07-30 18:57:05,336 Thread-3 > [Loading] SUCCESS
+2018-07-30 18:57:05,337 Thread-3 [Bootstrapper] I can be terminated now.

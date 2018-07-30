@@ -1,0 +1,24 @@
+{
+  "remoteServerList": [
+    {
+      "minVersion": "1.8",
+      "ignoreVersions": [
+        "1.13",
+        "latest-release"
+      ],
+      "includeVersions": [],
+      "removedTime": [],
+      "recoveryServerTime": 1,
+      "maxRemovingCountServer": 3,
+      "addedDate": "Jul 30, 2018 6:45:43 PM",
+      "name": "HypeMC.ru",
+      "address": "mc.hypemc.ru:25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    }
+  ],
+  "oldServer": [],
+  "userServer": [],
+  "serverDatFile": [],
+  "pageServerList": []
+}

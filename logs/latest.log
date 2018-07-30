@@ -1,0 +1,80 @@
+[18:57:14] [Client thread/INFO]: Setting user: DrCreeper
+[18:57:16] [Client thread/WARN]: Skipping bad option: lastServer:
+[18:57:16] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+[18:57:18] [Client thread/INFO]: Reloading ResourceManager: Default
+[18:57:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:57:19] [Thread-2/INFO]: Initializing No Sound
+[18:57:19] [Thread-2/INFO]: (Silent Mode)
+[18:57:19] [Thread-2/INFO]: OpenAL initialized.
+[18:57:19] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[18:57:19] [Sound Library Loader/INFO]: Sound engine started
+[18:57:23] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[18:57:25] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[18:57:26] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[18:57:30] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:57:30] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:57:30] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:57:30] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:57:30] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:57:30] [Client thread/INFO]: Loaded 0 recipes
+[18:57:30] [Client thread/INFO]: Loaded 0 advancements
+[18:57:30] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+[18:57:30] [Server thread/INFO]: Generating keypair
+[18:57:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:57:30] [Server thread/INFO]: Loaded 524 recipes
+[18:57:31] [Server thread/INFO]: Loaded 571 advancements
+[18:57:31] [Server thread/INFO]: Preparing start region for level 0
+[18:57:32] [Server thread/INFO]: Подготовка области возрождения: 4%
+[18:57:32] [Server thread/INFO]: Подготовка области возрождения: 8%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 12%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 16%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 20%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 24%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 28%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 32%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 36%
+[18:57:35] [Server thread/INFO]: Подготовка области возрождения: 40%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 44%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 48%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 52%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 56%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 60%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 64%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 68%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 72%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 76%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 80%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 84%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 88%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 92%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 96%
+[18:57:36] [Server thread/INFO]: Подготовка области возрождения: 100%
+[18:57:36] [Server thread/INFO]: Time elapsed: 4948 ms
+[18:57:37] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:57:39] [Server thread/INFO]: DrCreeper[local:E:6559d980] logged in with entity id 460 at (210.9614702535961, 73.0, 38.497166911566076)
+[18:57:39] [Server thread/INFO]: DrCreeper присоединился к игре
+[18:57:40] [Server thread/INFO]: Saving and pausing game...
+[18:57:40] [Server thread/INFO]: Saving chunks for level 'test'/overworld
+[18:57:41] [Server thread/INFO]: Saving chunks for level 'test'/the_nether
+[18:57:41] [Server thread/INFO]: Saving chunks for level 'test'/the_end
+[18:57:41] [Client thread/INFO]: Loaded 16 advancements
+[18:57:54] [Server thread/INFO]: Saving and pausing game...
+[18:57:54] [Server thread/INFO]: Saving chunks for level 'test'/overworld
+[18:57:55] [Server thread/INFO]: Saving chunks for level 'test'/the_nether
+[18:57:55] [Server thread/INFO]: Saving chunks for level 'test'/the_end
+[18:58:14] [Server thread/INFO]: Saving and pausing game...
+[18:58:14] [Server thread/INFO]: Saving chunks for level 'test'/overworld
+[18:58:14] [Server thread/INFO]: Saving chunks for level 'test'/the_nether
+[18:58:14] [Server thread/INFO]: Saving chunks for level 'test'/the_end
+[18:58:14] [Server thread/INFO]: DrCreeper lost connection: Отключение
+[18:58:14] [Server thread/INFO]: DrCreeper покинул игру
+[18:58:15] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:58:15] [Server thread/INFO]: Stopping server
+[18:58:15] [Server thread/INFO]: Saving players
+[18:58:15] [Server thread/INFO]: Saving worlds
+[18:58:15] [Server thread/INFO]: Saving chunks for level 'test'/overworld
+[18:58:15] [Server thread/INFO]: Saving chunks for level 'test'/the_nether
+[18:58:15] [Server thread/INFO]: Saving chunks for level 'test'/the_end
+[18:58:16] [Client thread/INFO]: Stopping!
+[18:58:16] [Client thread/INFO]: SoundSystem shutting down...
+[18:58:16] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
