@@ -1,0 +1,507 @@
+2018-07-30 19:22:40,810 main [Loading] INITALIZING
+Starting TLauncher 2.43
+For more information, visit https://tlauncher.org/
+Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+Startup time: 30.07.2018 19:22:40
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2018-07-30 19:22:40,811 main [Downloader2] Loaded configuration: good
+2018-07-30 19:22:40,932 ExtendedThread#4 [Updater] Requesting an update...
+2018-07-30 19:22:40,934 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-07-30 19:22:40,934 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-07-30 19:22:41,057 ExtendedThread#4 [Updater] Request time: 123 ms
+2018-07-30 19:22:41,058 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-07-30 19:22:41,094 main [Browser] Loading resources...
+2018-07-30 19:22:41,239 main [Browser] Loading background...
+2018-07-30 19:22:41,353 main [Browser] Cleaning up after loading:
+2018-07-30 19:22:41,353 main Starting garbage collector: 42 / 87 MB
+2018-07-30 19:22:41,416 main Garbage collector completed: 14 / 108 MB
+2018-07-30 19:22:41,418 main [Loading] LOADING_MANAGERS
+2018-07-30 19:22:41,424 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-07-30 19:22:41,425 main [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-07-30 19:22:41,444 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2018-07-30 19:22:41,444 JavaFX Application Thread [Browser] Preparing JavaFX...
+2018-07-30 19:22:41,445 main [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-07-30 19:22:41,450 main [TLauncherManager] Refresh allowed: true
+2018-07-30 19:22:41,451 ExtendedThread#4 [TLauncherManager] Refreshing TLauncher...
+2018-07-30 19:22:41,452 main [AdvertisingStatusObserver]  started to get ad information
+2018-07-30 19:22:41,452 main [AdvertisingStatusObserver]  finished to get add information
+2018-07-30 19:22:41,455 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-07-30 19:22:41,460 main [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-07-30 19:22:41,512 JavaFX Application Thread [Browser] Initializing...
+2018-07-30 19:22:41,522 ExtendedThread#4 [TLauncherManager] Refreshed successfully!
+2018-07-30 19:22:42,021 main [Loading] LOADING_WINDOW
+2018-07-30 19:22:42,066 main [Loading] PREPARING_MAINPANE
+2018-07-30 19:22:42,108 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-07-30 19:22:42,109 JavaFX Application Thread [Browser@1555028490] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-07-30 19:22:42,208 JavaFX Application Thread [Browser] add listens into server_choose
+2018-07-30 19:22:42,519 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-07-30 19:22:42,550 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-07-30 19:22:42,550 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-07-30 19:22:42,551 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-07-30 19:22:42,553 main [Downloader2] Loaded configuration: good
+2018-07-30 19:22:42,554 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-07-30 19:22:42,556 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-07-30 19:22:42,557 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-07-30 19:22:42,603 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 44 ms.
+2018-07-30 19:22:42,616 AsyncObject#8 [SkinVersionList] Got in 60 ms
+2018-07-30 19:22:42,642 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 88 ms.
+2018-07-30 19:22:42,682 AsyncObject#7 [ExtraVersionList] Got in 131 ms
+2018-07-30 19:22:43,148 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 597 ms.
+2018-07-30 19:22:43,189 AsyncObject#6 [OfficialVersionList] Got in 639 ms
+2018-07-30 19:22:43,191 ExtendedThread#4 [VersionManager] Versions has been refreshed (672 ms)
+2018-07-30 19:22:43,729 main [Loading] POSTINIT_GUI
+2018-07-30 19:22:43,730 main [Frame] Packing main frame...
+2018-07-30 19:22:43,775 main [Frame] Resizing main pane...
+2018-07-30 19:22:43,776 main Updater is already closed. Showing up...
+2018-07-30 19:22:43,776 main Visibility set.
+2018-07-30 19:22:43,777 main [Loading] REFRESHING_INFO
+2018-07-30 19:22:43,778 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-07-30 19:22:43,780 main Started! (3630 ms.)
+2018-07-30 19:22:43,780 main [Loading] SUCCESS
+2018-07-30 19:22:43,786 ExtendedThread#14 [ServerListManager] Refreshing servers...
+2018-07-30 19:22:43,788 ExtendedThread#14 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2018-07-30 19:22:43,788 ExtendedThread#14 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/configs/servers.json
+2018-07-30 19:22:43,795 main [TLauncher] show tlauncher!!!
+2018-07-30 19:22:43,799 main [Double running] clear time label
+2018-07-30 19:22:43,835 ExtendedThread#14 [REPO][SERVERLIST_REPO] Success: Reached the repo in 47 ms.
+2018-07-30 19:22:43,840 ExtendedThread#14 [ServerListManager] Got in 52 ms
+2018-07-30 19:22:43,840 ExtendedThread#14 [ServerListManager] Servers has been refreshed (52 ms)
+2018-07-30 19:22:43,841 ExtendedThread#14 [ServerListManager] ServerList{[RemoteServer{minVersion='1.8', ignoreVersions=[1.13, latest-release], includeVersions=[], removedTime=[], recoveryServerTime=1, maxRemovingCountServer=3, addedDate=null}]}
+2018-07-30 19:22:43,905 AsyncObject#16 [OfficialVersionList] Got in 77 ms
+2018-07-30 19:22:43,908 AsyncObject#18 [SkinVersionList] Got in 80 ms
+2018-07-30 19:22:43,919 AsyncObject#17 [ExtraVersionList] Got in 91 ms
+2018-07-30 19:22:43,919 ExtendedThread#4 [VersionManager] Versions has been refreshed (115 ms)
+2018-07-30 19:22:44,166 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/lch/server_info_page.json
+2018-07-30 19:22:44,167 main #####    all servers are available   ######
+2018-07-30 19:22:44,196 Thread-16 run server on  37842
+2018-07-30 19:22:45,055 ExtendedThread#4 [TLauncher] init popupMenuManager
+2018-07-30 19:22:59,250 LoopedThread#9 [LoginForm] Login was OK. Trying to launch now.
+2018-07-30 19:22:59,543 LoopedThread#9 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-07-30 19:22:59,544 LoopedThread#9 [Launcher] Running under TLauncher 2.43
+2018-07-30 19:22:59,545 LoopedThread#9 [Launcher] Current machine: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-07-30 19:22:59,547 LoopedThread#9 [Launcher] Collecting info...
+2018-07-30 19:22:59,557 LoopedThread#9 [TLauncherManager] before clearLibrary null
+2018-07-30 19:22:59,560 LoopedThread#9 [TLauncherManager] written:  []
+2018-07-30 19:22:59,561 LoopedThread#9 [TLauncherManager] after clearLibrary null
+2018-07-30 19:22:59,561 LoopedThread#9 [Launcher] Force update: false
+2018-07-30 19:22:59,562 LoopedThread#9 [Launcher] Selected version: latest-release
+2018-07-30 19:22:59,563 LoopedThread#9 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=DrCreeper}
+2018-07-30 19:22:59,564 LoopedThread#9 [Launcher] Version sync info: VersionSyncInfo{id='1.13',
+local=CompleteVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@4931cd23, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:0.1.27', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@39747121, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@58380abb, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@4931cd23}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-07-30 19:22:59,633 LoopedThread#9 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+2018-07-30 19:22:59,635 LoopedThread#9 [Launcher] Checking conditions...
+2018-07-30 19:22:59,645 LoopedThread#9 [Launcher] Comparing assets...
+2018-07-30 19:22:59,646 LoopedThread#9 [AssetsManager] Checking resources...
+2018-07-30 19:22:59,647 LoopedThread#9 [AssetsManager] Reading indexes from file C:\Programs\Minecraft\assets\indexes\1.13.json
+2018-07-30 19:22:59,665 LoopedThread#9 [AssetsManager] Fast comparing: true
+2018-07-30 19:22:59,722 LoopedThread#9 [Launcher] Delta time to compare assets: 76 ms.
+2018-07-30 19:23:00,123 LoopedThread#9 [VersionManager] Required for version 1.13: []
+2018-07-30 19:23:00,124 LoopedThread#9 [Modpack]  got container
+2018-07-30 19:23:00,150 LoopedThread#9 [Launcher] Unpacking natives...
+2018-07-30 19:23:00,158 LoopedThread#9 [Launcher] Constructing process...
+2018-07-30 19:23:00,160 LoopedThread#9 [Launcher] Constructing classpath...
+2018-07-30 19:23:00,165 LoopedThread#9 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Programs\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Programs\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Programs\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Programs\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Programs\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Programs\Minecraft\libraries\com\mojang\brigadier\0.1.27\brigadier-0.1.27.jar;C:\Programs\Minecraft\libraries\com\mojang\datafixerupper\1.0.16\datafixerupper-1.0.16.jar;C:\Programs\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Programs\Minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Programs\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Programs\Minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Programs\Minecraft\libraries\com\mojang\realms\1.13.3\realms-1.13.3.jar;C:\Programs\Minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Programs\Minecraft\versions\1.13\1.13.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main
+2018-07-30 19:23:00,215 LoopedThread#9 [Launcher] Getting Minecraft arguments...
+2018-07-30 19:23:00,223 LoopedThread#9 read servers from servers.dat []
+2018-07-30 19:23:00,224 LoopedThread#9 [InnerMinecraftServersImpl]  search removed servers
+2018-07-30 19:23:00,225 LoopedThread#9 [InnerMinecraftServersImpl]  prepare inner servers
+2018-07-30 19:23:00,227 LoopedThread#9 save servers to servers.dat []
+2018-07-30 19:23:00,229 LoopedThread#9 [Launcher] Launching Minecraft...
+2018-07-30 19:23:00,233 LoopedThread#9 I'm hiding!
+2018-07-30 19:23:00,234 LoopedThread#9 [TLauncherManager] before onMinecraftLaunch null
+2018-07-30 19:23:00,239 LoopedThread#9 [TLauncherManager] read from  C:\Programs\Minecraft\TempOptifineStore-1.0.json []
+2018-07-30 19:23:00,242 LoopedThread#9 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-07-30 19:23:00,243 LoopedThread#9 [TLauncherManager] after onMinecraftLaunch null
+2018-07-30 19:23:00,244 LoopedThread#9 [Launcher] Starting Minecraft latest-release...
+2018-07-30 19:23:00,246 LoopedThread#9 [Launcher] Launching in: C:\Programs\Minecraft
+2018-07-30 19:23:00,252 LoopedThread#9 [Launcher] Processing post-launch actions. Assist launch: true
+2018-07-30 19:23:01,503 Thread-18 ===============================================================================================
+2018-07-30 19:23:01,505 Thread-18 > [19:23:01] [Client thread/INFO]: Setting user: DrCreeper
+2018-07-30 19:23:03,923 Thread-18 > [19:23:03] [Client thread/WARN]: Skipping bad option: lastServer:
+2018-07-30 19:23:03,941 Thread-18 > [19:23:03] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-07-30 19:23:05,563 Thread-18 > [19:23:05] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-07-30 19:23:06,086 Thread-18 > [19:23:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-07-30 19:23:06,280 Thread-18 > [19:23:06] [Thread-2/INFO]: Initializing No Sound
+2018-07-30 19:23:06,286 Thread-18 > [19:23:06] [Thread-2/INFO]: (Silent Mode)
+2018-07-30 19:23:06,901 Thread-18 > [19:23:06] [Thread-2/INFO]: OpenAL initialized.
+2018-07-30 19:23:06,909 Thread-18 > [19:23:06] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-07-30 19:23:06,912 Thread-18 > [19:23:06] [Sound Library Loader/INFO]: Sound engine started
+2018-07-30 19:23:10,164 Thread-18 > [19:23:10] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-07-30 19:23:12,214 Thread-18 > [19:23:12] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-07-30 19:23:13,919 Thread-18 > [19:23:13] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-07-30 19:23:21,537 Thread-18 > [19:23:21] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-07-30 19:23:21,540 Thread-18 > [19:23:21] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-07-30 19:23:21,543 Thread-18 > [19:23:21] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-07-30 19:23:21,546 Thread-18 > [19:23:21] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-07-30 19:23:21,550 Thread-18 > [19:23:21] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-07-30 19:23:21,588 Thread-18 > [19:23:21] [Client thread/INFO]: Loaded 0 recipes
+2018-07-30 19:23:21,589 Thread-18 > [19:23:21] [Client thread/INFO]: Loaded 0 advancements
+2018-07-30 19:23:21,596 Thread-18 > [19:23:21] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-07-30 19:23:21,600 Thread-18 > [19:23:21] [Server thread/INFO]: Generating keypair
+2018-07-30 19:23:21,748 Thread-18 > [19:23:21] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-07-30 19:23:22,389 Thread-18 > [19:23:22] [Server thread/INFO]: Loaded 524 recipes
+2018-07-30 19:23:22,990 Thread-18 > [19:23:22] [Server thread/INFO]: Loaded 571 advancements
+2018-07-30 19:23:23,115 Thread-18 > [19:23:23] [Server thread/INFO]: Preparing start region for level 0
+2018-07-30 19:23:23,273 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-07-30 19:23:23,338 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-07-30 19:23:23,393 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-07-30 19:23:23,438 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-07-30 19:23:23,508 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-07-30 19:23:23,543 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-07-30 19:23:23,578 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-07-30 19:23:23,608 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-07-30 19:23:23,652 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-07-30 19:23:23,682 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-07-30 19:23:23,743 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-07-30 19:23:23,837 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-07-30 19:23:23,892 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-07-30 19:23:23,944 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-07-30 19:23:23,994 Thread-18 > [19:23:23] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-07-30 19:23:24,037 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-07-30 19:23:24,078 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-07-30 19:23:24,140 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-07-30 19:23:24,197 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-07-30 19:23:24,244 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-07-30 19:23:24,290 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-07-30 19:23:24,351 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-07-30 19:23:24,382 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-07-30 19:23:24,416 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-07-30 19:23:24,452 Thread-18 > [19:23:24] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-07-30 19:23:24,455 Thread-18 > [19:23:24] [Server thread/INFO]: Time elapsed: 1339 ms
+2018-07-30 19:23:24,772 Thread-18 > [19:23:24] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-07-30 19:23:25,916 Thread-18 > [19:23:25] [Server thread/INFO]: DrCreeper[local:E:cc2748b3] logged in with entity id 347 at (90.64751372788403, 16.0, -137.3873790467433)
+2018-07-30 19:23:25,935 Thread-18 > [19:23:25] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-07-30 19:23:27,411 Thread-18 > [19:23:27] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:23:27,435 Thread-18 > [19:23:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:23:27,800 Thread-18 > [19:23:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:23:27,802 Thread-18 > [19:23:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:23:29,150 Thread-18 > [19:23:29] [Client thread/INFO]: Loaded 330 advancements
+2018-07-30 19:25:47,283 Thread-18 > [19:25:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+2018-07-30 19:25:58,806 Thread-18 > [19:25:58] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:25:58,819 Thread-18 > [19:25:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:25:59,084 Thread-18 > [19:25:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:25:59,087 Thread-18 > [19:25:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:33:54,505 Thread-18 > [19:33:54] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:33:54,512 Thread-18 > [19:33:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:33:54,688 Thread-18 > [19:33:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:33:54,690 Thread-18 > [19:33:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:33:56,706 Thread-18 > [19:33:56] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:33:56,717 Thread-18 > [19:33:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:33:56,872 Thread-18 > [19:33:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:33:56,874 Thread-18 > [19:33:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:33:57,905 Thread-18 > [19:33:57] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:33:57,914 Thread-18 > [19:33:57] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:33:58,051 Thread-18 > [19:33:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:33:58,052 Thread-18 > [19:33:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:36:51,405 Thread-18 > [19:36:51] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:36:51,414 Thread-18 > [19:36:51] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:36:51,656 Thread-18 > [19:36:51] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:36:51,657 Thread-18 > [19:36:51] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:40:17,855 Thread-18 > [19:40:17] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:40:17,862 Thread-18 > [19:40:17] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:40:18,058 Thread-18 > [19:40:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:40:18,062 Thread-18 > [19:40:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:43:23,105 Thread-18 > [19:43:23] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:43:23,120 Thread-18 > [19:43:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:43:23,307 Thread-18 > [19:43:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:43:23,308 Thread-18 > [19:43:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:45:30,805 Thread-18 > [19:45:30] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:45:30,814 Thread-18 > [19:45:30] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:45:30,999 Thread-18 > [19:45:30] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:45:31,002 Thread-18 > [19:45:30] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:45:33,256 Thread-18 > [19:45:33] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:45:33,264 Thread-18 > [19:45:33] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:45:33,417 Thread-18 > [19:45:33] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:45:33,419 Thread-18 > [19:45:33] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:45:37,404 Thread-18 > [19:45:37] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:45:37,414 Thread-18 > [19:45:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:45:37,588 Thread-18 > [19:45:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:45:37,592 Thread-18 > [19:45:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:45:42,906 Thread-18 > [19:45:42] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:45:42,914 Thread-18 > [19:45:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:45:43,093 Thread-18 > [19:45:43] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:45:43,094 Thread-18 > [19:45:43] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:46:05,323 Thread-18 > [19:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+2018-07-30 19:46:11,605 Thread-18 > [19:46:11] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:46:11,617 Thread-18 > [19:46:11] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:46:11,794 Thread-18 > [19:46:11] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:46:11,931 Thread-18 > [19:46:11] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:50:53,306 Thread-18 > [19:50:53] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:50:53,318 Thread-18 > [19:50:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:50:53,430 Thread-18 > [19:50:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:50:53,523 Thread-18 > [19:50:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:51:03,755 Thread-18 > [19:51:03] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:51:03,767 Thread-18 > [19:51:03] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:51:03,885 Thread-18 > [19:51:03] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:51:03,985 Thread-18 > [19:51:03] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:51:05,755 Thread-18 > [19:51:05] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:51:05,762 Thread-18 > [19:51:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:51:05,882 Thread-18 > [19:51:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:51:05,956 Thread-18 > [19:51:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:51:12,256 Thread-18 > [19:51:12] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:51:12,266 Thread-18 > [19:51:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:51:12,390 Thread-18 > [19:51:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:51:12,475 Thread-18 > [19:51:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:51:13,807 Thread-18 > [19:51:13] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:51:13,817 Thread-18 > [19:51:13] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:51:13,936 Thread-18 > [19:51:13] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:51:14,005 Thread-18 > [19:51:14] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:52:19,505 Thread-18 > [19:52:19] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:52:19,522 Thread-18 > [19:52:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:52:19,629 Thread-18 > [19:52:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:52:19,819 Thread-18 > [19:52:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:53:05,874 Thread-18 > [19:53:05] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+2018-07-30 19:53:14,160 Thread-18 > [19:53:14] [Server thread/INFO]: DrCreeper решил поплавать в лаве
+2018-07-30 19:53:14,171 Thread-18 > [19:53:14] [Client thread/INFO]: [CHAT] DrCreeper решил поплавать в лаве
+2018-07-30 19:53:19,443 Thread-18 > [19:53:19] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-07-30 19:53:19,573 Thread-18 > [19:53:19] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:53:19,580 Thread-18 > [19:53:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:53:19,708 Thread-18 > [19:53:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:53:19,765 Thread-18 > [19:53:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:53:22,289 Thread-18 > [19:53:22] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:53:22,301 Thread-18 > [19:53:22] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:53:22,303 Thread-18 > [19:53:22] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:53:22,305 Thread-18 > [19:53:22] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 19:53:28,766 Thread-18 > [19:53:28] [Server thread/INFO]: Changing difficulty to NORMAL, from PEACEFUL
+2018-07-30 19:56:13,189 Thread-18 > [19:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+2018-07-30 19:56:38,705 Thread-18 > [19:56:38] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 19:56:38,711 Thread-18 > [19:56:38] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 19:56:38,790 Thread-18 > [19:56:38] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 19:56:38,865 Thread-18 > [19:56:38] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:00:07,707 Thread-18 > [20:00:07] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:00:07,722 Thread-18 > [20:00:07] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:00:07,853 Thread-18 > [20:00:07] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:00:08,058 Thread-18 > [20:00:08] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:00:59,455 Thread-18 > [20:00:59] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:00:59,469 Thread-18 > [20:00:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:00:59,598 Thread-18 > [20:00:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:00:59,825 Thread-18 > [20:00:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:01:40,005 Thread-18 > [20:01:40] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:01:40,016 Thread-18 > [20:01:40] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:01:40,158 Thread-18 > [20:01:40] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:01:40,339 Thread-18 > [20:01:40] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:01:42,905 Thread-18 > [20:01:42] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:01:42,915 Thread-18 > [20:01:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:01:43,084 Thread-18 > [20:01:43] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:01:43,182 Thread-18 > [20:01:43] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:02:14,756 Thread-18 > [20:02:14] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:02:14,769 Thread-18 > [20:02:14] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:02:14,954 Thread-18 > [20:02:14] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:02:15,244 Thread-18 > [20:02:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:02:18,505 Thread-18 > [20:02:18] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:02:18,511 Thread-18 > [20:02:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:02:18,658 Thread-18 > [20:02:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:02:18,725 Thread-18 > [20:02:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:02:23,655 Thread-18 > [20:02:23] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:02:23,662 Thread-18 > [20:02:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:02:23,804 Thread-18 > [20:02:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:02:23,870 Thread-18 > [20:02:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:02:26,482 Thread-18 > [20:02:26] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:02:26,488 Thread-18 > [20:02:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:02:26,651 Thread-18 > [20:02:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:02:26,824 Thread-18 > [20:02:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:03:47,594 Thread-18 > [20:03:47] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:03:47,598 Thread-18 > [20:03:47] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:03:47,669 Thread-18 > [20:03:47] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:03:47,887 Thread-18 > [20:03:47] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:08:14,005 Thread-18 > [20:08:14] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:08:14,010 Thread-18 > [20:08:14] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:08:14,087 Thread-18 > [20:08:14] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:08:14,176 Thread-18 > [20:08:14] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:08:15,905 Thread-18 > [20:08:15] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:08:15,913 Thread-18 > [20:08:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:08:15,980 Thread-18 > [20:08:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:08:16,027 Thread-18 > [20:08:16] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:08:24,855 Thread-18 > [20:08:24] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:08:24,865 Thread-18 > [20:08:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:08:24,937 Thread-18 > [20:08:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:08:24,995 Thread-18 > [20:08:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:08:32,505 Thread-18 > [20:08:32] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:08:32,511 Thread-18 > [20:08:32] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:08:32,582 Thread-18 > [20:08:32] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:08:32,644 Thread-18 > [20:08:32] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:09:08,705 Thread-18 > [20:09:08] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:09:08,713 Thread-18 > [20:09:08] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:09:08,791 Thread-18 > [20:09:08] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:09:08,879 Thread-18 > [20:09:08] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:10:02,806 Thread-18 > [20:10:02] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:10:02,812 Thread-18 > [20:10:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:10:02,885 Thread-18 > [20:10:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:10:02,961 Thread-18 > [20:10:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:13:55,305 Thread-18 > [20:13:55] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:13:55,312 Thread-18 > [20:13:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:13:55,380 Thread-18 > [20:13:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:13:55,472 Thread-18 > [20:13:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:14:15,011 Thread-18 > [20:14:15] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+2018-07-30 20:14:34,705 Thread-18 > [20:14:34] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:14:34,712 Thread-18 > [20:14:34] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:14:34,789 Thread-18 > [20:14:34] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:14:34,800 Thread-18 > [20:14:34] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:14:36,555 Thread-18 > [20:14:36] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:14:36,564 Thread-18 > [20:14:36] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:14:36,632 Thread-18 > [20:14:36] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:14:36,636 Thread-18 > [20:14:36] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:14:41,208 Thread-18 > [20:14:41] [Server thread/INFO]: Changing difficulty to HARD, from PEACEFUL
+2018-07-30 20:14:42,606 Thread-18 > [20:14:42] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:14:42,612 Thread-18 > [20:14:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:14:42,678 Thread-18 > [20:14:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:14:42,742 Thread-18 > [20:14:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:14:44,405 Thread-18 > [20:14:44] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:14:44,412 Thread-18 > [20:14:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:14:44,485 Thread-18 > [20:14:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:14:44,526 Thread-18 > [20:14:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:14:49,763 Thread-18 > [20:14:49] [Server thread/INFO]: Changing difficulty to NORMAL, from HARD
+2018-07-30 20:14:50,255 Thread-18 > [20:14:50] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:14:50,262 Thread-18 > [20:14:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:14:50,332 Thread-18 > [20:14:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:14:50,373 Thread-18 > [20:14:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:18:38,562 Thread-18 > [20:18:38] [Server thread/INFO]: DrCreeper получил достижение «[Чертоги страха]»
+2018-07-30 20:18:38,565 Thread-18 > [20:18:38] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Чертоги страха]»
+2018-07-30 20:18:38,615 Thread-18 > [20:18:38] [Client thread/INFO]: Loaded 332 advancements
+2018-07-30 20:18:49,305 Thread-18 > [20:18:49] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:18:49,312 Thread-18 > [20:18:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:18:49,384 Thread-18 > [20:18:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:18:49,463 Thread-18 > [20:18:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:19:02,305 Thread-18 > [20:19:02] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:19:02,311 Thread-18 > [20:19:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:19:02,387 Thread-18 > [20:19:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:19:02,462 Thread-18 > [20:19:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:19:06,605 Thread-18 > [20:19:06] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:19:06,613 Thread-18 > [20:19:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:19:06,681 Thread-18 > [20:19:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:19:06,734 Thread-18 > [20:19:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:19:31,564 Thread-18 > [20:19:31] [Client thread/INFO]: Loaded 332 advancements
+2018-07-30 20:20:45,613 Thread-18 > [20:20:45] [Client thread/INFO]: Loaded 335 advancements
+2018-07-30 20:21:43,970 Thread-18 > [20:21:43] [Client thread/INFO]: Loaded 335 advancements
+2018-07-30 20:21:44,512 Thread-18 > [20:21:44] [Server thread/INFO]: DrCreeper получил достижение «[В полымя]»
+2018-07-30 20:21:44,514 Thread-18 > [20:21:44] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[В полымя]»
+2018-07-30 20:21:44,564 Thread-18 > [20:21:44] [Client thread/INFO]: Loaded 338 advancements
+2018-07-30 20:27:21,455 Thread-18 > [20:27:21] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:27:21,462 Thread-18 > [20:27:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:27:21,543 Thread-18 > [20:27:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:27:21,629 Thread-18 > [20:27:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:30:43,268 Thread-18 > [20:30:43] [Client thread/INFO]: Loaded 339 advancements
+2018-07-30 20:31:03,365 Thread-18 > [20:31:03] [Client thread/INFO]: Loaded 341 advancements
+2018-07-30 20:33:15,606 Thread-18 > [20:33:15] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:33:15,612 Thread-18 > [20:33:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:33:15,680 Thread-18 > [20:33:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:33:15,752 Thread-18 > [20:33:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:33:21,255 Thread-18 > [20:33:21] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:33:21,261 Thread-18 > [20:33:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:33:21,337 Thread-18 > [20:33:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:33:21,386 Thread-18 > [20:33:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:37:44,405 Thread-18 > [20:37:44] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:37:44,412 Thread-18 > [20:37:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:37:44,490 Thread-18 > [20:37:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:37:44,567 Thread-18 > [20:37:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:39:26,305 Thread-18 > [20:39:26] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:39:26,312 Thread-18 > [20:39:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:39:26,380 Thread-18 > [20:39:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:39:26,490 Thread-18 > [20:39:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:39:29,506 Thread-18 > [20:39:29] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:39:29,514 Thread-18 > [20:39:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:39:29,584 Thread-18 > [20:39:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:39:29,643 Thread-18 > [20:39:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:39:31,055 Thread-18 > [20:39:31] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:39:31,062 Thread-18 > [20:39:31] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:39:31,136 Thread-18 > [20:39:31] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:39:31,186 Thread-18 > [20:39:31] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:40:15,155 Thread-18 > [20:40:15] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:40:15,163 Thread-18 > [20:40:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:40:15,232 Thread-18 > [20:40:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:40:15,330 Thread-18 > [20:40:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:42:42,815 Thread-18 > [20:42:42] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:42:42,820 Thread-18 > [20:42:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:42:42,922 Thread-18 > [20:42:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:42:42,986 Thread-18 > [20:42:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:42:47,555 Thread-18 > [20:42:47] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:42:47,562 Thread-18 > [20:42:47] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:42:47,626 Thread-18 > [20:42:47] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:42:47,683 Thread-18 > [20:42:47] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:43:17,205 Thread-18 > [20:43:17] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:43:17,213 Thread-18 > [20:43:17] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:43:17,303 Thread-18 > [20:43:17] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:43:17,420 Thread-18 > [20:43:17] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:43:25,406 Thread-18 > [20:43:25] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:43:25,412 Thread-18 > [20:43:25] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:43:25,485 Thread-18 > [20:43:25] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:43:25,555 Thread-18 > [20:43:25] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:47:00,505 Thread-18 > [20:47:00] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:47:00,510 Thread-18 > [20:47:00] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:47:00,578 Thread-18 > [20:47:00] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:47:00,683 Thread-18 > [20:47:00] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:47:25,754 Thread-18 > [20:47:25] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:47:25,760 Thread-18 > [20:47:25] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:47:25,831 Thread-18 > [20:47:25] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:47:25,899 Thread-18 > [20:47:25] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:52:37,205 Thread-18 > [20:52:37] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:52:37,212 Thread-18 > [20:52:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:52:37,282 Thread-18 > [20:52:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:52:37,342 Thread-18 > [20:52:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:53:49,405 Thread-18 > [20:53:49] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:53:49,412 Thread-18 > [20:53:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:53:49,483 Thread-18 > [20:53:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:53:49,573 Thread-18 > [20:53:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 20:58:52,155 Thread-18 > [20:58:52] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 20:58:52,161 Thread-18 > [20:58:52] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 20:58:52,233 Thread-18 > [20:58:52] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 20:58:52,306 Thread-18 > [20:58:52] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:06:02,855 Thread-18 > [21:06:02] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 21:06:02,862 Thread-18 > [21:06:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:06:02,932 Thread-18 > [21:06:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:06:03,044 Thread-18 > [21:06:03] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:06:22,452 Thread-18 > [21:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+2018-07-30 21:19:09,005 Thread-18 > [21:19:09] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 21:19:09,011 Thread-18 > [21:19:09] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:19:09,136 Thread-18 > [21:19:09] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:19:09,138 Thread-18 > [21:19:09] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:19:12,456 Thread-18 > [21:19:12] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 21:19:12,465 Thread-18 > [21:19:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:19:12,592 Thread-18 > [21:19:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:19:12,594 Thread-18 > [21:19:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:19:27,355 Thread-18 > [21:19:27] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 21:19:27,363 Thread-18 > [21:19:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:19:27,508 Thread-18 > [21:19:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:19:27,510 Thread-18 > [21:19:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:22:03,558 Thread-18 > [21:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14154ms or 283 ticks behind
+2018-07-30 21:22:03,560 Thread-18 > [21:22:03] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 21:22:03,567 Thread-18 > [21:22:03] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:22:03,780 Thread-18 > [21:22:03] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:22:03,782 Thread-18 > [21:22:03] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:24:54,656 Thread-18 > [21:24:54] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 21:24:54,664 Thread-18 > [21:24:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:24:54,878 Thread-18 > [21:24:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:24:54,880 Thread-18 > [21:24:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:34:53,755 Thread-18 > [21:34:53] [Server thread/INFO]: Saving and pausing game...
+2018-07-30 21:34:53,761 Thread-18 > [21:34:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:34:53,909 Thread-18 > [21:34:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:34:53,910 Thread-18 > [21:34:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:34:54,320 Thread-18 > [21:34:54] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-07-30 21:34:54,321 Thread-18 > [21:34:54] [Server thread/INFO]: DrCreeper покинул игру
+2018-07-30 21:34:54,329 Thread-18 > [21:34:54] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-07-30 21:34:54,355 Thread-18 > [21:34:54] [Server thread/INFO]: Stopping server
+2018-07-30 21:34:54,356 Thread-18 > [21:34:54] [Server thread/INFO]: Saving players
+2018-07-30 21:34:54,357 Thread-18 > [21:34:54] [Server thread/INFO]: Saving worlds
+2018-07-30 21:34:54,358 Thread-18 > [21:34:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-30 21:34:55,096 Thread-18 > [21:34:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-30 21:34:55,098 Thread-18 > [21:34:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-30 21:34:57,869 Thread-18 > [21:34:57] [Client thread/INFO]: Stopping!
+2018-07-30 21:34:58,407 Thread-18 > [21:34:58] [Client thread/INFO]: SoundSystem shutting down...
+2018-07-30 21:34:58,625 Thread-18 > [21:34:58] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-07-30 21:34:58,987 Thread-18 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-07-30 21:34:59,072 Thread-18 Here I am!
+2018-07-30 21:34:59,094 Thread-18 [VersionManager] Refreshing versions locally...
+2018-07-30 21:34:59,103 Thread-18 [VersionManager] Versions has been refreshed (5 ms)
+2018-07-30 21:34:59,113 Thread-18 [Launcher] Minecraft closed with exit code: 0
+2018-07-30 21:34:59,114 LoopedThread#9 [Launcher] Launcher exited.
+2018-07-30 21:35:01,110 AWT-EventQueue-0 Good bye!
