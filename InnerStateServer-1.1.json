@@ -1,5 +1,6 @@
 {
-  "remoteServerList": [
+  "remoteServerList": [],
+  "oldServer": [
     {
       "minVersion": "1.8",
       "ignoreVersions": [
@@ -17,7 +18,6 @@
       "acceptTextures": 1
     }
   ],
-  "oldServer": [],
   "userServer": [],
   "serverDatFile": [],
   "pageServerList": []

@@ -213,3 +213,116 @@ C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.versi
 2018-07-30 18:58:17,159 LoopedThread#6 [Launcher] Launcher exited.
 2018-07-30 18:58:17,167 Thread-15 [Launcher] Minecraft closed with exit code: 0
 2018-07-30 18:58:24,910 AWT-EventQueue-0 Good bye!
+2018-07-31 23:40:07,862 main [Loading] INITALIZING
+Starting TLauncher 2.43
+For more information, visit https://tlauncher.org/
+Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+Startup time: 31.07.2018 23:40:06
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2018-07-31 23:40:07,863 main [Downloader2] Loaded configuration: good
+2018-07-31 23:40:07,983 ExtendedThread#4 [Updater] Requesting an update...
+2018-07-31 23:40:07,990 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-07-31 23:40:07,991 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-07-31 23:40:08,113 ExtendedThread#4 [Updater] Request time: 123 ms
+2018-07-31 23:40:08,113 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-07-31 23:40:08,356 main [Browser] Loading resources...
+2018-07-31 23:40:08,520 main [Browser] Loading background...
+2018-07-31 23:40:08,600 main [Browser] Cleaning up after loading:
+2018-07-31 23:40:08,600 main Starting garbage collector: 29 / 100 MB
+2018-07-31 23:40:08,660 main Garbage collector completed: 13 / 116 MB
+2018-07-31 23:40:08,687 main [Loading] LOADING_MANAGERS
+2018-07-31 23:40:08,698 main [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-07-31 23:40:08,714 main [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-07-31 23:40:08,716 main [TLauncherManager] Refresh allowed: true
+2018-07-31 23:40:08,717 ExtendedThread#4 [TLauncherManager] Refreshing TLauncher...
+2018-07-31 23:40:08,718 main [AdvertisingStatusObserver]  started to get ad information
+2018-07-31 23:40:08,718 main [AdvertisingStatusObserver]  finished to get add information
+2018-07-31 23:40:08,719 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-07-31 23:40:08,731 main [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-07-31 23:40:08,776 ExtendedThread#4 [TLauncherManager] Refreshed successfully!
+2018-07-31 23:40:08,927 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-07-31 23:40:08,932 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2018-07-31 23:40:08,932 JavaFX Application Thread [Browser] Preparing JavaFX...
+2018-07-31 23:40:08,996 JavaFX Application Thread [Browser] Initializing...
+2018-07-31 23:40:09,217 main [Loading] LOADING_WINDOW
+2018-07-31 23:40:09,295 main [Loading] PREPARING_MAINPANE
+2018-07-31 23:40:09,767 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-07-31 23:40:09,768 JavaFX Application Thread [Browser@614229684] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-07-31 23:40:09,888 JavaFX Application Thread [Browser] add listens into server_choose
+2018-07-31 23:40:10,149 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-07-31 23:40:10,167 main [Downloader2] Loaded configuration: good
+2018-07-31 23:40:10,191 AsyncObject#7 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-07-31 23:40:10,192 AsyncObject#7 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-07-31 23:40:10,196 AsyncObject#8 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-07-31 23:40:10,198 AsyncObject#8 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-07-31 23:40:10,200 AsyncObject#9 [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-07-31 23:40:10,200 AsyncObject#9 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-07-31 23:40:10,248 AsyncObject#9 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 42 ms.
+2018-07-31 23:40:10,265 AsyncObject#9 [SkinVersionList] Got in 65 ms
+2018-07-31 23:40:10,296 AsyncObject#8 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 97 ms.
+2018-07-31 23:40:10,351 AsyncObject#8 [ExtraVersionList] Got in 155 ms
+2018-07-31 23:40:11,283 AsyncObject#7 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 1091 ms.
+2018-07-31 23:40:11,340 AsyncObject#7 [OfficialVersionList] Got in 1149 ms
+2018-07-31 23:40:11,341 ExtendedThread#4 [VersionManager] Versions has been refreshed (1192 ms)
+2018-07-31 23:40:11,641 main [Loading] POSTINIT_GUI
+2018-07-31 23:40:11,641 main [Frame] Packing main frame...
+2018-07-31 23:40:11,738 main [Frame] Resizing main pane...
+2018-07-31 23:40:11,739 main Updater is already closed. Showing up...
+2018-07-31 23:40:11,740 main Visibility set.
+2018-07-31 23:40:11,741 main [Loading] REFRESHING_INFO
+2018-07-31 23:40:11,742 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-07-31 23:40:11,743 main Started! (4713 ms.)
+2018-07-31 23:40:11,743 main [Loading] SUCCESS
+2018-07-31 23:40:11,745 ExtendedThread#14 [ServerListManager] Refreshing servers...
+2018-07-31 23:40:11,746 ExtendedThread#14 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2018-07-31 23:40:11,754 ExtendedThread#14 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/configs/servers.json
+2018-07-31 23:40:11,791 main [TLauncher] show tlauncher!!!
+2018-07-31 23:40:11,794 main [Double running] clear time label
+2018-07-31 23:40:11,812 ExtendedThread#14 [REPO][SERVERLIST_REPO] Success: Reached the repo in 56 ms.
+2018-07-31 23:40:11,821 ExtendedThread#14 [ServerListManager] Got in 75 ms
+2018-07-31 23:40:11,822 ExtendedThread#14 [ServerListManager] Servers has been refreshed (76 ms)
+2018-07-31 23:40:11,822 ExtendedThread#14 [ServerListManager] ServerList{[]}
+2018-07-31 23:40:11,895 AsyncObject#16 [ExtraVersionList] Got in 90 ms
+2018-07-31 23:40:11,898 AsyncObject#17 [SkinVersionList] Got in 93 ms
+2018-07-31 23:40:11,912 AsyncObject#15 [OfficialVersionList] Got in 107 ms
+2018-07-31 23:40:11,913 ExtendedThread#4 [VersionManager] Versions has been refreshed (155 ms)
+2018-07-31 23:40:12,191 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/lch/server_info_page.json
+2018-07-31 23:40:12,194 Thread-14 run server on  37842
+2018-07-31 23:40:13,107 ExtendedThread#4 [TLauncher] init popupMenuManager
+2018-07-31 23:40:15,147 ExtendedThread#21      server code 503 -> https://resource.tlrepo.com
+2018-07-31 23:40:38,369 LoopedThread#6 [LoginForm] Login was OK. Trying to launch now.
+2018-07-31 23:40:38,692 LoopedThread#6 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-07-31 23:40:38,693 LoopedThread#6 [Launcher] Running under TLauncher 2.43
+2018-07-31 23:40:38,694 LoopedThread#6 [Launcher] Current machine: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-07-31 23:40:38,695 LoopedThread#6 [Launcher] Collecting info...
+2018-07-31 23:40:38,706 LoopedThread#6 [TLauncherManager] before clearLibrary null
+2018-07-31 23:40:38,710 LoopedThread#6 [TLauncherManager] written:  []
+2018-07-31 23:40:38,711 LoopedThread#6 [TLauncherManager] after clearLibrary null
+2018-07-31 23:40:38,712 LoopedThread#6 [Launcher] Force update: false
+2018-07-31 23:40:38,713 LoopedThread#6 [Launcher] Selected version: latest-release
+2018-07-31 23:40:38,714 LoopedThread#6 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=DrCreeper}
+2018-07-31 23:40:38,716 LoopedThread#6 [Launcher] Version sync info: VersionSyncInfo{id='1.13',
+local=CompleteVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@66d2e6f0, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:0.1.27', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@269bf0fd, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@4b76d77e, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@66d2e6f0}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-07-31 23:40:38,810 LoopedThread#6 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+2018-07-31 23:40:38,813 LoopedThread#6 [Launcher] Checking conditions...
+2018-07-31 23:40:38,840 LoopedThread#6 [Launcher] Comparing assets...
+2018-07-31 23:40:38,841 LoopedThread#6 [AssetsManager] Checking resources...
+2018-07-31 23:40:38,842 LoopedThread#6 [AssetsManager] Reading indexes from file C:\Programs\Minecraft\assets\indexes\1.13.json
+2018-07-31 23:40:38,868 LoopedThread#6 [AssetsManager] Fast comparing: true
+2018-07-31 23:40:39,088 LoopedThread#6 [Launcher] Delta time to compare assets: 247 ms.
+2018-07-31 23:40:39,613 LoopedThread#6 [VersionManager] Required for version 1.13: []
+2018-07-31 23:40:39,614 LoopedThread#6 [Modpack]  got container
+2018-07-31 23:40:39,646 LoopedThread#6 [Launcher] Unpacking natives...
+2018-07-31 23:40:39,659 LoopedThread#6 [Launcher] Constructing process...
+2018-07-31 23:40:39,660 LoopedThread#6 [Launcher] Constructing classpath...
+2018-07-31 23:40:39,665 LoopedThread#6 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;
