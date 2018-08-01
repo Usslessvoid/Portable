@@ -73,3 +73,79 @@
 2018-07-30 19:22:43,780 Thread-2 > Started! (3630 ms.)
 2018-07-30 19:22:43,780 Thread-2 > [Loading] SUCCESS
 2018-07-30 19:22:43,781 Thread-2 [Bootstrapper] I can be terminated now.
+2018-08-01 01:44:23,786 main 
+2018-08-01 01:44:23,786 main -------------------------------------------------------------------
+2018-08-01 01:44:23,887 main [Bootstrapper] createLauncher
+2018-08-01 01:44:23,888 main [Bootstrapper] validate files
+2018-08-01 01:44:24,025 main [Bootstrapper] end validated files
+2018-08-01 01:44:24,026 main [Bootstrapper] Starting launcher...
+2018-08-01 01:44:24,133 Thread-2 > [TLAUNCHER][STATIC] initialize inner config
+2018-08-01 01:44:24,251 Thread-2 > [Loading] INITALIZING
+2018-08-01 01:44:24,841 Thread-2 > Starting TLauncher 2.43
+2018-08-01 01:44:24,841 Thread-2 > For more information, visit https://tlauncher.org/
+2018-08-01 01:44:24,845 Thread-2 > Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-08-01 01:44:24,846 Thread-2 > Startup time: 01.08.2018 1:44:24
+2018-08-01 01:44:24,846 Thread-2 > ---
+2018-08-01 01:44:24,959 Thread-2 > [Loading] LOADING_CONFIGURATION
+2018-08-01 01:44:24,960 Thread-2 > Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+2018-08-01 01:44:24,965 Thread-2 > [Configuration] Constant values: {}
+2018-08-01 01:44:24,992 Thread-2 > Selected locale: ru_RU
+2018-08-01 01:44:25,056 Thread-2 > [Loading] LOADING_CONSOLE
+2018-08-01 01:44:25,381 Thread-2 > [Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+2018-08-01 01:44:25,628 Thread-2 > 
+2018-08-01 01:44:25,639 Thread-2 > [Downloader2] Loaded configuration: good
+2018-08-01 01:44:25,776 Thread-2 > [Updater] Requesting an update...
+2018-08-01 01:44:25,780 Thread-2 > [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-01 01:44:25,781 Thread-2 > [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-08-01 01:44:25,895 Thread-2 > [Updater] Request time: 117 ms
+2018-08-01 01:44:25,896 Thread-2 > [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-01 01:44:25,909 Thread-2 > [Browser] Loading resources...
+2018-08-01 01:44:26,068 Thread-2 > [Browser] Loading background...
+2018-08-01 01:44:26,179 Thread-2 > [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-08-01 01:44:26,182 Thread-2 > [Browser] Cleaning up after loading:
+2018-08-01 01:44:26,182 Thread-2 > Starting garbage collector: 40 / 87 MB
+2018-08-01 01:44:26,244 Thread-2 > Garbage collector completed: 14 / 109 MB
+2018-08-01 01:44:26,246 Thread-2 > [Loading] LOADING_MANAGERS
+2018-08-01 01:44:26,257 Thread-2 > [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-08-01 01:44:26,262 Thread-2 > [Browser] Running in JavaFX Thread
+2018-08-01 01:44:26,262 Thread-2 > [Browser] Preparing JavaFX...
+2018-08-01 01:44:26,272 Thread-2 > [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-08-01 01:44:26,275 Thread-2 > [TLauncherManager] Refresh allowed: true
+2018-08-01 01:44:26,275 Thread-2 > [TLauncherManager] Refreshing TLauncher...
+2018-08-01 01:44:26,276 Thread-2 > [AdvertisingStatusObserver]  started to get ad information
+2018-08-01 01:44:26,276 Thread-2 > [AdvertisingStatusObserver]  finished to get add information
+2018-08-01 01:44:26,280 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-08-01 01:44:26,283 Thread-2 > [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-08-01 01:44:26,328 Thread-2 > [Browser] Initializing...
+2018-08-01 01:44:26,348 Thread-2 > [TLauncherManager] Refreshed successfully!
+2018-08-01 01:44:26,802 Thread-2 > [Loading] LOADING_WINDOW
+2018-08-01 01:44:26,876 Thread-2 > [Loading] PREPARING_MAINPANE
+2018-08-01 01:44:26,966 Thread-2 > [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-08-01 01:44:26,966 Thread-2 > [Browser@1450653726] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-08-01 01:44:27,064 Thread-2 > [Browser] add listens into server_choose
+2018-08-01 01:44:27,340 Thread-2 > [VersionManager] Refreshing versions remotely...
+2018-08-01 01:44:27,355 Thread-2 > [Downloader2] Loaded configuration: good
+2018-08-01 01:44:27,369 Thread-2 > [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-08-01 01:44:27,370 Thread-2 > [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-08-01 01:44:27,371 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-08-01 01:44:27,372 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-08-01 01:44:27,376 Thread-2 > [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-08-01 01:44:27,377 Thread-2 > [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-08-01 01:44:27,413 Thread-2 > [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 42 ms.
+2018-08-01 01:44:27,427 Thread-2 > [SkinVersionList] Got in 57 ms
+2018-08-01 01:44:27,458 Thread-2 > [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 80 ms.
+2018-08-01 01:44:27,488 Thread-2 > [ExtraVersionList] Got in 119 ms
+2018-08-01 01:44:27,930 Thread-2 > [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 557 ms.
+2018-08-01 01:44:27,979 Thread-2 > [OfficialVersionList] Got in 610 ms
+2018-08-01 01:44:27,982 Thread-2 > [VersionManager] Versions has been refreshed (641 ms)
+2018-08-01 01:44:28,552 Thread-2 > [Loading] POSTINIT_GUI
+2018-08-01 01:44:28,552 Thread-2 > [Frame] Packing main frame...
+2018-08-01 01:44:28,600 Thread-2 > [Frame] Resizing main pane...
+2018-08-01 01:44:28,600 Thread-2 > Updater is already closed. Showing up...
+2018-08-01 01:44:28,601 Thread-2 > Visibility set.
+2018-08-01 01:44:28,601 Thread-2 > [Loading] REFRESHING_INFO
+2018-08-01 01:44:28,602 Thread-2 > [VersionManager] Refreshing versions remotely...
+2018-08-01 01:44:28,604 Thread-2 > [ServerListManager] Refreshing servers...
+2018-08-01 01:44:28,605 Thread-2 > Started! (3645 ms.)
+2018-08-01 01:44:28,607 Thread-2 > [Loading] SUCCESS
+2018-08-01 01:44:28,607 Thread-2 [Bootstrapper] I can be terminated now.

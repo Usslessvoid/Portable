@@ -325,4 +325,715 @@ remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed 
 2018-07-31 23:40:39,659 LoopedThread#6 [Launcher] Constructing process...
 2018-07-31 23:40:39,660 LoopedThread#6 [Launcher] Constructing classpath...
 2018-07-31 23:40:39,665 LoopedThread#6 [Launcher] Half command (characters are not escaped):
-C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Programs\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Programs\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Programs\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Programs\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Programs\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Programs\Minecraft\libraries\com\mojang\brigadier\0.1.27\brigadier-0.1.27.jar;C:\Programs\Minecraft\libraries\com\mojang\datafixerupper\1.0.16\datafixerupper-1.0.16.jar;C:\Programs\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Programs\Minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Programs\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Programs\Minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Programs\Minecraft\libraries\com\mojang\realms\1.13.3\realms-1.13.3.jar;C:\Programs\Minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Programs\Minecraft\versions\1.13\1.13.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main
+2018-07-31 23:40:39,726 LoopedThread#6 [Launcher] Getting Minecraft arguments...
+2018-07-31 23:40:40,002 LoopedThread#6 read servers from servers.dat []
+2018-07-31 23:40:40,003 LoopedThread#6 [InnerMinecraftServersImpl]  search removed servers
+2018-07-31 23:40:40,004 LoopedThread#6 [InnerMinecraftServersImpl]  prepare inner servers
+2018-07-31 23:40:40,007 LoopedThread#6 save servers to servers.dat []
+2018-07-31 23:40:40,009 LoopedThread#6 [Launcher] Launching Minecraft...
+2018-07-31 23:40:40,012 LoopedThread#6 I'm hiding!
+2018-07-31 23:40:40,013 LoopedThread#6 [TLauncherManager] before onMinecraftLaunch null
+2018-07-31 23:40:40,015 LoopedThread#6 [TLauncherManager] read from  C:\Programs\Minecraft\TempOptifineStore-1.0.json []
+2018-07-31 23:40:40,018 LoopedThread#6 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-07-31 23:40:40,019 LoopedThread#6 [TLauncherManager] after onMinecraftLaunch null
+2018-07-31 23:40:40,020 LoopedThread#6 [Launcher] Starting Minecraft latest-release...
+2018-07-31 23:40:40,022 LoopedThread#6 [Launcher] Launching in: C:\Programs\Minecraft
+2018-07-31 23:40:40,029 LoopedThread#6 [Launcher] Processing post-launch actions. Assist launch: true
+2018-07-31 23:40:41,711 Thread-18 ===============================================================================================
+2018-07-31 23:40:41,713 Thread-18 > [23:40:41] [Client thread/INFO]: Setting user: DrCreeper
+2018-07-31 23:40:45,127 Thread-18 > [23:40:45] [Client thread/WARN]: Skipping bad option: lastServer:
+2018-07-31 23:40:45,232 Thread-18 > [23:40:45] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-07-31 23:40:48,175 Thread-18 > [23:40:48] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-07-31 23:40:48,834 Thread-18 > [23:40:48] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-07-31 23:40:49,058 Thread-18 > [23:40:49] [Thread-2/INFO]: Initializing No Sound
+2018-07-31 23:40:49,061 Thread-18 > [23:40:49] [Thread-2/INFO]: (Silent Mode)
+2018-07-31 23:40:49,909 Thread-18 > [23:40:49] [Thread-2/INFO]: OpenAL initialized.
+2018-07-31 23:40:49,977 Thread-18 > [23:40:49] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-07-31 23:40:50,023 Thread-18 > [23:40:49] [Sound Library Loader/INFO]: Sound engine started
+2018-07-31 23:40:53,002 Thread-18 > [23:40:53] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-07-31 23:40:55,375 Thread-18 > [23:40:55] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-07-31 23:40:56,634 Thread-18 > [23:40:56] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-07-31 23:56:15,663 Thread-18 > [23:56:15] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-07-31 23:56:15,668 Thread-18 > [23:56:15] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-07-31 23:56:15,671 Thread-18 > [23:56:15] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-07-31 23:56:15,674 Thread-18 > [23:56:15] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-07-31 23:56:15,678 Thread-18 > [23:56:15] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-07-31 23:56:15,710 Thread-18 > [23:56:15] [Client thread/INFO]: Loaded 0 recipes
+2018-07-31 23:56:15,714 Thread-18 > [23:56:15] [Client thread/INFO]: Loaded 0 advancements
+2018-07-31 23:56:15,726 Thread-18 > [23:56:15] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-07-31 23:56:15,730 Thread-18 > [23:56:15] [Server thread/INFO]: Generating keypair
+2018-07-31 23:56:15,909 Thread-18 > [23:56:15] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-07-31 23:56:16,458 Thread-18 > [23:56:16] [Server thread/INFO]: Loaded 524 recipes
+2018-07-31 23:56:17,121 Thread-18 > [23:56:17] [Server thread/INFO]: Loaded 571 advancements
+2018-07-31 23:56:17,221 Thread-18 > [23:56:17] [Server thread/INFO]: Preparing start region for level 0
+2018-07-31 23:56:17,375 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-07-31 23:56:17,416 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-07-31 23:56:17,455 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-07-31 23:56:17,506 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-07-31 23:56:17,546 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-07-31 23:56:17,606 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-07-31 23:56:17,651 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-07-31 23:56:17,685 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-07-31 23:56:17,717 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-07-31 23:56:17,762 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-07-31 23:56:17,841 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-07-31 23:56:17,896 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-07-31 23:56:17,960 Thread-18 > [23:56:17] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-07-31 23:56:18,046 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-07-31 23:56:18,096 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-07-31 23:56:18,147 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-07-31 23:56:18,185 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-07-31 23:56:18,213 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-07-31 23:56:18,244 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-07-31 23:56:18,273 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-07-31 23:56:18,313 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-07-31 23:56:18,351 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-07-31 23:56:18,387 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-07-31 23:56:18,420 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-07-31 23:56:18,447 Thread-18 > [23:56:18] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-07-31 23:56:18,450 Thread-18 > [23:56:18] [Server thread/INFO]: Time elapsed: 1223 ms
+2018-07-31 23:56:18,796 Thread-18 > [23:56:18] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-07-31 23:56:20,010 Thread-18 > [23:56:20] [Server thread/INFO]: DrCreeper[local:E:0cbba8b2] logged in with entity id 685 at (-225.79152602077576, 58.0, 282.52703547303105)
+2018-07-31 23:56:20,034 Thread-18 > [23:56:20] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-07-31 23:56:21,342 Thread-18 > [23:56:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+2018-07-31 23:56:21,344 Thread-18 > [23:56:21] [Server thread/INFO]: Saving and pausing game...
+2018-07-31 23:56:21,383 Thread-18 > [23:56:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-31 23:56:21,728 Thread-18 > [23:56:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-31 23:56:21,730 Thread-18 > [23:56:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-31 23:56:23,114 Thread-18 > [23:56:23] [Client thread/INFO]: Loaded 311 advancements
+2018-07-31 23:56:38,367 Thread-18 > [23:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+2018-07-31 23:57:19,100 Thread-18 > [23:57:19] [Server thread/INFO]: Saving and pausing game...
+2018-07-31 23:57:19,119 Thread-18 > [23:57:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-31 23:57:19,368 Thread-18 > [23:57:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-31 23:57:19,371 Thread-18 > [23:57:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-31 23:58:35,951 Thread-18 > [23:58:35] [Server thread/INFO]: Saving and pausing game...
+2018-07-31 23:58:35,963 Thread-18 > [23:58:35] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-31 23:58:36,161 Thread-18 > [23:58:36] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-31 23:58:36,163 Thread-18 > [23:58:36] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-07-31 23:58:45,298 Thread-18 > [23:58:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4698ms or 93 ticks behind
+2018-07-31 23:58:45,900 Thread-18 > [23:58:45] [Server thread/INFO]: Saving and pausing game...
+2018-07-31 23:58:45,909 Thread-18 > [23:58:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-07-31 23:58:46,032 Thread-18 > [23:58:46] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-07-31 23:58:46,034 Thread-18 > [23:58:46] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:01:16,254 Thread-18 > [00:01:16] [Client thread/INFO]: Loaded 317 advancements
+2018-08-01 00:02:20,057 Thread-18 > [00:02:20] [Client thread/INFO]: Loaded 318 advancements
+2018-08-01 00:07:22,529 Thread-18 > [00:07:22] [Server thread/INFO]: DrCreeper был убит Визер
+2018-08-01 00:07:22,533 Thread-18 > [00:07:22] [Client thread/INFO]: [CHAT] DrCreeper был убит Визер
+2018-08-01 00:07:28,399 Thread-18 > [00:07:28] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-01 00:12:12,420 Thread-18 > [00:12:12] [Server thread/INFO]: DrCreeper был убит Визер
+2018-08-01 00:12:12,430 Thread-18 > [00:12:12] [Client thread/INFO]: [CHAT] DrCreeper был убит Визер
+2018-08-01 00:12:15,512 Thread-18 > [00:12:15] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-01 00:12:15,773 Thread-18 > [00:12:15] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-01 00:13:46,550 Thread-18 > [00:13:46] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:13:46,562 Thread-18 > [00:13:46] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:13:46,681 Thread-18 > [00:13:46] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:13:46,684 Thread-18 > [00:13:46] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:13:49,337 Thread-18 > [00:13:49] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 00:13:49,338 Thread-18 > [00:13:49] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 00:13:49,344 Thread-18 > [00:13:49] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 00:13:49,350 Thread-18 > [00:13:49] [Server thread/INFO]: Stopping server
+2018-08-01 00:13:49,352 Thread-18 > [00:13:49] [Server thread/INFO]: Saving players
+2018-08-01 00:13:49,353 Thread-18 > [00:13:49] [Server thread/INFO]: Saving worlds
+2018-08-01 00:13:49,354 Thread-18 > [00:13:49] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:13:50,225 Thread-18 > [00:13:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:13:50,227 Thread-18 > [00:13:50] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:13:54,293 Thread-18 > [00:13:54] [Client thread/INFO]: Stopping!
+2018-08-01 00:13:54,934 Thread-18 > [00:13:54] [Client thread/INFO]: SoundSystem shutting down...
+2018-08-01 00:13:55,150 Thread-18 > [00:13:55] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-08-01 00:13:55,514 Thread-18 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-08-01 00:13:55,605 Thread-18 Here I am!
+2018-08-01 00:13:55,639 Thread-18 [VersionManager] Refreshing versions locally...
+2018-08-01 00:13:55,645 Thread-18 [VersionManager] Versions has been refreshed (5 ms)
+2018-08-01 00:13:55,659 Thread-18 [Launcher] Minecraft closed with exit code: 0
+2018-08-01 00:13:55,660 LoopedThread#6 [Launcher] Launcher exited.
+2018-08-01 00:14:48,162 LoopedThread#6 [LoginForm] Login was OK. Trying to launch now.
+2018-08-01 00:14:48,458 LoopedThread#6 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-08-01 00:14:48,458 LoopedThread#6 [Launcher] Running under TLauncher 2.43
+2018-08-01 00:14:48,459 LoopedThread#6 [Launcher] Current machine: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-08-01 00:14:48,461 LoopedThread#6 [Launcher] Collecting info...
+2018-08-01 00:14:48,472 LoopedThread#6 [TLauncherManager] before clearLibrary null
+2018-08-01 00:14:48,474 LoopedThread#6 [TLauncherManager] written:  []
+2018-08-01 00:14:48,475 LoopedThread#6 [TLauncherManager] after clearLibrary null
+2018-08-01 00:14:48,476 LoopedThread#6 [Launcher] Force update: false
+2018-08-01 00:14:48,476 LoopedThread#6 [Launcher] Selected version: latest-release
+2018-08-01 00:14:48,477 LoopedThread#6 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=DrCreeper}
+2018-08-01 00:14:48,478 LoopedThread#6 [Launcher] Version sync info: VersionSyncInfo{id='1.13',
+local=CompleteVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@66d2e6f0, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:0.1.27', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@3e96048c, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@3aa98786, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@66d2e6f0}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-08-01 00:14:48,540 LoopedThread#6 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+2018-08-01 00:14:48,541 LoopedThread#6 [Launcher] Checking conditions...
+2018-08-01 00:14:48,542 LoopedThread#6 [Launcher] Comparing assets...
+2018-08-01 00:14:48,543 LoopedThread#6 [AssetsManager] Checking resources...
+2018-08-01 00:14:48,543 LoopedThread#6 [AssetsManager] Reading indexes from file C:\Programs\Minecraft\assets\indexes\1.13.json
+2018-08-01 00:14:48,555 LoopedThread#6 [AssetsManager] Fast comparing: true
+2018-08-01 00:14:48,636 LoopedThread#6 [Launcher] Delta time to compare assets: 93 ms.
+2018-08-01 00:14:48,865 LoopedThread#6 [VersionManager] Required for version 1.13: []
+2018-08-01 00:14:48,866 LoopedThread#6 [Modpack]  got container
+2018-08-01 00:14:48,882 LoopedThread#6 [Launcher] Unpacking natives...
+2018-08-01 00:14:48,889 LoopedThread#6 [Launcher] Constructing process...
+2018-08-01 00:14:48,890 LoopedThread#6 [Launcher] Constructing classpath...
+2018-08-01 00:14:48,894 LoopedThread#6 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Programs\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Programs\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Programs\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Programs\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Programs\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Programs\Minecraft\libraries\com\mojang\brigadier\0.1.27\brigadier-0.1.27.jar;C:\Programs\Minecraft\libraries\com\mojang\datafixerupper\1.0.16\datafixerupper-1.0.16.jar;C:\Programs\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Programs\Minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Programs\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Programs\Minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Programs\Minecraft\libraries\com\mojang\realms\1.13.3\realms-1.13.3.jar;C:\Programs\Minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Programs\Minecraft\versions\1.13\1.13.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main
+2018-08-01 00:14:48,945 LoopedThread#6 [Launcher] Getting Minecraft arguments...
+2018-08-01 00:14:48,946 LoopedThread#6 read servers from servers.dat []
+2018-08-01 00:14:48,947 LoopedThread#6 [InnerMinecraftServersImpl]  search removed servers
+2018-08-01 00:14:48,948 LoopedThread#6 [InnerMinecraftServersImpl]  prepare inner servers
+2018-08-01 00:14:48,949 LoopedThread#6 save servers to servers.dat []
+2018-08-01 00:14:48,951 LoopedThread#6 [Launcher] Launching Minecraft...
+2018-08-01 00:14:48,954 LoopedThread#6 I'm hiding!
+2018-08-01 00:14:48,955 LoopedThread#6 [TLauncherManager] before onMinecraftLaunch null
+2018-08-01 00:14:48,958 LoopedThread#6 [TLauncherManager] read from  C:\Programs\Minecraft\TempOptifineStore-1.0.json []
+2018-08-01 00:14:48,960 LoopedThread#6 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-08-01 00:14:48,962 LoopedThread#6 [TLauncherManager] after onMinecraftLaunch null
+2018-08-01 00:14:48,963 LoopedThread#6 [Launcher] Starting Minecraft latest-release...
+2018-08-01 00:14:48,964 LoopedThread#6 [Launcher] Launching in: C:\Programs\Minecraft
+2018-08-01 00:14:48,967 LoopedThread#6 [Launcher] Processing post-launch actions. Assist launch: true
+2018-08-01 00:14:50,264 Thread-88 ===============================================================================================
+2018-08-01 00:14:50,266 Thread-88 > [00:14:50] [Client thread/INFO]: Setting user: DrCreeper
+2018-08-01 00:14:52,477 Thread-88 > [00:14:52] [Client thread/WARN]: Skipping bad option: lastServer:
+2018-08-01 00:14:52,596 Thread-88 > [00:14:52] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-08-01 00:14:54,714 Thread-88 > [00:14:54] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 00:14:55,303 Thread-88 > [00:14:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-08-01 00:14:55,540 Thread-88 > [00:14:55] [Thread-2/INFO]: Initializing No Sound
+2018-08-01 00:14:55,541 Thread-88 > [00:14:55] [Thread-2/INFO]: (Silent Mode)
+2018-08-01 00:14:56,673 Thread-88 > [00:14:56] [Thread-2/INFO]: OpenAL initialized.
+2018-08-01 00:14:56,680 Thread-88 > [00:14:56] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-08-01 00:14:56,683 Thread-88 > [00:14:56] [Sound Library Loader/INFO]: Sound engine started
+2018-08-01 00:14:59,233 Thread-88 > [00:14:59] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-08-01 00:15:01,625 Thread-88 > [00:15:01] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-08-01 00:15:02,863 Thread-88 > [00:15:02] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-08-01 00:15:14,853 Thread-88 > [00:15:14] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:15:14,857 Thread-88 > [00:15:14] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:15:14,860 Thread-88 > [00:15:14] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:15:14,862 Thread-88 > [00:15:14] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:15:14,866 Thread-88 > [00:15:14] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:15:14,894 Thread-88 > [00:15:14] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 00:15:14,898 Thread-88 > [00:15:14] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 00:15:14,906 Thread-88 > [00:15:14] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 00:15:14,909 Thread-88 > [00:15:14] [Server thread/INFO]: Generating keypair
+2018-08-01 00:15:15,053 Thread-88 > [00:15:15] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 00:15:15,518 Thread-88 > [00:15:15] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 00:15:16,080 Thread-88 > [00:15:16] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 00:15:16,164 Thread-88 > [00:15:16] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 00:15:16,302 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 00:15:16,348 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 00:15:16,379 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 00:15:16,422 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 00:15:16,460 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 00:15:16,507 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 00:15:16,554 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 00:15:16,590 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 00:15:16,621 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 00:15:16,668 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 00:15:16,732 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 00:15:16,779 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 00:15:16,836 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 00:15:16,879 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 00:15:16,934 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 00:15:16,975 Thread-88 > [00:15:16] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 00:15:17,014 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 00:15:17,038 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 00:15:17,068 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 00:15:17,096 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 00:15:17,119 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 00:15:17,142 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 00:15:17,171 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 00:15:17,203 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 00:15:17,234 Thread-88 > [00:15:17] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 00:15:17,235 Thread-88 > [00:15:17] [Server thread/INFO]: Time elapsed: 1066 ms
+2018-08-01 00:15:17,550 Thread-88 > [00:15:17] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 00:15:18,531 Thread-88 > [00:15:18] [Server thread/INFO]: DrCreeper[local:E:5a735278] logged in with entity id 697 at (-188.69650177958448, 31.0, 201.69999998807907)
+2018-08-01 00:15:18,562 Thread-88 > [00:15:18] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 00:15:19,723 Thread-88 > [00:15:19] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:15:19,809 Thread-88 > [00:15:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:15:20,046 Thread-88 > [00:15:20] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:15:20,048 Thread-88 > [00:15:20] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:15:20,049 Thread-88 > [00:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+2018-08-01 00:15:21,164 Thread-88 > [00:15:21] [Client thread/INFO]: Loaded 318 advancements
+2018-08-01 00:15:28,087 Thread-88 > [00:15:28] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:15:28,109 Thread-88 > [00:15:28] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:15:28,282 Thread-88 > [00:15:28] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:15:28,283 Thread-88 > [00:15:28] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:15:29,482 Thread-88 > [00:15:29] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 00:15:29,484 Thread-88 > [00:15:29] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 00:15:29,500 Thread-88 > [00:15:29] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 00:15:29,502 Thread-88 > [00:15:29] [Server thread/INFO]: Stopping server
+2018-08-01 00:15:29,503 Thread-88 > [00:15:29] [Server thread/INFO]: Saving players
+2018-08-01 00:15:29,504 Thread-88 > [00:15:29] [Server thread/INFO]: Saving worlds
+2018-08-01 00:15:29,505 Thread-88 > [00:15:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:15:29,650 Thread-88 > [00:15:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:15:29,654 Thread-88 > [00:15:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:16:34,693 Thread-88 > [00:16:34] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:16:34,700 Thread-88 > [00:16:34] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:16:34,704 Thread-88 > [00:16:34] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:16:34,708 Thread-88 > [00:16:34] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:16:34,718 Thread-88 > [00:16:34] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:16:34,722 Thread-88 > [00:16:34] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 00:16:34,723 Thread-88 > [00:16:34] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 00:16:34,727 Thread-88 > [00:16:34] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 00:16:34,729 Thread-88 > [00:16:34] [Server thread/INFO]: Generating keypair
+2018-08-01 00:16:34,747 Thread-88 > [00:16:34] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 00:16:35,037 Thread-88 > [00:16:35] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 00:16:35,426 Thread-88 > [00:16:35] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 00:16:35,437 Thread-88 > [00:16:35] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 00:16:35,472 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 00:16:35,494 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 00:16:35,527 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 00:16:35,551 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 00:16:35,578 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 00:16:35,618 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 00:16:35,642 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 00:16:35,666 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 00:16:35,693 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 00:16:35,722 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 00:16:35,767 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 00:16:35,798 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 00:16:35,832 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 00:16:35,870 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 00:16:35,911 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 00:16:35,942 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 00:16:35,980 Thread-88 > [00:16:35] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 00:16:36,007 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 00:16:36,040 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 00:16:36,090 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 00:16:36,122 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 00:16:36,144 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 00:16:36,165 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 00:16:36,200 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 00:16:36,232 Thread-88 > [00:16:36] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 00:16:36,234 Thread-88 > [00:16:36] [Server thread/INFO]: Time elapsed: 795 ms
+2018-08-01 00:16:36,278 Thread-88 > [00:16:36] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 00:16:36,431 Thread-88 > [00:16:36] [Server thread/INFO]: DrCreeper[local:E:d9d941ca] logged in with entity id 1732 at (-225.79152602077576, 58.0, 282.52703547303105)
+2018-08-01 00:16:36,436 Thread-88 > [00:16:36] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 00:16:37,393 Thread-88 > [00:16:37] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:16:37,399 Thread-88 > [00:16:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:16:37,509 Thread-88 > [00:16:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:16:37,511 Thread-88 > [00:16:37] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:16:38,344 Thread-88 > [00:16:38] [Client thread/INFO]: Loaded 311 advancements
+2018-08-01 00:16:40,710 Thread-88 > [00:16:40] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:16:40,727 Thread-88 > [00:16:40] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:16:40,944 Thread-88 > [00:16:40] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:16:40,946 Thread-88 > [00:16:40] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:18:27,569 Thread-88 > [00:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4437ms or 88 ticks behind
+2018-08-01 00:19:43,092 Thread-88 > [00:19:43] [Client thread/INFO]: Loaded 317 advancements
+2018-08-01 00:23:16,732 Thread-88 > [00:23:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:23:16,740 Thread-88 > [00:23:16] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:23:16,836 Thread-88 > [00:23:16] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:23:16,837 Thread-88 > [00:23:16] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:24:55,340 Thread-88 > [00:24:55] [Client thread/INFO]: Loaded 318 advancements
+2018-08-01 00:26:45,632 Thread-88 > [00:26:45] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:26:45,637 Thread-88 > [00:26:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:26:45,794 Thread-88 > [00:26:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:26:45,801 Thread-88 > [00:26:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:28:53,909 Thread-88 > [00:28:53] [Server thread/INFO]: DrCreeper иссушён
+2018-08-01 00:28:53,919 Thread-88 > [00:28:53] [Client thread/INFO]: [CHAT] DrCreeper иссушён
+2018-08-01 00:28:57,542 Thread-88 > [00:28:57] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-01 00:30:05,783 Thread-88 > [00:30:05] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:30:05,791 Thread-88 > [00:30:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:30:06,068 Thread-88 > [00:30:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:30:06,073 Thread-88 > [00:30:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:30:06,421 Thread-88 > [00:30:06] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 00:30:06,423 Thread-88 > [00:30:06] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 00:30:06,433 Thread-88 > [00:30:06] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 00:30:06,436 Thread-88 > [00:30:06] [Server thread/INFO]: Stopping server
+2018-08-01 00:30:06,437 Thread-88 > [00:30:06] [Server thread/INFO]: Saving players
+2018-08-01 00:30:06,439 Thread-88 > [00:30:06] [Server thread/INFO]: Saving worlds
+2018-08-01 00:30:06,440 Thread-88 > [00:30:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:30:07,400 Thread-88 > [00:30:07] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:30:07,401 Thread-88 > [00:30:07] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:30:35,407 Thread-88 > [00:30:35] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:30:35,409 Thread-88 > [00:30:35] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:30:35,412 Thread-88 > [00:30:35] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:30:35,416 Thread-88 > [00:30:35] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:30:35,419 Thread-88 > [00:30:35] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:30:35,423 Thread-88 > [00:30:35] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 00:30:35,424 Thread-88 > [00:30:35] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 00:30:35,425 Thread-88 > [00:30:35] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 00:30:35,427 Thread-88 > [00:30:35] [Server thread/INFO]: Generating keypair
+2018-08-01 00:30:35,493 Thread-88 > [00:30:35] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 00:30:35,774 Thread-88 > [00:30:35] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 00:30:36,199 Thread-88 > [00:30:36] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 00:30:36,209 Thread-88 > [00:30:36] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 00:30:36,244 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 00:30:36,265 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 00:30:36,285 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 00:30:36,305 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 00:30:36,328 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 00:30:36,350 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 00:30:36,375 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 00:30:36,407 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 00:30:36,430 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 00:30:36,453 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 00:30:36,491 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 00:30:36,518 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 00:30:36,555 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 00:30:36,590 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 00:30:36,615 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 00:30:36,641 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 00:30:36,665 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 00:30:36,712 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 00:30:36,737 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 00:30:36,766 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 00:30:36,791 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 00:30:36,812 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 00:30:36,833 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 00:30:36,853 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 00:30:36,872 Thread-88 > [00:30:36] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 00:30:36,873 Thread-88 > [00:30:36] [Server thread/INFO]: Time elapsed: 663 ms
+2018-08-01 00:30:36,897 Thread-88 > [00:30:36] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 00:30:37,086 Thread-88 > [00:30:37] [Server thread/INFO]: DrCreeper[local:E:d919310a] logged in with entity id 30016 at (-225.79152602077576, 58.0, 282.52703547303105)
+2018-08-01 00:30:37,089 Thread-88 > [00:30:37] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 00:30:40,361 Thread-88 > [00:30:40] [Client thread/INFO]: Loaded 311 advancements
+2018-08-01 00:30:40,385 Thread-88 > [00:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+2018-08-01 00:32:56,125 Thread-88 > [00:32:56] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:32:56,134 Thread-88 > [00:32:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:32:56,236 Thread-88 > [00:32:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:32:56,237 Thread-88 > [00:32:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:34:43,426 Thread-88 > [00:34:43] [Client thread/INFO]: Loaded 317 advancements
+2018-08-01 00:35:24,772 Thread-88 > [00:35:24] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:35:24,786 Thread-88 > [00:35:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:35:24,900 Thread-88 > [00:35:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:35:24,903 Thread-88 > [00:35:24] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:35:26,251 Thread-88 > [00:35:26] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 00:35:26,253 Thread-88 > [00:35:26] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 00:35:27,164 Thread-88 > [00:35:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 00:35:27,166 Thread-88 > [00:35:27] [Server thread/INFO]: Stopping server
+2018-08-01 00:35:27,167 Thread-88 > [00:35:27] [Server thread/INFO]: Saving players
+2018-08-01 00:35:27,168 Thread-88 > [00:35:27] [Server thread/INFO]: Saving worlds
+2018-08-01 00:35:27,170 Thread-88 > [00:35:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:35:27,307 Thread-88 > [00:35:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:35:27,309 Thread-88 > [00:35:27] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:35:58,192 Thread-88 > [00:35:58] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:35:58,196 Thread-88 > [00:35:58] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:35:58,200 Thread-88 > [00:35:58] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:35:58,202 Thread-88 > [00:35:58] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:35:58,205 Thread-88 > [00:35:58] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:35:58,206 Thread-88 > [00:35:58] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 00:35:58,207 Thread-88 > [00:35:58] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 00:35:58,208 Thread-88 > [00:35:58] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 00:35:58,208 Thread-88 > [00:35:58] [Server thread/INFO]: Generating keypair
+2018-08-01 00:35:58,227 Thread-88 > [00:35:58] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 00:35:58,485 Thread-88 > [00:35:58] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 00:35:58,836 Thread-88 > [00:35:58] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 00:35:58,840 Thread-88 > [00:35:58] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 00:35:58,874 Thread-88 > [00:35:58] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 00:35:58,896 Thread-88 > [00:35:58] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 00:35:58,916 Thread-88 > [00:35:58] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 00:35:58,937 Thread-88 > [00:35:58] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 00:35:58,959 Thread-88 > [00:35:58] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 00:35:58,982 Thread-88 > [00:35:58] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 00:35:59,009 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 00:35:59,044 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 00:35:59,066 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 00:35:59,091 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 00:35:59,117 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 00:35:59,141 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 00:35:59,171 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 00:35:59,196 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 00:35:59,234 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 00:35:59,271 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 00:35:59,319 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 00:35:59,340 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 00:35:59,362 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 00:35:59,383 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 00:35:59,404 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 00:35:59,425 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 00:35:59,446 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 00:35:59,473 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 00:35:59,493 Thread-88 > [00:35:59] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 00:35:59,494 Thread-88 > [00:35:59] [Server thread/INFO]: Time elapsed: 652 ms
+2018-08-01 00:35:59,531 Thread-88 > [00:35:59] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 00:35:59,653 Thread-88 > [00:35:59] [Server thread/INFO]: DrCreeper[local:E:fe469daf] logged in with entity id 41799 at (-232.58040523646483, 31.0, 211.29210940045712)
+2018-08-01 00:35:59,657 Thread-88 > [00:35:59] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 00:36:00,833 Thread-88 > [00:36:00] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:36:00,844 Thread-88 > [00:36:00] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:36:00,933 Thread-88 > [00:36:00] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:36:00,934 Thread-88 > [00:36:00] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:36:01,483 Thread-88 > [00:36:01] [Client thread/INFO]: Loaded 317 advancements
+2018-08-01 00:39:02,511 Thread-88 > [00:39:02] [Client thread/INFO]: Loaded 318 advancements
+2018-08-01 00:41:58,322 Thread-88 > [00:41:58] [Server thread/INFO]: DrCreeper иссушён
+2018-08-01 00:41:58,328 Thread-88 > [00:41:58] [Client thread/INFO]: [CHAT] DrCreeper иссушён
+2018-08-01 00:41:59,743 Thread-88 > [00:41:59] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:41:59,752 Thread-88 > [00:41:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:41:59,842 Thread-88 > [00:41:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:41:59,843 Thread-88 > [00:41:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:42:02,558 Thread-88 > [00:42:02] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 00:42:02,560 Thread-88 > [00:42:02] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 00:42:02,581 Thread-88 > [00:42:02] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 00:42:02,583 Thread-88 > [00:42:02] [Server thread/INFO]: Stopping server
+2018-08-01 00:42:02,584 Thread-88 > [00:42:02] [Server thread/INFO]: Saving players
+2018-08-01 00:42:02,586 Thread-88 > [00:42:02] [Server thread/INFO]: Saving worlds
+2018-08-01 00:42:02,587 Thread-88 > [00:42:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:42:02,654 Thread-88 > [00:42:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:42:02,656 Thread-88 > [00:42:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:42:23,853 Thread-88 > [00:42:23] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:42:23,855 Thread-88 > [00:42:23] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:42:23,858 Thread-88 > [00:42:23] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:42:23,860 Thread-88 > [00:42:23] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 00:42:23,865 Thread-88 > [00:42:23] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 00:42:23,867 Thread-88 > [00:42:23] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 00:42:23,867 Thread-88 > [00:42:23] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 00:42:23,868 Thread-88 > [00:42:23] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 00:42:23,870 Thread-88 > [00:42:23] [Server thread/INFO]: Generating keypair
+2018-08-01 00:42:23,889 Thread-88 > [00:42:23] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 00:42:24,136 Thread-88 > [00:42:24] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 00:42:24,442 Thread-88 > [00:42:24] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 00:42:24,447 Thread-88 > [00:42:24] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 00:42:24,478 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 00:42:24,499 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 00:42:24,519 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 00:42:24,539 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 00:42:24,561 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 00:42:24,582 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 00:42:24,603 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 00:42:24,625 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 00:42:24,647 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 00:42:24,670 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 00:42:24,699 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 00:42:24,723 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 00:42:24,750 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 00:42:24,774 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 00:42:24,795 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 00:42:24,817 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 00:42:24,844 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 00:42:24,865 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 00:42:24,888 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 00:42:24,944 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 00:42:24,963 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 00:42:24,982 Thread-88 > [00:42:24] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 00:42:25,000 Thread-88 > [00:42:25] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 00:42:25,019 Thread-88 > [00:42:25] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 00:42:25,038 Thread-88 > [00:42:25] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 00:42:25,040 Thread-88 > [00:42:25] [Server thread/INFO]: Time elapsed: 591 ms
+2018-08-01 00:42:25,076 Thread-88 > [00:42:25] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 00:42:25,343 Thread-88 > [00:42:25] [Server thread/INFO]: DrCreeper[local:E:d42904cf] logged in with entity id 51859 at (-232.58040523646483, 31.0, 211.29210940045712)
+2018-08-01 00:42:25,346 Thread-88 > [00:42:25] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 00:42:26,489 Thread-88 > [00:42:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:42:26,496 Thread-88 > [00:42:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:42:26,571 Thread-88 > [00:42:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:42:26,573 Thread-88 > [00:42:26] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:42:27,137 Thread-88 > [00:42:27] [Client thread/INFO]: Loaded 317 advancements
+2018-08-01 00:42:47,209 Thread-88 > [00:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+2018-08-01 00:44:12,088 Thread-88 > [00:44:12] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:44:12,094 Thread-88 > [00:44:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:44:12,165 Thread-88 > [00:44:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:44:12,166 Thread-88 > [00:44:12] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:44:48,899 Thread-88 > [00:44:48] [Client thread/INFO]: Loaded 318 advancements
+2018-08-01 00:48:00,640 Thread-88 > [00:48:00] [Client thread/INFO]: Loaded 319 advancements
+2018-08-01 00:48:03,969 Thread-88 > [00:48:03] [Server thread/INFO]: DrCreeper иссушён
+2018-08-01 00:48:03,976 Thread-88 > [00:48:03] [Client thread/INFO]: [CHAT] DrCreeper иссушён
+2018-08-01 00:48:05,549 Thread-88 > [00:48:05] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-01 00:48:10,223 Thread-88 > [00:48:10] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:48:10,247 Thread-88 > [00:48:10] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:48:10,402 Thread-88 > [00:48:10] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:48:10,403 Thread-88 > [00:48:10] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:48:18,088 Thread-88 > [00:48:18] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:48:18,094 Thread-88 > [00:48:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:48:18,172 Thread-88 > [00:48:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:48:18,174 Thread-88 > [00:48:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:50:05,888 Thread-88 > [00:50:05] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:50:05,893 Thread-88 > [00:50:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:50:05,977 Thread-88 > [00:50:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:50:05,978 Thread-88 > [00:50:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 00:54:22,001 Thread-88 > [00:54:22] [Client thread/INFO]: Loaded 323 advancements
+2018-08-01 00:58:23,652 Thread-88 > [00:58:23] [Client thread/INFO]: Loaded 324 advancements
+2018-08-01 00:58:27,548 Thread-88 > [00:58:27] [Client thread/INFO]: Loaded 325 advancements
+2018-08-01 00:58:38,688 Thread-88 > [00:58:38] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 00:58:38,702 Thread-88 > [00:58:38] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 00:58:38,798 Thread-88 > [00:58:38] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 00:58:38,800 Thread-88 > [00:58:38] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:00:29,089 Thread-88 > [01:00:29] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:00:29,095 Thread-88 > [01:00:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:00:29,190 Thread-88 > [01:00:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:00:29,191 Thread-88 > [01:00:29] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:00:30,388 Thread-88 > [01:00:30] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:00:30,395 Thread-88 > [01:00:30] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:00:30,484 Thread-88 > [01:00:30] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:00:30,485 Thread-88 > [01:00:30] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:04:16,197 Thread-88 > [01:04:16] [Client thread/INFO]: Loaded 326 advancements
+2018-08-01 01:06:16,088 Thread-88 > [01:06:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:06:16,097 Thread-88 > [01:06:16] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:06:16,215 Thread-88 > [01:06:16] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:06:16,218 Thread-88 > [01:06:16] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:06:17,669 Thread-88 > [01:06:17] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 01:06:17,671 Thread-88 > [01:06:17] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 01:06:17,680 Thread-88 > [01:06:17] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 01:06:18,796 Thread-88 > [01:06:18] [Server thread/INFO]: Stopping server
+2018-08-01 01:06:18,801 Thread-88 > [01:06:18] [Server thread/INFO]: Saving players
+2018-08-01 01:06:18,802 Thread-88 > [01:06:18] [Server thread/INFO]: Saving worlds
+2018-08-01 01:06:18,803 Thread-88 > [01:06:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:06:18,924 Thread-88 > [01:06:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:06:18,925 Thread-88 > [01:06:18] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:07:13,204 Thread-88 > [01:07:13] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:07:13,213 Thread-88 > [01:07:13] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:07:13,215 Thread-88 > [01:07:13] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:07:13,221 Thread-88 > [01:07:13] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:07:13,225 Thread-88 > [01:07:13] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:07:13,228 Thread-88 > [01:07:13] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 01:07:13,229 Thread-88 > [01:07:13] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 01:07:13,230 Thread-88 > [01:07:13] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 01:07:13,232 Thread-88 > [01:07:13] [Server thread/INFO]: Generating keypair
+2018-08-01 01:07:13,255 Thread-88 > [01:07:13] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 01:07:13,505 Thread-88 > [01:07:13] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 01:07:13,807 Thread-88 > [01:07:13] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 01:07:13,810 Thread-88 > [01:07:13] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 01:07:13,840 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 01:07:13,859 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 01:07:13,878 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 01:07:13,897 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 01:07:13,917 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 01:07:13,936 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 01:07:13,956 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 01:07:13,976 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 01:07:13,997 Thread-88 > [01:07:13] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 01:07:14,019 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 01:07:14,045 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 01:07:14,070 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 01:07:14,097 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 01:07:14,120 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 01:07:14,141 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 01:07:14,162 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 01:07:14,183 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 01:07:14,205 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 01:07:14,224 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 01:07:14,269 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 01:07:14,289 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 01:07:14,310 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 01:07:14,330 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 01:07:14,350 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 01:07:14,369 Thread-88 > [01:07:14] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 01:07:14,371 Thread-88 > [01:07:14] [Server thread/INFO]: Time elapsed: 558 ms
+2018-08-01 01:07:14,398 Thread-88 > [01:07:14] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 01:07:14,532 Thread-88 > [01:07:14] [Server thread/INFO]: DrCreeper[local:E:efa697ea] logged in with entity id 104561 at (-251.26154480691878, 71.0, 272.5156956257891)
+2018-08-01 01:07:14,543 Thread-88 > [01:07:14] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 01:07:15,865 Thread-88 > [01:07:15] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:07:15,872 Thread-88 > [01:07:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:07:15,961 Thread-88 > [01:07:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:07:15,962 Thread-88 > [01:07:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:07:16,641 Thread-88 > [01:07:16] [Client thread/INFO]: Loaded 326 advancements
+2018-08-01 01:09:00,049 Thread-88 > [01:09:00] [Server thread/INFO]: DrCreeper получил достижение «[Желанный свет]»
+2018-08-01 01:09:00,061 Thread-88 > [01:09:00] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Желанный свет]»
+2018-08-01 01:09:00,110 Thread-88 > [01:09:00] [Client thread/INFO]: Loaded 326 advancements
+2018-08-01 01:12:06,365 Thread-88 > [01:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+2018-08-01 01:12:52,569 Thread-88 > [01:12:52] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:12:52,578 Thread-88 > [01:12:52] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:12:52,748 Thread-88 > [01:12:52] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:12:52,749 Thread-88 > [01:12:52] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:15:40,198 Thread-88 > [01:15:40] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-01 01:18:21,479 Thread-88 > [01:18:21] [Client thread/INFO]: Loaded 328 advancements
+2018-08-01 01:18:47,295 Thread-88 > [01:18:47] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+2018-08-01 01:22:14,241 Thread-88 > [01:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6165ms or 123 ticks behind
+2018-08-01 01:22:14,276 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 9.192260574246461,0.0,4.6152861378105285
+2018-08-01 01:22:14,280 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 9.538596840299192,0.0,4.813508277436426
+2018-08-01 01:22:14,283 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 9.885496464989387,0.0,5.010909337701662
+2018-08-01 01:22:14,285 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 10.233135458795687,0.0,5.207134654900813
+2018-08-01 01:22:14,289 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 10.5816459305953,0.0,5.4019032066198065
+2018-08-01 01:22:14,292 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 10.93112182638015,0.0,5.595001003838945
+2018-08-01 01:22:14,295 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 11.281625647547344,0.0,5.7862716047999925
+2018-08-01 01:22:14,298 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 11.633195905520552,0.0,5.97560396395528
+2018-08-01 01:22:14,301 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 11.949609129314354,0.0,6.146003082680977
+2018-08-01 01:22:14,304 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 12.234381023184824,0.0,6.299362285471489
+2018-08-01 01:22:14,307 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 12.490675720878812,0.0,6.437385564326576
+2018-08-01 01:22:14,314 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 12.721340942692791,0.0,6.561606512005426
+2018-08-01 01:22:14,317 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 12.92893963682593,0.0,6.673405361954735
+2018-08-01 01:22:14,319 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 13.115778456596217,0.0,6.774024324243612
+2018-08-01 01:22:14,321 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 13.283933389934873,0.0,6.86458138790465
+2018-08-01 01:22:14,324 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 13.43527282593061,0.0,6.946082743040563
+2018-08-01 01:22:14,326 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 13.608597159406486,0.0,7.034336485369806
+2018-08-01 01:22:14,329 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 13.80221971027379,0.0,7.127323460773141
+2018-08-01 01:22:14,332 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 14.014739757258099,0.0,7.2226781581976525
+2018-08-01 01:22:14,335 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 14.20600779447716,0.0,7.308497383606266
+2018-08-01 01:22:14,338 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 14.37814902341404,0.0,7.385734684427916
+2018-08-01 01:22:14,341 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 14.533076125353091,0.0,7.4552482533259194
+2018-08-01 01:22:14,344 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 14.672510513404518,0.0,7.517810463676824
+2018-08-01 01:22:14,346 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 14.798001459326429,0.0,7.574116451501027
+2018-08-01 01:22:14,352 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 14.950796139176873,0.0,7.62821608995398
+2018-08-01 01:22:14,355 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 15.128234653953882,0.0,7.679377731104921
+2018-08-01 01:22:14,357 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 15.327896578002878,0.0,7.727037283355628
+2018-08-01 01:22:14,360 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 15.547583326042968,0.0,7.770774506099428
+2018-08-01 01:22:14,363 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 15.785301113750506,0.0,7.810283733381937
+2018-08-01 01:22:14,365 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 16.039244288630243,0.0,7.8453665141649935
+2018-08-01 01:22:14,368 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 16.267793139967466,0.0,7.8769410160332995
+2018-08-01 01:22:14,370 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 16.473487100721968,0.0,7.9053580669619805
+2018-08-01 01:22:14,374 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 16.65861166049683,0.0,7.930933412120282
+2018-08-01 01:22:14,376 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 16.8252237598806,0.0,7.953951222152966
+2018-08-01 01:22:14,378 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 16.975174645353604,0.0,7.974667250633615
+2018-08-01 01:22:14,380 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.110130438704232,0.0,7.993311675772304
+2018-08-01 01:22:14,381 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.23159064950221,0.0,8.010091657952614
+2018-08-01 01:22:14,383 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.340904836324512,0.0,8.025193641514818
+2018-08-01 01:22:14,385 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.439287601858382,0.0,8.038785426360732
+2018-08-01 01:22:14,387 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.527832088493142,0.0,8.05101803239802
+2018-08-01 01:22:14,390 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.60752212435341,0.0,8.062027377539891
+2018-08-01 01:22:14,393 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.679243154727715,0.0,8.07193578790509
+2018-08-01 01:22:14,395 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.743792080354638,0.0,8.08085335699758
+2018-08-01 01:22:14,403 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.088879168968163
+2018-08-01 01:22:14,417 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.096102399550375
+2018-08-01 01:22:14,424 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.102603306902154
+2018-08-01 01:22:14,427 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.108454123363742
+2018-08-01 01:22:14,429 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.113719858039701
+2018-08-01 01:22:14,432 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.118459019122497
+2018-08-01 01:22:14,434 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.122724263984026
+2018-08-01 01:22:14,437 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.126562984257703
+2018-08-01 01:22:14,441 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.130017832412477
+2018-08-01 01:22:14,444 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.13312719566943
+2018-08-01 01:22:14,446 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.135925622526543
+2018-08-01 01:22:14,449 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.13844420663122
+2018-08-01 01:22:14,451 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.140710932265392
+2018-08-01 01:22:14,454 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.142750985282078
+2018-08-01 01:22:14,458 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.144587032948493
+2018-08-01 01:22:14,460 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.146239475804464
+2018-08-01 01:22:14,463 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.147726674335445
+2018-08-01 01:22:14,466 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.149065152977869
+2018-08-01 01:22:14,468 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.150269783724127
+2018-08-01 01:22:14,476 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.15135395136707
+2018-08-01 01:22:14,493 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.152329702219845
+2018-08-01 01:22:14,496 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.153207877964064
+2018-08-01 01:22:14,498 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.153998236112955
+2018-08-01 01:22:14,500 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.154709558428124
+2018-08-01 01:22:14,503 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.155349748494814
+2018-08-01 01:22:14,519 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.155925919539584
+2018-08-01 01:22:14,521 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.156444473466138
+2018-08-01 01:22:14,524 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.156911171987645
+2018-08-01 01:22:14,527 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.1573312006459
+2018-08-01 01:22:14,529 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.157709226428324
+2018-08-01 01:22:14,532 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.15804944962349
+2018-08-01 01:22:14,535 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.15835565049099
+2018-08-01 01:22:14,537 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.158631231264451
+2018-08-01 01:22:14,539 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.158879253954012
+2018-08-01 01:22:14,543 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.159102474368694
+2018-08-01 01:22:14,551 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.159303372736588
+2018-08-01 01:22:14,554 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.159484181262883
+2018-08-01 01:22:14,556 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.159646908932245
+2018-08-01 01:22:14,560 Thread-88 > [01:22:14] [Server thread/WARN]: Лодка (vehicle of DrCreeper) moved too quickly! 17.794444887672398,0.0,8.159793363830772
+2018-08-01 01:25:21,552 Thread-88 > [01:25:21] [Client thread/INFO]: Loaded 328 advancements
+2018-08-01 01:32:24,413 Thread-88 > [01:32:24] [Client thread/INFO]: Loaded 329 advancements
+2018-08-01 01:33:56,137 Thread-88 > [01:33:56] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.slime.squish_small
+2018-08-01 01:33:57,184 Thread-88 > [01:33:57] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.slime.jump_small
+2018-08-01 01:37:04,769 Thread-88 > [01:37:04] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:37:04,774 Thread-88 > [01:37:04] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:37:04,922 Thread-88 > [01:37:04] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:37:04,923 Thread-88 > [01:37:04] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:39:55,919 Thread-88 > [01:39:55] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:39:55,926 Thread-88 > [01:39:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:39:56,056 Thread-88 > [01:39:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:39:56,058 Thread-88 > [01:39:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:39:56,799 Thread-88 > [01:39:56] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 01:39:56,800 Thread-88 > [01:39:56] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 01:39:56,807 Thread-88 > [01:39:56] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 01:39:56,819 Thread-88 > [01:39:56] [Server thread/INFO]: Stopping server
+2018-08-01 01:39:56,821 Thread-88 > [01:39:56] [Server thread/INFO]: Saving players
+2018-08-01 01:39:56,822 Thread-88 > [01:39:56] [Server thread/INFO]: Saving worlds
+2018-08-01 01:39:56,822 Thread-88 > [01:39:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:39:58,276 Thread-88 > [01:39:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:39:58,278 Thread-88 > [01:39:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:40:00,568 Thread-88 > [01:40:00] [Client thread/INFO]: Stopping!
+2018-08-01 01:40:01,839 Thread-88 > [01:40:01] [Client thread/INFO]: SoundSystem shutting down...
+2018-08-01 01:40:02,062 Thread-88 > [01:40:02] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-08-01 01:40:02,419 Thread-88 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-08-01 01:40:02,497 Thread-88 Here I am!
+2018-08-01 01:40:02,527 Thread-88 [VersionManager] Refreshing versions locally...
+2018-08-01 01:40:02,536 Thread-88 [VersionManager] Versions has been refreshed (8 ms)
+2018-08-01 01:40:02,547 Thread-88 [Launcher] Minecraft closed with exit code: 0
+2018-08-01 01:40:02,549 LoopedThread#6 [Launcher] Launcher exited.
+2018-08-01 01:40:04,222 AWT-EventQueue-0 Good bye!

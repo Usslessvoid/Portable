@@ -10,7 +10,7 @@ particles:1
 bobView:true
 maxFps:120
 fboEnable:true
-difficulty:1
+difficulty:2
 fancyGraphics:false
 ao:0
 biomeBlendRadius:2

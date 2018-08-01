@@ -505,3 +505,1038 @@ C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.versi
 2018-07-30 21:34:59,113 Thread-18 [Launcher] Minecraft closed with exit code: 0
 2018-07-30 21:34:59,114 LoopedThread#9 [Launcher] Launcher exited.
 2018-07-30 21:35:01,110 AWT-EventQueue-0 Good bye!
+2018-08-01 01:44:25,638 main [Loading] INITALIZING
+Starting TLauncher 2.43
+For more information, visit https://tlauncher.org/
+Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+Startup time: 01.08.2018 1:44:24
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2018-08-01 01:44:25,638 main [Downloader2] Loaded configuration: good
+2018-08-01 01:44:25,776 ExtendedThread#4 [Updater] Requesting an update...
+2018-08-01 01:44:25,778 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-01 01:44:25,780 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-08-01 01:44:25,895 ExtendedThread#4 [Updater] Request time: 117 ms
+2018-08-01 01:44:25,895 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-01 01:44:25,908 main [Browser] Loading resources...
+2018-08-01 01:44:26,067 main [Browser] Loading background...
+2018-08-01 01:44:26,178 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-08-01 01:44:26,181 main [Browser] Cleaning up after loading:
+2018-08-01 01:44:26,182 main Starting garbage collector: 40 / 87 MB
+2018-08-01 01:44:26,244 main Garbage collector completed: 14 / 109 MB
+2018-08-01 01:44:26,245 main [Loading] LOADING_MANAGERS
+2018-08-01 01:44:26,256 main [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-08-01 01:44:26,261 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2018-08-01 01:44:26,262 JavaFX Application Thread [Browser] Preparing JavaFX...
+2018-08-01 01:44:26,271 main [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-08-01 01:44:26,275 main [TLauncherManager] Refresh allowed: true
+2018-08-01 01:44:26,275 ExtendedThread#4 [TLauncherManager] Refreshing TLauncher...
+2018-08-01 01:44:26,276 main [AdvertisingStatusObserver]  started to get ad information
+2018-08-01 01:44:26,276 main [AdvertisingStatusObserver]  finished to get add information
+2018-08-01 01:44:26,280 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-08-01 01:44:26,283 main [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-08-01 01:44:26,328 JavaFX Application Thread [Browser] Initializing...
+2018-08-01 01:44:26,347 ExtendedThread#4 [TLauncherManager] Refreshed successfully!
+2018-08-01 01:44:26,802 main [Loading] LOADING_WINDOW
+2018-08-01 01:44:26,875 main [Loading] PREPARING_MAINPANE
+2018-08-01 01:44:26,965 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-08-01 01:44:26,966 JavaFX Application Thread [Browser@1450653726] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-08-01 01:44:27,064 JavaFX Application Thread [Browser] add listens into server_choose
+2018-08-01 01:44:27,340 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-01 01:44:27,354 main [Downloader2] Loaded configuration: good
+2018-08-01 01:44:27,369 AsyncObject#9 [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-08-01 01:44:27,369 AsyncObject#9 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-08-01 01:44:27,371 AsyncObject#7 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-08-01 01:44:27,371 AsyncObject#7 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-08-01 01:44:27,376 AsyncObject#8 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-08-01 01:44:27,376 AsyncObject#8 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-08-01 01:44:27,413 AsyncObject#9 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 42 ms.
+2018-08-01 01:44:27,426 AsyncObject#9 [SkinVersionList] Got in 57 ms
+2018-08-01 01:44:27,457 AsyncObject#8 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 80 ms.
+2018-08-01 01:44:27,488 AsyncObject#8 [ExtraVersionList] Got in 119 ms
+2018-08-01 01:44:27,929 AsyncObject#7 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 557 ms.
+2018-08-01 01:44:27,979 AsyncObject#7 [OfficialVersionList] Got in 610 ms
+2018-08-01 01:44:27,982 ExtendedThread#4 [VersionManager] Versions has been refreshed (641 ms)
+2018-08-01 01:44:28,552 main [Loading] POSTINIT_GUI
+2018-08-01 01:44:28,552 main [Frame] Packing main frame...
+2018-08-01 01:44:28,599 main [Frame] Resizing main pane...
+2018-08-01 01:44:28,600 main Updater is already closed. Showing up...
+2018-08-01 01:44:28,600 main Visibility set.
+2018-08-01 01:44:28,601 main [Loading] REFRESHING_INFO
+2018-08-01 01:44:28,602 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-01 01:44:28,603 ExtendedThread#14 [ServerListManager] Refreshing servers...
+2018-08-01 01:44:28,604 main Started! (3645 ms.)
+2018-08-01 01:44:28,605 main [Loading] SUCCESS
+2018-08-01 01:44:28,609 ExtendedThread#14 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2018-08-01 01:44:28,611 ExtendedThread#14 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/configs/servers.json
+2018-08-01 01:44:28,645 main [TLauncher] show tlauncher!!!
+2018-08-01 01:44:28,648 main send unique id  Tue Jul 31 15:22:31 MSK 2018 long value= 1533039751574
+2018-08-01 01:44:28,650 main [Double running] clear time label
+2018-08-01 01:44:28,709 AsyncObject#15 [OfficialVersionList] Got in 54 ms
+2018-08-01 01:44:28,710 ExtendedThread#14 [REPO][SERVERLIST_REPO] Success: Reached the repo in 64 ms.
+2018-08-01 01:44:28,714 AsyncObject#17 [SkinVersionList] Got in 59 ms
+2018-08-01 01:44:28,718 ExtendedThread#14 [ServerListManager] Got in 113 ms
+2018-08-01 01:44:28,718 ExtendedThread#14 [ServerListManager] Servers has been refreshed (113 ms)
+2018-08-01 01:44:28,720 ExtendedThread#14 [ServerListManager] ServerList{[]}
+2018-08-01 01:44:28,802 AsyncObject#16 [ExtraVersionList] Got in 147 ms
+2018-08-01 01:44:28,803 ExtendedThread#4 [VersionManager] Versions has been refreshed (194 ms)
+2018-08-01 01:44:29,007 main #####    all servers are available   ######
+2018-08-01 01:44:29,008 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/lch/server_info_page.json
+2018-08-01 01:44:29,019 Thread-17 run server on  37842
+2018-08-01 01:44:30,001 ExtendedThread#4 [TLauncher] init popupMenuManager
+2018-08-01 01:44:30,526 LoopedThread#6 [LoginForm] Login was OK. Trying to launch now.
+2018-08-01 01:44:30,838 LoopedThread#6 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-08-01 01:44:30,839 LoopedThread#6 [Launcher] Running under TLauncher 2.43
+2018-08-01 01:44:30,840 LoopedThread#6 [Launcher] Current machine: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-08-01 01:44:30,842 LoopedThread#6 [Launcher] Collecting info...
+2018-08-01 01:44:30,857 LoopedThread#6 [TLauncherManager] before clearLibrary null
+2018-08-01 01:44:30,860 LoopedThread#6 [TLauncherManager] written:  []
+2018-08-01 01:44:30,861 LoopedThread#6 [TLauncherManager] after clearLibrary null
+2018-08-01 01:44:30,862 LoopedThread#6 [Launcher] Force update: false
+2018-08-01 01:44:30,863 LoopedThread#6 [Launcher] Selected version: latest-release
+2018-08-01 01:44:30,864 LoopedThread#6 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=DrCreeper}
+2018-08-01 01:44:30,866 LoopedThread#6 [Launcher] Version sync info: VersionSyncInfo{id='1.13',
+local=CompleteVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@1e87d02b, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:0.1.27', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@74e6017d, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@7697a4c3, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@1e87d02b}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-08-01 01:44:30,975 LoopedThread#6 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+2018-08-01 01:44:30,977 LoopedThread#6 [Launcher] Checking conditions...
+2018-08-01 01:44:30,988 LoopedThread#6 [Launcher] Comparing assets...
+2018-08-01 01:44:30,989 LoopedThread#6 [AssetsManager] Checking resources...
+2018-08-01 01:44:30,990 LoopedThread#6 [AssetsManager] Reading indexes from file C:\Programs\Minecraft\assets\indexes\1.13.json
+2018-08-01 01:44:31,012 LoopedThread#6 [AssetsManager] Fast comparing: true
+2018-08-01 01:44:31,099 LoopedThread#6 [Launcher] Delta time to compare assets: 110 ms.
+2018-08-01 01:44:31,324 LoopedThread#6 [VersionManager] Required for version 1.13: []
+2018-08-01 01:44:31,325 LoopedThread#6 [Modpack]  got container
+2018-08-01 01:44:31,352 LoopedThread#6 [Launcher] Unpacking natives...
+2018-08-01 01:44:31,360 LoopedThread#6 [Launcher] Constructing process...
+2018-08-01 01:44:31,361 LoopedThread#6 [Launcher] Constructing classpath...
+2018-08-01 01:44:31,366 LoopedThread#6 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Programs\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Programs\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Programs\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Programs\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Programs\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Programs\Minecraft\libraries\com\mojang\brigadier\0.1.27\brigadier-0.1.27.jar;C:\Programs\Minecraft\libraries\com\mojang\datafixerupper\1.0.16\datafixerupper-1.0.16.jar;C:\Programs\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Programs\Minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Programs\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Programs\Minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Programs\Minecraft\libraries\com\mojang\realms\1.13.3\realms-1.13.3.jar;C:\Programs\Minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Programs\Minecraft\versions\1.13\1.13.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main
+2018-08-01 01:44:31,414 LoopedThread#6 [Launcher] Getting Minecraft arguments...
+2018-08-01 01:44:31,423 LoopedThread#6 read servers from servers.dat []
+2018-08-01 01:44:31,423 LoopedThread#6 [InnerMinecraftServersImpl]  search removed servers
+2018-08-01 01:44:31,424 LoopedThread#6 [InnerMinecraftServersImpl]  prepare inner servers
+2018-08-01 01:44:31,427 LoopedThread#6 save servers to servers.dat []
+2018-08-01 01:44:31,429 LoopedThread#6 [Launcher] Launching Minecraft...
+2018-08-01 01:44:31,433 LoopedThread#6 I'm hiding!
+2018-08-01 01:44:31,435 LoopedThread#6 [TLauncherManager] before onMinecraftLaunch null
+2018-08-01 01:44:31,436 LoopedThread#6 [TLauncherManager] read from  C:\Programs\Minecraft\TempOptifineStore-1.0.json []
+2018-08-01 01:44:31,437 LoopedThread#6 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-08-01 01:44:31,438 LoopedThread#6 [TLauncherManager] after onMinecraftLaunch null
+2018-08-01 01:44:31,439 LoopedThread#6 [Launcher] Starting Minecraft latest-release...
+2018-08-01 01:44:31,440 LoopedThread#6 [Launcher] Launching in: C:\Programs\Minecraft
+2018-08-01 01:44:31,445 LoopedThread#6 [Launcher] Processing post-launch actions. Assist launch: true
+2018-08-01 01:44:32,663 Thread-18 ===============================================================================================
+2018-08-01 01:44:32,665 Thread-18 > [01:44:32] [Client thread/INFO]: Setting user: DrCreeper
+2018-08-01 01:44:34,908 Thread-18 > [01:44:34] [Client thread/WARN]: Skipping bad option: lastServer:
+2018-08-01 01:44:34,926 Thread-18 > [01:44:34] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-08-01 01:44:36,998 Thread-18 > [01:44:36] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 01:44:37,509 Thread-18 > [01:44:37] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-08-01 01:44:37,755 Thread-18 > [01:44:37] [Thread-2/INFO]: Initializing No Sound
+2018-08-01 01:44:37,756 Thread-18 > [01:44:37] [Thread-2/INFO]: (Silent Mode)
+2018-08-01 01:44:38,914 Thread-18 > [01:44:38] [Thread-2/INFO]: OpenAL initialized.
+2018-08-01 01:44:38,942 Thread-18 > [01:44:38] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-08-01 01:44:38,944 Thread-18 > [01:44:38] [Sound Library Loader/INFO]: Sound engine started
+2018-08-01 01:44:41,107 Thread-18 > [01:44:41] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-08-01 01:44:43,003 Thread-18 > [01:44:43] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-08-01 01:44:44,184 Thread-18 > [01:44:44] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-08-01 01:46:46,975 Thread-18 > [01:46:46] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:46:46,979 Thread-18 > [01:46:46] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:46:46,982 Thread-18 > [01:46:46] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:46:46,984 Thread-18 > [01:46:46] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:46:46,988 Thread-18 > [01:46:46] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:46:47,003 Thread-18 > [01:46:47] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 01:46:47,006 Thread-18 > [01:46:47] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 01:46:47,014 Thread-18 > [01:46:47] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 01:46:47,021 Thread-18 > [01:46:47] [Server thread/INFO]: Generating keypair
+2018-08-01 01:46:47,093 Thread-18 > [01:46:47] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 01:46:47,544 Thread-18 > [01:46:47] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 01:46:48,010 Thread-18 > [01:46:48] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 01:46:48,112 Thread-18 > [01:46:48] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 01:46:48,275 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 01:46:48,312 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 01:46:48,353 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 01:46:48,390 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 01:46:48,423 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 01:46:48,467 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 01:46:48,506 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 01:46:48,550 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 01:46:48,578 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 01:46:48,620 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 01:46:48,674 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 01:46:48,723 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 01:46:48,776 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 01:46:48,819 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 01:46:48,887 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 01:46:48,928 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 01:46:48,965 Thread-18 > [01:46:48] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 01:46:49,003 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 01:46:49,032 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 01:46:49,060 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 01:46:49,096 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 01:46:49,117 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 01:46:49,140 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 01:46:49,168 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 01:46:49,203 Thread-18 > [01:46:49] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 01:46:49,204 Thread-18 > [01:46:49] [Server thread/INFO]: Time elapsed: 1088 ms
+2018-08-01 01:46:49,524 Thread-18 > [01:46:49] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 01:46:50,552 Thread-18 > [01:46:50] [Server thread/INFO]: DrCreeper[local:E:ca7f6f20] logged in with entity id 683 at (-230.37456970383838, 71.0, 264.66738841974944)
+2018-08-01 01:46:50,571 Thread-18 > [01:46:50] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 01:46:51,585 Thread-18 > [01:46:51] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:46:51,607 Thread-18 > [01:46:51] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:46:51,866 Thread-18 > [01:46:51] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:46:51,868 Thread-18 > [01:46:51] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:46:53,024 Thread-18 > [01:46:53] [Client thread/INFO]: Loaded 329 advancements
+2018-08-01 01:46:53,596 Thread-18 > [01:46:53] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:46:53,611 Thread-18 > [01:46:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:46:53,831 Thread-18 > [01:46:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:46:53,833 Thread-18 > [01:46:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:46:54,880 Thread-18 > [01:46:54] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 01:46:54,888 Thread-18 > [01:46:54] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 01:46:54,896 Thread-18 > [01:46:54] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 01:46:54,898 Thread-18 > [01:46:54] [Server thread/INFO]: Stopping server
+2018-08-01 01:46:54,899 Thread-18 > [01:46:54] [Server thread/INFO]: Saving players
+2018-08-01 01:46:54,900 Thread-18 > [01:46:54] [Server thread/INFO]: Saving worlds
+2018-08-01 01:46:54,902 Thread-18 > [01:46:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:46:55,058 Thread-18 > [01:46:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:46:55,060 Thread-18 > [01:46:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:46:59,659 Thread-18 > [01:46:59] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:46:59,670 Thread-18 > [01:46:59] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:46:59,675 Thread-18 > [01:46:59] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:46:59,679 Thread-18 > [01:46:59] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:46:59,682 Thread-18 > [01:46:59] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:46:59,685 Thread-18 > [01:46:59] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 01:46:59,686 Thread-18 > [01:46:59] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 01:46:59,687 Thread-18 > [01:46:59] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 01:46:59,689 Thread-18 > [01:46:59] [Server thread/INFO]: Generating keypair
+2018-08-01 01:46:59,710 Thread-18 > [01:46:59] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+2018-08-01 01:46:59,712 Thread-18 > [01:46:59] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 01:47:00,031 Thread-18 > [01:47:00] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 01:47:00,355 Thread-18 > [01:47:00] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 01:47:00,372 Thread-18 > [01:47:00] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 01:47:03,482 Thread-18 > [01:47:03] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 01:47:03,975 Thread-18 > [01:47:03] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 01:47:04,333 Thread-18 > [01:47:04] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 01:47:04,647 Thread-18 > [01:47:04] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 01:47:04,936 Thread-18 > [01:47:04] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 01:47:05,253 Thread-18 > [01:47:05] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 01:47:05,640 Thread-18 > [01:47:05] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 01:47:05,995 Thread-18 > [01:47:05] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 01:47:06,348 Thread-18 > [01:47:06] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 01:47:06,623 Thread-18 > [01:47:06] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 01:47:06,917 Thread-18 > [01:47:06] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 01:47:07,410 Thread-18 > [01:47:07] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 01:47:07,875 Thread-18 > [01:47:07] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 01:47:08,309 Thread-18 > [01:47:08] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 01:47:08,680 Thread-18 > [01:47:08] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 01:47:09,120 Thread-18 > [01:47:09] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 01:47:09,391 Thread-18 > [01:47:09] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 01:47:09,716 Thread-18 > [01:47:09] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 01:47:10,122 Thread-18 > [01:47:10] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 01:47:10,472 Thread-18 > [01:47:10] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 01:47:10,800 Thread-18 > [01:47:10] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 01:47:11,098 Thread-18 > [01:47:11] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 01:47:11,417 Thread-18 > [01:47:11] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 01:47:11,883 Thread-18 > [01:47:11] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 01:47:12,213 Thread-18 > [01:47:12] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 01:47:12,215 Thread-18 > [01:47:12] [Server thread/INFO]: Time elapsed: 11841 ms
+2018-08-01 01:47:19,980 Thread-18 > [01:47:19] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 01:47:19,982 Thread-18 > [01:47:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7703ms or 154 ticks behind
+2018-08-01 01:47:20,674 Thread-18 > [01:47:20] [Server thread/INFO]: DrCreeper[local:E:c080d8a6] logged in with entity id 1571 at (-92.04486230928445, 79.0, 324.2022853239707)
+2018-08-01 01:47:20,683 Thread-18 > [01:47:20] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 01:47:26,871 Thread-18 > [01:47:26] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 01:47:37,622 Thread-18 > [01:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+2018-08-01 01:48:27,522 Thread-18 > [01:48:27] [Server thread/INFO]: DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 01:48:27,525 Thread-18 > [01:48:27] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 01:48:27,555 Thread-18 > [01:48:27] [Client thread/INFO]: Loaded 8 advancements
+2018-08-01 01:48:40,863 Thread-18 > [01:48:40] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:48:40,869 Thread-18 > [01:48:40] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:48:41,058 Thread-18 > [01:48:41] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:48:41,061 Thread-18 > [01:48:41] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:48:45,764 Thread-18 > [01:48:45] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:48:45,770 Thread-18 > [01:48:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:48:45,881 Thread-18 > [01:48:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:48:45,883 Thread-18 > [01:48:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:48:56,913 Thread-18 > [01:48:56] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:48:56,918 Thread-18 > [01:48:56] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:48:57,041 Thread-18 > [01:48:57] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:48:57,044 Thread-18 > [01:48:57] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:50:25,726 Thread-18 > [01:50:25] [Server thread/INFO]: DrCreeper получил достижение «[Куй железо...]»
+2018-08-01 01:50:25,740 Thread-18 > [01:50:25] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Куй железо...]»
+2018-08-01 01:50:25,742 Thread-18 > [01:50:25] [Client thread/INFO]: Loaded 31 advancements
+2018-08-01 01:51:17,183 Thread-18 > [01:51:17] [Server thread/INFO]: DrCreeper получил достижение «[Огненные недра]»
+2018-08-01 01:51:17,185 Thread-18 > [01:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8771ms or 175 ticks behind
+2018-08-01 01:51:17,190 Thread-18 > [01:51:17] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Огненные недра]»
+2018-08-01 01:51:18,436 Thread-18 > [01:51:18] [Client thread/INFO]: Loaded 42 advancements
+2018-08-01 01:52:19,065 Thread-18 > [01:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
+2018-08-01 01:52:57,622 Thread-18 > [01:52:57] [Client thread/INFO]: Loaded 51 advancements
+2018-08-01 01:53:44,464 Thread-18 > [01:53:44] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:53:44,469 Thread-18 > [01:53:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:53:44,592 Thread-18 > [01:53:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:53:44,594 Thread-18 > [01:53:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:53:58,864 Thread-18 > [01:53:58] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:53:58,870 Thread-18 > [01:53:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:53:58,985 Thread-18 > [01:53:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:53:58,986 Thread-18 > [01:53:58] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:54:20,215 Thread-18 > [01:54:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:54:20,220 Thread-18 > [01:54:20] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:54:20,336 Thread-18 > [01:54:20] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:54:20,338 Thread-18 > [01:54:20] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:54:21,024 Thread-18 > [01:54:21] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 01:54:21,026 Thread-18 > [01:54:21] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 01:54:21,031 Thread-18 > [01:54:21] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 01:54:21,832 Thread-18 > [01:54:21] [Server thread/INFO]: Stopping server
+2018-08-01 01:54:21,833 Thread-18 > [01:54:21] [Server thread/INFO]: Saving players
+2018-08-01 01:54:21,834 Thread-18 > [01:54:21] [Server thread/INFO]: Saving worlds
+2018-08-01 01:54:21,835 Thread-18 > [01:54:21] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:54:22,037 Thread-18 > [01:54:22] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:54:22,039 Thread-18 > [01:54:22] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:55:07,987 Thread-18 > [01:55:07] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:55:07,995 Thread-18 > [01:55:07] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:55:07,999 Thread-18 > [01:55:07] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:55:08,002 Thread-18 > [01:55:07] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:55:08,005 Thread-18 > [01:55:07] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:55:08,008 Thread-18 > [01:55:07] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 01:55:08,009 Thread-18 > [01:55:07] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 01:55:08,010 Thread-18 > [01:55:07] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 01:55:08,011 Thread-18 > [01:55:08] [Server thread/INFO]: Generating keypair
+2018-08-01 01:55:08,050 Thread-18 > [01:55:08] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+2018-08-01 01:55:08,051 Thread-18 > [01:55:08] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 01:55:08,333 Thread-18 > [01:55:08] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 01:55:08,688 Thread-18 > [01:55:08] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 01:55:08,693 Thread-18 > [01:55:08] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 01:55:08,860 Thread-18 > [01:55:08] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 01:55:09,005 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 01:55:09,134 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 01:55:09,259 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 01:55:09,388 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 01:55:09,509 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 01:55:09,624 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 01:55:09,750 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 01:55:09,877 Thread-18 > [01:55:09] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 01:55:10,024 Thread-18 > [01:55:10] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 01:55:10,202 Thread-18 > [01:55:10] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 01:55:10,401 Thread-18 > [01:55:10] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 01:55:10,609 Thread-18 > [01:55:10] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 01:55:10,880 Thread-18 > [01:55:10] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 01:55:11,218 Thread-18 > [01:55:11] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 01:55:11,493 Thread-18 > [01:55:11] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 01:55:11,780 Thread-18 > [01:55:11] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 01:55:12,066 Thread-18 > [01:55:12] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 01:55:12,383 Thread-18 > [01:55:12] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 01:55:12,643 Thread-18 > [01:55:12] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 01:55:12,907 Thread-18 > [01:55:12] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 01:55:13,112 Thread-18 > [01:55:13] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 01:55:13,412 Thread-18 > [01:55:13] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 01:55:13,636 Thread-18 > [01:55:13] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 01:55:13,840 Thread-18 > [01:55:13] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 01:55:13,841 Thread-18 > [01:55:13] [Server thread/INFO]: Time elapsed: 5146 ms
+2018-08-01 01:55:15,215 Thread-18 > [01:55:15] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 01:55:15,627 Thread-18 > [01:55:15] [Server thread/INFO]: DrCreeper[local:E:8253bc9c] logged in with entity id 8987 at (311.53265263057426, 67.0, 55.627963183988335)
+2018-08-01 01:55:15,630 Thread-18 > [01:55:15] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 01:55:19,091 Thread-18 > [01:55:19] [Server thread/INFO]: DrCreeper получил достижение «[Каменный век]»
+2018-08-01 01:55:19,106 Thread-18 > [01:55:19] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Каменный век]»
+2018-08-01 01:55:19,159 Thread-18 > [01:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
+2018-08-01 01:55:19,232 Thread-18 > [01:55:19] [Client thread/INFO]: Loaded 51 advancements
+2018-08-01 01:56:17,941 Thread-18 > [01:56:17] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:56:17,946 Thread-18 > [01:56:17] [Server thread/INFO]: Saving chunks for level 'mega mir'/overworld
+2018-08-01 01:56:18,051 Thread-18 > [01:56:18] [Server thread/INFO]: Saving chunks for level 'mega mir'/the_nether
+2018-08-01 01:56:18,053 Thread-18 > [01:56:18] [Server thread/INFO]: Saving chunks for level 'mega mir'/the_end
+2018-08-01 01:56:18,499 Thread-18 > [01:56:18] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 01:56:18,502 Thread-18 > [01:56:18] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 01:56:18,508 Thread-18 > [01:56:18] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 01:56:19,394 Thread-18 > [01:56:19] [Server thread/INFO]: Stopping server
+2018-08-01 01:56:19,396 Thread-18 > [01:56:19] [Server thread/INFO]: Saving players
+2018-08-01 01:56:19,397 Thread-18 > [01:56:19] [Server thread/INFO]: Saving worlds
+2018-08-01 01:56:19,398 Thread-18 > [01:56:19] [Server thread/INFO]: Saving chunks for level 'mega mir'/overworld
+2018-08-01 01:56:19,522 Thread-18 > [01:56:19] [Server thread/INFO]: Saving chunks for level 'mega mir'/the_nether
+2018-08-01 01:56:19,524 Thread-18 > [01:56:19] [Server thread/INFO]: Saving chunks for level 'mega mir'/the_end
+2018-08-01 01:57:42,220 Thread-18 > [01:57:42] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:57:42,223 Thread-18 > [01:57:42] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:57:42,226 Thread-18 > [01:57:42] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:57:42,229 Thread-18 > [01:57:42] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 01:57:42,231 Thread-18 > [01:57:42] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 01:57:42,234 Thread-18 > [01:57:42] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 01:57:42,235 Thread-18 > [01:57:42] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 01:57:42,236 Thread-18 > [01:57:42] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 01:57:42,238 Thread-18 > [01:57:42] [Server thread/INFO]: Generating keypair
+2018-08-01 01:57:42,317 Thread-18 > [01:57:42] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+2018-08-01 01:57:42,319 Thread-18 > [01:57:42] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 01:57:42,574 Thread-18 > [01:57:42] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 01:57:42,900 Thread-18 > [01:57:42] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 01:57:42,903 Thread-18 > [01:57:42] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 01:57:43,110 Thread-18 > [01:57:43] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 01:57:43,346 Thread-18 > [01:57:43] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 01:57:43,530 Thread-18 > [01:57:43] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 01:57:43,758 Thread-18 > [01:57:43] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 01:57:43,975 Thread-18 > [01:57:43] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 01:57:44,209 Thread-18 > [01:57:44] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 01:57:44,484 Thread-18 > [01:57:44] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 01:57:44,771 Thread-18 > [01:57:44] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 01:57:45,102 Thread-18 > [01:57:45] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 01:57:45,330 Thread-18 > [01:57:45] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 01:57:45,570 Thread-18 > [01:57:45] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 01:57:45,924 Thread-18 > [01:57:45] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 01:57:46,217 Thread-18 > [01:57:46] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 01:57:46,531 Thread-18 > [01:57:46] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 01:57:46,814 Thread-18 > [01:57:46] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 01:57:47,109 Thread-18 > [01:57:47] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 01:57:47,328 Thread-18 > [01:57:47] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 01:57:47,552 Thread-18 > [01:57:47] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 01:57:47,826 Thread-18 > [01:57:47] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 01:57:48,128 Thread-18 > [01:57:48] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 01:57:48,441 Thread-18 > [01:57:48] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 01:57:48,724 Thread-18 > [01:57:48] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 01:57:49,050 Thread-18 > [01:57:49] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 01:57:49,501 Thread-18 > [01:57:49] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 01:57:49,824 Thread-18 > [01:57:49] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 01:57:49,826 Thread-18 > [01:57:49] [Server thread/INFO]: Time elapsed: 6920 ms
+2018-08-01 01:57:57,455 Thread-18 > [01:57:57] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 01:57:57,456 Thread-18 > [01:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7580ms or 151 ticks behind
+2018-08-01 01:57:57,557 Thread-18 > [01:57:57] [Server thread/INFO]: DrCreeper[local:E:420d2e92] logged in with entity id 10769 at (-376.99263248424336, 68.0, 382.2551478903741)
+2018-08-01 01:57:57,560 Thread-18 > [01:57:57] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 01:58:04,159 Thread-18 > [01:58:04] [Server thread/INFO]: DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 01:58:04,160 Thread-18 > [01:58:04] [Server thread/INFO]: DrCreeper получил достижение «[Каменный век]»
+2018-08-01 01:58:04,163 Thread-18 > [01:58:04] [Server thread/INFO]: DrCreeper получил достижение «[Обновка!]»
+2018-08-01 01:58:04,171 Thread-18 > [01:58:04] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 01:58:04,174 Thread-18 > [01:58:04] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Каменный век]»
+2018-08-01 01:58:04,176 Thread-18 > [01:58:04] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Обновка!]»
+2018-08-01 01:58:04,267 Thread-18 > [01:58:04] [Client thread/INFO]: Loaded 30 advancements
+2018-08-01 01:58:50,778 Thread-18 > [01:58:50] [Client thread/INFO]: Loaded 36 advancements
+2018-08-01 01:59:15,025 Thread-18 > [01:59:15] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 01:59:15,031 Thread-18 > [01:59:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:59:15,248 Thread-18 > [01:59:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:59:15,249 Thread-18 > [01:59:15] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 01:59:18,984 Thread-18 > [01:59:18] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 01:59:18,986 Thread-18 > [01:59:18] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 01:59:18,990 Thread-18 > [01:59:18] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 01:59:19,884 Thread-18 > [01:59:19] [Server thread/INFO]: Stopping server
+2018-08-01 01:59:19,886 Thread-18 > [01:59:19] [Server thread/INFO]: Saving players
+2018-08-01 01:59:19,887 Thread-18 > [01:59:19] [Server thread/INFO]: Saving worlds
+2018-08-01 01:59:19,888 Thread-18 > [01:59:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 01:59:20,052 Thread-18 > [01:59:20] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 01:59:20,053 Thread-18 > [01:59:20] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:00:20,480 Thread-18 > [02:00:20] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:00:20,484 Thread-18 > [02:00:20] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:00:20,487 Thread-18 > [02:00:20] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:00:20,489 Thread-18 > [02:00:20] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:00:20,491 Thread-18 > [02:00:20] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:00:20,495 Thread-18 > [02:00:20] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:00:20,496 Thread-18 > [02:00:20] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:00:20,497 Thread-18 > [02:00:20] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:00:20,499 Thread-18 > [02:00:20] [Server thread/INFO]: Generating keypair
+2018-08-01 02:00:20,524 Thread-18 > [02:00:20] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+2018-08-01 02:00:20,526 Thread-18 > [02:00:20] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:00:20,752 Thread-18 > [02:00:20] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:00:21,048 Thread-18 > [02:00:21] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:00:21,051 Thread-18 > [02:00:21] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:00:21,251 Thread-18 > [02:00:21] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:00:21,414 Thread-18 > [02:00:21] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:00:21,593 Thread-18 > [02:00:21] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:00:21,819 Thread-18 > [02:00:21] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:00:22,025 Thread-18 > [02:00:22] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:00:22,217 Thread-18 > [02:00:22] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:00:22,477 Thread-18 > [02:00:22] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:00:22,692 Thread-18 > [02:00:22] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:00:22,906 Thread-18 > [02:00:22] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:00:23,270 Thread-18 > [02:00:23] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:00:23,527 Thread-18 > [02:00:23] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:00:23,733 Thread-18 > [02:00:23] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:00:23,919 Thread-18 > [02:00:23] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:00:24,142 Thread-18 > [02:00:24] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:00:24,349 Thread-18 > [02:00:24] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:00:24,522 Thread-18 > [02:00:24] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:00:24,688 Thread-18 > [02:00:24] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:00:24,848 Thread-18 > [02:00:24] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:00:26,019 Thread-18 > [02:00:26] [Server thread/INFO]: Подготовка области возрождения: 75%
+2018-08-01 02:00:27,020 Thread-18 > [02:00:27] [Server thread/INFO]: Подготовка области возрождения: 75%
+2018-08-01 02:00:28,020 Thread-18 > [02:00:28] [Server thread/INFO]: Подготовка области возрождения: 75%
+2018-08-01 02:00:28,284 Thread-18 > [02:00:28] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:00:28,467 Thread-18 > [02:00:28] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:00:28,662 Thread-18 > [02:00:28] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:00:28,859 Thread-18 > [02:00:28] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:00:29,129 Thread-18 > [02:00:29] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:00:29,397 Thread-18 > [02:00:29] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:00:29,616 Thread-18 > [02:00:29] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:00:29,618 Thread-18 > [02:00:29] [Server thread/INFO]: Time elapsed: 8565 ms
+2018-08-01 02:00:31,011 Thread-18 > [02:00:31] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:00:31,210 Thread-18 > [02:00:31] [Server thread/INFO]: DrCreeper[local:E:ae18e659] logged in with entity id 12731 at (436.1000000014901, 68.10000000149012, -568.1000000014901)
+2018-08-01 02:00:31,212 Thread-18 > [02:00:31] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:00:34,032 Thread-18 > [02:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4166ms or 83 ticks behind
+2018-08-01 02:00:34,115 Thread-18 > [02:00:34] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:00:35,940 Thread-18 > [02:00:35] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-01 02:00:57,516 Thread-18 > [02:00:57] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:00:57,520 Thread-18 > [02:00:57] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:00:57,929 Thread-18 > [02:00:57] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:00:57,930 Thread-18 > [02:00:57] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:00:58,535 Thread-18 > [02:00:58] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:00:58,537 Thread-18 > [02:00:58] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:00:58,539 Thread-18 > [02:00:58] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:00:59,425 Thread-18 > [02:00:59] [Server thread/INFO]: Stopping server
+2018-08-01 02:00:59,426 Thread-18 > [02:00:59] [Server thread/INFO]: Saving players
+2018-08-01 02:00:59,427 Thread-18 > [02:00:59] [Server thread/INFO]: Saving worlds
+2018-08-01 02:00:59,428 Thread-18 > [02:00:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:00:59,531 Thread-18 > [02:00:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:00:59,532 Thread-18 > [02:00:59] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:01:06,065 Thread-18 > [02:01:06] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:01:06,068 Thread-18 > [02:01:06] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:01:06,071 Thread-18 > [02:01:06] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:01:06,073 Thread-18 > [02:01:06] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:01:06,075 Thread-18 > [02:01:06] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:01:06,078 Thread-18 > [02:01:06] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:01:06,079 Thread-18 > [02:01:06] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:01:06,080 Thread-18 > [02:01:06] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:01:06,082 Thread-18 > [02:01:06] [Server thread/INFO]: Generating keypair
+2018-08-01 02:01:06,103 Thread-18 > [02:01:06] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+2018-08-01 02:01:06,104 Thread-18 > [02:01:06] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:01:06,336 Thread-18 > [02:01:06] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:01:06,652 Thread-18 > [02:01:06] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:01:06,656 Thread-18 > [02:01:06] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:01:06,874 Thread-18 > [02:01:06] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:01:07,094 Thread-18 > [02:01:07] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:01:07,372 Thread-18 > [02:01:07] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:01:07,669 Thread-18 > [02:01:07] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:01:07,906 Thread-18 > [02:01:07] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:01:08,157 Thread-18 > [02:01:08] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:01:08,469 Thread-18 > [02:01:08] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:01:08,712 Thread-18 > [02:01:08] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:01:08,979 Thread-18 > [02:01:08] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:01:09,242 Thread-18 > [02:01:09] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:01:09,536 Thread-18 > [02:01:09] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:01:09,811 Thread-18 > [02:01:09] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:01:10,154 Thread-18 > [02:01:10] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:01:10,465 Thread-18 > [02:01:10] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:01:10,703 Thread-18 > [02:01:10] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:01:10,902 Thread-18 > [02:01:10] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:01:11,092 Thread-18 > [02:01:11] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:01:11,321 Thread-18 > [02:01:11] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:01:11,553 Thread-18 > [02:01:11] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:01:11,767 Thread-18 > [02:01:11] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:01:12,001 Thread-18 > [02:01:12] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:01:12,241 Thread-18 > [02:01:12] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:01:12,496 Thread-18 > [02:01:12] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:01:12,711 Thread-18 > [02:01:12] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:01:12,915 Thread-18 > [02:01:12] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:01:12,917 Thread-18 > [02:01:12] [Server thread/INFO]: Time elapsed: 6259 ms
+2018-08-01 02:01:17,868 Thread-18 > [02:01:17] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:01:17,869 Thread-18 > [02:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4903ms or 98 ticks behind
+2018-08-01 02:01:18,005 Thread-18 > [02:01:18] [Server thread/INFO]: DrCreeper[local:E:37512f54] logged in with entity id 14191 at (-108.46210888382737, 64.62000000476837, 224.03475442768703)
+2018-08-01 02:01:18,012 Thread-18 > [02:01:18] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:01:19,454 Thread-18 > [02:01:19] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:01:19,456 Thread-18 > [02:01:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:01:20,011 Thread-18 > [02:01:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:01:20,014 Thread-18 > [02:01:19] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:01:20,192 Thread-18 > [02:01:20] [Client thread/INFO]: Loaded 15 advancements
+2018-08-01 02:01:42,715 Thread-18 > [02:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+2018-08-01 02:01:42,716 Thread-18 > [02:01:42] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:01:42,721 Thread-18 > [02:01:42] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:01:43,846 Thread-18 > [02:01:43] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:01:43,848 Thread-18 > [02:01:43] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:01:43,949 Thread-18 > [02:01:43] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:01:43,950 Thread-18 > [02:01:43] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:01:43,955 Thread-18 > [02:01:43] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:01:43,957 Thread-18 > [02:01:43] [Server thread/INFO]: Stopping server
+2018-08-01 02:01:43,958 Thread-18 > [02:01:43] [Server thread/INFO]: Saving players
+2018-08-01 02:01:43,959 Thread-18 > [02:01:43] [Server thread/INFO]: Saving worlds
+2018-08-01 02:01:43,959 Thread-18 > [02:01:43] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:01:44,098 Thread-18 > [02:01:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:01:44,100 Thread-18 > [02:01:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:01:48,202 Thread-18 > [02:01:48] [Client thread/INFO]: Deleting level Новый мир-11
+2018-08-01 02:01:48,203 Thread-18 > [02:01:48] [Client thread/INFO]: Attempt 1...
+2018-08-01 02:01:59,874 Thread-18 > [02:01:59] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:01:59,879 Thread-18 > [02:01:59] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:01:59,883 Thread-18 > [02:01:59] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:01:59,885 Thread-18 > [02:01:59] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:01:59,888 Thread-18 > [02:01:59] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:01:59,890 Thread-18 > [02:01:59] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:01:59,890 Thread-18 > [02:01:59] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:01:59,891 Thread-18 > [02:01:59] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:01:59,892 Thread-18 > [02:01:59] [Server thread/INFO]: Generating keypair
+2018-08-01 02:01:59,923 Thread-18 > [02:01:59] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:02:00,150 Thread-18 > [02:02:00] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:02:00,441 Thread-18 > [02:02:00] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:02:00,445 Thread-18 > [02:02:00] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:02:00,481 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:02:00,501 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:02:00,522 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:02:00,541 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:02:00,560 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:02:00,580 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:02:00,601 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:02:00,622 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:02:00,643 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:02:00,663 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:02:00,683 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:02:00,707 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:02:00,728 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:02:00,749 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:02:00,785 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:02:00,806 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:02:00,827 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:02:00,847 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:02:00,866 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:02:00,889 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:02:00,909 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:02:00,929 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:02:00,971 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:02:00,991 Thread-18 > [02:02:00] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:02:01,011 Thread-18 > [02:02:01] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:02:01,012 Thread-18 > [02:02:01] [Server thread/INFO]: Time elapsed: 565 ms
+2018-08-01 02:02:01,027 Thread-18 > [02:02:01] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:02:01,121 Thread-18 > [02:02:01] [Server thread/INFO]: DrCreeper[local:E:e4427760] logged in with entity id 15032 at (483.78939585420244, 89.0, -431.4084875570243)
+2018-08-01 02:02:01,125 Thread-18 > [02:02:01] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:02:02,139 Thread-18 > [02:02:02] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:02:02,141 Thread-18 > [02:02:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:02:02,249 Thread-18 > [02:02:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:02:02,250 Thread-18 > [02:02:02] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:02:02,801 Thread-18 > [02:02:02] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:02:06,214 Thread-18 > [02:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+2018-08-01 02:02:19,069 Thread-18 > [02:02:19] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:02:19,070 Thread-18 > [02:02:19] [Client thread/INFO]: [CHAT] gamemode 1<--[ЗДЕСЬ]
+2018-08-01 02:02:33,166 Thread-18 > [02:02:33] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:02:33,167 Thread-18 > [02:02:33] [Client thread/INFO]: [CHAT] mode 1<--[ЗДЕСЬ]
+2018-08-01 02:02:42,865 Thread-18 > [02:02:42] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:02:42,868 Thread-18 > [02:02:42] [Client thread/INFO]: [CHAT] mode 1<--[ЗДЕСЬ]
+2018-08-01 02:02:58,018 Thread-18 > [02:02:58] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:02:58,019 Thread-18 > [02:02:58] [Client thread/INFO]: [CHAT] gamemode 1<--[ЗДЕСЬ]
+2018-08-01 02:03:04,316 Thread-18 > [02:03:04] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:03:04,318 Thread-18 > [02:03:04] [Client thread/INFO]: [CHAT] gamemode<--[ЗДЕСЬ]
+2018-08-01 02:04:05,162 Thread-18 > [02:04:05] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:04:05,168 Thread-18 > [02:04:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:04:05,364 Thread-18 > [02:04:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:04:05,365 Thread-18 > [02:04:05] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:04:05,772 Thread-18 > [02:04:05] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:04:05,774 Thread-18 > [02:04:05] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:04:05,780 Thread-18 > [02:04:05] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:04:06,661 Thread-18 > [02:04:06] [Server thread/INFO]: Stopping server
+2018-08-01 02:04:06,662 Thread-18 > [02:04:06] [Server thread/INFO]: Saving players
+2018-08-01 02:04:06,663 Thread-18 > [02:04:06] [Server thread/INFO]: Saving worlds
+2018-08-01 02:04:06,664 Thread-18 > [02:04:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:04:06,769 Thread-18 > [02:04:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:04:06,771 Thread-18 > [02:04:06] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:04:11,553 Thread-18 > [02:04:11] [Client thread/INFO]: Deleting level Новый мир11
+2018-08-01 02:04:11,554 Thread-18 > [02:04:11] [Client thread/INFO]: Attempt 1...
+2018-08-01 02:04:20,793 Thread-18 > [02:04:20] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:04:20,798 Thread-18 > [02:04:20] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:04:20,800 Thread-18 > [02:04:20] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:04:20,802 Thread-18 > [02:04:20] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:04:20,804 Thread-18 > [02:04:20] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:04:20,806 Thread-18 > [02:04:20] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:04:20,807 Thread-18 > [02:04:20] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:04:20,808 Thread-18 > [02:04:20] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:04:20,809 Thread-18 > [02:04:20] [Server thread/INFO]: Generating keypair
+2018-08-01 02:04:20,833 Thread-18 > [02:04:20] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:04:21,045 Thread-18 > [02:04:21] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:04:21,359 Thread-18 > [02:04:21] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:04:21,364 Thread-18 > [02:04:21] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:04:21,407 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:04:21,429 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:04:21,455 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:04:21,474 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:04:21,493 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:04:21,514 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:04:21,536 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:04:21,558 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:04:21,580 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:04:21,601 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:04:21,624 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:04:21,646 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:04:21,668 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:04:21,689 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:04:21,711 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:04:21,733 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:04:21,755 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:04:21,777 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:04:21,799 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:04:21,823 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:04:21,865 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:04:21,888 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:04:21,911 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:04:21,933 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:04:21,956 Thread-18 > [02:04:21] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:04:21,957 Thread-18 > [02:04:21] [Server thread/INFO]: Time elapsed: 592 ms
+2018-08-01 02:04:21,969 Thread-18 > [02:04:21] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:04:22,221 Thread-18 > [02:04:22] [Server thread/INFO]: DrCreeper[local:E:17009ab6] logged in with entity id 17517 at (-311.60498467718094, 64.40739540236494, 299.9820273219284)
+2018-08-01 02:04:22,223 Thread-18 > [02:04:22] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:04:23,770 Thread-18 > [02:04:23] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:04:23,774 Thread-18 > [02:04:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:04:23,904 Thread-18 > [02:04:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:04:23,906 Thread-18 > [02:04:23] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:04:24,166 Thread-18 > [02:04:24] [Client thread/INFO]: Loaded 36 advancements
+2018-08-01 02:04:45,860 Thread-18 > [02:04:45] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:04:45,861 Thread-18 > [02:04:45] [Client thread/INFO]: [CHAT] g<--[ЗДЕСЬ]
+2018-08-01 02:04:50,507 Thread-18 > [02:04:50] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:04:50,509 Thread-18 > [02:04:50] [Client thread/INFO]: [CHAT] g<--[ЗДЕСЬ]
+2018-08-01 02:05:03,759 Thread-18 > [02:05:03] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-01 02:05:03,760 Thread-18 > [02:05:03] [Client thread/INFO]: [CHAT] gamemode<--[ЗДЕСЬ]
+2018-08-01 02:05:20,708 Thread-18 > [02:05:20] [Server thread/INFO]: [DrCreeper: Ваш режим игры изменён на Творческий режим]
+2018-08-01 02:05:20,709 Thread-18 > [02:05:20] [Client thread/INFO]: [CHAT] Ваш режим игры изменён на Творческий режим
+2018-08-01 02:05:39,512 Thread-18 > [02:05:39] [Client thread/INFO]: Loaded 37 advancements
+2018-08-01 02:06:35,958 Thread-18 > [02:06:35] [Server thread/INFO]: [DrCreeper: Ваш режим игры изменён на Режим выживания]
+2018-08-01 02:06:35,963 Thread-18 > [02:06:35] [Client thread/INFO]: [CHAT] Ваш режим игры изменён на Режим выживания
+2018-08-01 02:07:34,413 Thread-18 > [02:07:34] [Client thread/INFO]: Loaded 46 advancements
+2018-08-01 02:07:44,607 Thread-18 > [02:07:44] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:07:44,612 Thread-18 > [02:07:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:07:44,756 Thread-18 > [02:07:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:07:44,757 Thread-18 > [02:07:44] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:07:45,021 Thread-18 > [02:07:45] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:07:45,023 Thread-18 > [02:07:45] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:07:45,028 Thread-18 > [02:07:45] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:07:45,056 Thread-18 > [02:07:45] [Server thread/INFO]: Stopping server
+2018-08-01 02:07:45,058 Thread-18 > [02:07:45] [Server thread/INFO]: Saving players
+2018-08-01 02:07:45,059 Thread-18 > [02:07:45] [Server thread/INFO]: Saving worlds
+2018-08-01 02:07:45,060 Thread-18 > [02:07:45] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:07:46,122 Thread-18 > [02:07:46] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:07:46,123 Thread-18 > [02:07:46] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:07:50,182 Thread-18 > [02:07:50] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:07:50,185 Thread-18 > [02:07:50] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:07:50,188 Thread-18 > [02:07:50] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:07:50,189 Thread-18 > [02:07:50] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:07:50,192 Thread-18 > [02:07:50] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:07:50,193 Thread-18 > [02:07:50] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:07:50,194 Thread-18 > [02:07:50] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:07:50,195 Thread-18 > [02:07:50] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:07:50,196 Thread-18 > [02:07:50] [Server thread/INFO]: Generating keypair
+2018-08-01 02:07:50,226 Thread-18 > [02:07:50] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:07:50,436 Thread-18 > [02:07:50] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:07:50,729 Thread-18 > [02:07:50] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:07:50,733 Thread-18 > [02:07:50] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:07:50,769 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:07:50,787 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:07:50,807 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:07:50,826 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:07:50,844 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:07:50,868 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:07:50,886 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:07:50,903 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:07:50,921 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:07:50,940 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:07:50,960 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:07:50,981 Thread-18 > [02:07:50] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:07:51,003 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:07:51,028 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:07:51,052 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:07:51,076 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:07:51,098 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:07:51,122 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:07:51,146 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:07:51,170 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:07:51,194 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:07:51,216 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:07:51,262 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:07:51,284 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:07:51,305 Thread-18 > [02:07:51] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:07:51,307 Thread-18 > [02:07:51] [Server thread/INFO]: Time elapsed: 572 ms
+2018-08-01 02:07:51,317 Thread-18 > [02:07:51] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:07:51,420 Thread-18 > [02:07:51] [Server thread/INFO]: DrCreeper[local:E:095c3c2e] logged in with entity id 25552 at (294.6857710710576, 67.0, 45.06556754463736)
+2018-08-01 02:07:51,424 Thread-18 > [02:07:51] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:07:51,795 Thread-18 > [02:07:51] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:07:51,799 Thread-18 > [02:07:51] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/overworld
+2018-08-01 02:07:51,876 Thread-18 > [02:07:51] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/the_nether
+2018-08-01 02:07:51,878 Thread-18 > [02:07:51] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/the_end
+2018-08-01 02:07:52,411 Thread-18 > [02:07:52] [Client thread/INFO]: Loaded 51 advancements
+2018-08-01 02:08:24,555 Thread-18 > [02:08:24] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:08:24,559 Thread-18 > [02:08:24] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/overworld
+2018-08-01 02:08:24,651 Thread-18 > [02:08:24] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/the_nether
+2018-08-01 02:08:24,653 Thread-18 > [02:08:24] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/the_end
+2018-08-01 02:08:25,865 Thread-18 > [02:08:25] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:08:25,867 Thread-18 > [02:08:25] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:08:25,872 Thread-18 > [02:08:25] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:08:26,678 Thread-18 > [02:08:26] [Server thread/INFO]: Stopping server
+2018-08-01 02:08:26,679 Thread-18 > [02:08:26] [Server thread/INFO]: Saving players
+2018-08-01 02:08:26,681 Thread-18 > [02:08:26] [Server thread/INFO]: Saving worlds
+2018-08-01 02:08:26,682 Thread-18 > [02:08:26] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/overworld
+2018-08-01 02:08:26,797 Thread-18 > [02:08:26] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/the_nether
+2018-08-01 02:08:26,799 Thread-18 > [02:08:26] [Server thread/INFO]: Saving chunks for level 'Хата н_достр с ЖД (3)'/the_end
+2018-08-01 02:08:30,606 Thread-18 > [02:08:30] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:08:30,610 Thread-18 > [02:08:30] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:08:30,612 Thread-18 > [02:08:30] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:08:30,613 Thread-18 > [02:08:30] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:08:30,615 Thread-18 > [02:08:30] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:08:30,617 Thread-18 > [02:08:30] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:08:30,618 Thread-18 > [02:08:30] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:08:30,618 Thread-18 > [02:08:30] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:08:30,619 Thread-18 > [02:08:30] [Server thread/INFO]: Generating keypair
+2018-08-01 02:08:30,633 Thread-18 > [02:08:30] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:08:30,859 Thread-18 > [02:08:30] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:08:31,156 Thread-18 > [02:08:31] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:08:31,160 Thread-18 > [02:08:31] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:08:31,190 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:08:31,211 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:08:31,242 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:08:31,261 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:08:31,281 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:08:31,303 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:08:31,327 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:08:31,350 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:08:31,373 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:08:31,395 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:08:31,418 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:08:31,440 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:08:31,463 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:08:31,484 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:08:31,506 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:08:31,528 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:08:31,549 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:08:31,571 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:08:31,593 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:08:31,617 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:08:31,662 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:08:31,684 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:08:31,706 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:08:31,729 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:08:31,752 Thread-18 > [02:08:31] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:08:31,754 Thread-18 > [02:08:31] [Server thread/INFO]: Time elapsed: 592 ms
+2018-08-01 02:08:31,764 Thread-18 > [02:08:31] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:08:31,864 Thread-18 > [02:08:31] [Server thread/INFO]: DrCreeper[local:E:04f70516] logged in with entity id 26191 at (-92.37305030620661, 79.0, 325.16810700563616)
+2018-08-01 02:08:31,871 Thread-18 > [02:08:31] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:08:32,973 Thread-18 > [02:08:32] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-01 02:08:33,103 Thread-18 > [02:08:33] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:08:33,107 Thread-18 > [02:08:33] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/overworld
+2018-08-01 02:08:33,236 Thread-18 > [02:08:33] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/the_nether
+2018-08-01 02:08:33,237 Thread-18 > [02:08:33] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/the_end
+2018-08-01 02:08:33,680 Thread-18 > [02:08:33] [Client thread/INFO]: Loaded 51 advancements
+2018-08-01 02:09:02,010 Thread-18 > [02:09:02] [Client thread/INFO]: Loaded 57 advancements
+2018-08-01 02:09:07,954 Thread-18 > [02:09:07] [Server thread/INFO]: DrCreeper получил достижение «[Охотник на монстров]»
+2018-08-01 02:09:07,962 Thread-18 > [02:09:07] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Охотник на монстров]»
+2018-08-01 02:09:07,968 Thread-18 > [02:09:07] [Client thread/INFO]: Loaded 69 advancements
+2018-08-01 02:09:08,956 Thread-18 > [02:09:08] [Client thread/INFO]: Loaded 70 advancements
+2018-08-01 02:09:09,157 Thread-18 > [02:09:09] [Client thread/INFO]: Loaded 75 advancements
+2018-08-01 02:09:14,222 Thread-18 > [02:09:14] [Client thread/INFO]: Loaded 75 advancements
+2018-08-01 02:09:14,710 Thread-18 > [02:09:14] [Client thread/INFO]: Loaded 76 advancements
+2018-08-01 02:09:37,316 Thread-18 > [02:09:37] [Client thread/INFO]: Loaded 76 advancements
+2018-08-01 02:09:51,553 Thread-18 > [02:09:51] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:09:51,559 Thread-18 > [02:09:51] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/overworld
+2018-08-01 02:09:51,721 Thread-18 > [02:09:51] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/the_nether
+2018-08-01 02:09:51,722 Thread-18 > [02:09:51] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/the_end
+2018-08-01 02:09:52,625 Thread-18 > [02:09:52] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:09:52,627 Thread-18 > [02:09:52] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:09:52,631 Thread-18 > [02:09:52] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:09:53,501 Thread-18 > [02:09:53] [Server thread/INFO]: Stopping server
+2018-08-01 02:09:53,502 Thread-18 > [02:09:53] [Server thread/INFO]: Saving players
+2018-08-01 02:09:53,503 Thread-18 > [02:09:53] [Server thread/INFO]: Saving worlds
+2018-08-01 02:09:53,504 Thread-18 > [02:09:53] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/overworld
+2018-08-01 02:09:53,630 Thread-18 > [02:09:53] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/the_nether
+2018-08-01 02:09:53,631 Thread-18 > [02:09:53] [Server thread/INFO]: Saving chunks for level 'Дом в пустыне(2)'/the_end
+2018-08-01 02:10:04,469 Thread-18 > [02:10:04] [Client thread/INFO]: Deleting level Новый мир!(end)
+2018-08-01 02:10:04,470 Thread-18 > [02:10:04] [Client thread/INFO]: Attempt 1...
+2018-08-01 02:12:17,040 Thread-18 > [02:12:17] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:12:17,043 Thread-18 > [02:12:17] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:12:17,046 Thread-18 > [02:12:17] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:12:17,048 Thread-18 > [02:12:17] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:12:17,051 Thread-18 > [02:12:17] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:12:17,054 Thread-18 > [02:12:17] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:12:17,054 Thread-18 > [02:12:17] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:12:17,055 Thread-18 > [02:12:17] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:12:17,056 Thread-18 > [02:12:17] [Server thread/INFO]: Generating keypair
+2018-08-01 02:12:17,070 Thread-18 > [02:12:17] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+2018-08-01 02:12:17,072 Thread-18 > [02:12:17] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:12:17,303 Thread-18 > [02:12:17] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:12:17,628 Thread-18 > [02:12:17] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:12:17,631 Thread-18 > [02:12:17] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:12:17,897 Thread-18 > [02:12:17] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:12:18,249 Thread-18 > [02:12:18] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:12:18,461 Thread-18 > [02:12:18] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:12:18,695 Thread-18 > [02:12:18] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:12:18,887 Thread-18 > [02:12:18] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:12:19,099 Thread-18 > [02:12:19] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:12:19,318 Thread-18 > [02:12:19] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:12:19,554 Thread-18 > [02:12:19] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:12:19,796 Thread-18 > [02:12:19] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:12:20,022 Thread-18 > [02:12:20] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:12:20,208 Thread-18 > [02:12:20] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:12:20,407 Thread-18 > [02:12:20] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:12:20,705 Thread-18 > [02:12:20] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:12:21,020 Thread-18 > [02:12:21] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:12:21,224 Thread-18 > [02:12:21] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:12:21,463 Thread-18 > [02:12:21] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:12:21,652 Thread-18 > [02:12:21] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:12:21,855 Thread-18 > [02:12:21] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:12:22,087 Thread-18 > [02:12:22] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:12:22,291 Thread-18 > [02:12:22] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:12:22,507 Thread-18 > [02:12:22] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:12:22,703 Thread-18 > [02:12:22] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:12:22,915 Thread-18 > [02:12:22] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:12:23,152 Thread-18 > [02:12:23] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:12:23,371 Thread-18 > [02:12:23] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:12:23,372 Thread-18 > [02:12:23] [Server thread/INFO]: Time elapsed: 5739 ms
+2018-08-01 02:12:26,079 Thread-18 > [02:12:26] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:12:26,080 Thread-18 > [02:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+2018-08-01 02:12:26,198 Thread-18 > [02:12:26] [Server thread/INFO]: DrCreeper[local:E:c592721e] logged in with entity id 27974 at (168.56125761313908, 64.0, 242.85860114799576)
+2018-08-01 02:12:26,201 Thread-18 > [02:12:26] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:12:27,505 Thread-18 > [02:12:27] [Server thread/INFO]: DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 02:12:27,507 Thread-18 > [02:12:27] [Server thread/INFO]: DrCreeper получил достижение «[Каменный век]»
+2018-08-01 02:12:27,510 Thread-18 > [02:12:27] [Server thread/INFO]: DrCreeper получил достижение «[Куй железо...]»
+2018-08-01 02:12:27,516 Thread-18 > [02:12:27] [Server thread/INFO]: DrCreeper получил достижение «[Обновка!]»
+2018-08-01 02:12:27,553 Thread-18 > [02:12:27] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:12:27,558 Thread-18 > [02:12:27] [Server thread/INFO]: Saving chunks for level 'World'/overworld
+2018-08-01 02:12:27,916 Thread-18 > [02:12:27] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 02:12:27,919 Thread-18 > [02:12:27] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Каменный век]»
+2018-08-01 02:12:27,921 Thread-18 > [02:12:27] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Куй железо...]»
+2018-08-01 02:12:27,922 Thread-18 > [02:12:27] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Обновка!]»
+2018-08-01 02:12:28,173 Thread-18 > [02:12:28] [Server thread/INFO]: Saving chunks for level 'World'/the_nether
+2018-08-01 02:12:28,174 Thread-18 > [02:12:28] [Server thread/INFO]: Saving chunks for level 'World'/the_end
+2018-08-01 02:12:28,322 Thread-18 > [02:12:28] [Client thread/INFO]: Loaded 84 advancements
+2018-08-01 02:12:29,821 Thread-18 > [02:12:29] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:12:29,827 Thread-18 > [02:12:29] [Server thread/INFO]: Saving chunks for level 'World'/overworld
+2018-08-01 02:12:30,115 Thread-18 > [02:12:30] [Server thread/INFO]: Saving chunks for level 'World'/the_nether
+2018-08-01 02:12:30,117 Thread-18 > [02:12:30] [Server thread/INFO]: Saving chunks for level 'World'/the_end
+2018-08-01 02:12:37,033 Thread-18 > [02:12:37] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+2018-08-01 02:13:36,020 Thread-18 > [02:13:36] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:13:36,027 Thread-18 > [02:13:36] [Server thread/INFO]: Saving chunks for level 'World'/overworld
+2018-08-01 02:13:36,171 Thread-18 > [02:13:36] [Server thread/INFO]: Saving chunks for level 'World'/the_nether
+2018-08-01 02:13:36,172 Thread-18 > [02:13:36] [Server thread/INFO]: Saving chunks for level 'World'/the_end
+2018-08-01 02:13:36,881 Thread-18 > [02:13:36] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:13:36,882 Thread-18 > [02:13:36] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:13:36,887 Thread-18 > [02:13:36] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:13:37,788 Thread-18 > [02:13:37] [Server thread/INFO]: Stopping server
+2018-08-01 02:13:37,789 Thread-18 > [02:13:37] [Server thread/INFO]: Saving players
+2018-08-01 02:13:37,790 Thread-18 > [02:13:37] [Server thread/INFO]: Saving worlds
+2018-08-01 02:13:37,791 Thread-18 > [02:13:37] [Server thread/INFO]: Saving chunks for level 'World'/overworld
+2018-08-01 02:13:37,926 Thread-18 > [02:13:37] [Server thread/INFO]: Saving chunks for level 'World'/the_nether
+2018-08-01 02:13:37,927 Thread-18 > [02:13:37] [Server thread/INFO]: Saving chunks for level 'World'/the_end
+2018-08-01 02:15:13,475 Thread-18 > [02:15:13] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:15:13,478 Thread-18 > [02:15:13] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:15:13,480 Thread-18 > [02:15:13] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:15:13,482 Thread-18 > [02:15:13] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:15:13,483 Thread-18 > [02:15:13] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:15:13,485 Thread-18 > [02:15:13] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:15:13,486 Thread-18 > [02:15:13] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:15:13,486 Thread-18 > [02:15:13] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:15:13,487 Thread-18 > [02:15:13] [Server thread/INFO]: Generating keypair
+2018-08-01 02:15:13,502 Thread-18 > [02:15:13] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+2018-08-01 02:15:13,504 Thread-18 > [02:15:13] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:15:13,712 Thread-18 > [02:15:13] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:15:14,011 Thread-18 > [02:15:14] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:15:14,014 Thread-18 > [02:15:14] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:15:14,273 Thread-18 > [02:15:14] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:15:14,532 Thread-18 > [02:15:14] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:15:14,720 Thread-18 > [02:15:14] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:15:14,934 Thread-18 > [02:15:14] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:15:15,135 Thread-18 > [02:15:15] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:15:15,359 Thread-18 > [02:15:15] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:15:15,660 Thread-18 > [02:15:15] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:15:15,923 Thread-18 > [02:15:15] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:15:16,255 Thread-18 > [02:15:16] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:15:16,516 Thread-18 > [02:15:16] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:15:16,749 Thread-18 > [02:15:16] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:15:17,079 Thread-18 > [02:15:17] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:15:17,443 Thread-18 > [02:15:17] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:15:17,681 Thread-18 > [02:15:17] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:15:17,942 Thread-18 > [02:15:17] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:15:18,236 Thread-18 > [02:15:18] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:15:18,439 Thread-18 > [02:15:18] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:15:18,672 Thread-18 > [02:15:18] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:15:18,902 Thread-18 > [02:15:18] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:15:19,197 Thread-18 > [02:15:19] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:15:19,516 Thread-18 > [02:15:19] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:15:19,817 Thread-18 > [02:15:19] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:15:20,125 Thread-18 > [02:15:20] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:15:20,545 Thread-18 > [02:15:20] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:15:20,857 Thread-18 > [02:15:20] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:15:20,858 Thread-18 > [02:15:20] [Server thread/INFO]: Time elapsed: 6843 ms
+2018-08-01 02:15:28,421 Thread-18 > [02:15:28] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:15:28,422 Thread-18 > [02:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7513ms or 150 ticks behind
+2018-08-01 02:15:28,616 Thread-18 > [02:15:28] [Server thread/INFO]: DrCreeper[local:E:e86bf87f] logged in with entity id 35356 at (-97.18063967171523, 72.0, 323.7271956600998)
+2018-08-01 02:15:28,619 Thread-18 > [02:15:28] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:15:33,599 Thread-18 > [02:15:33] [Server thread/INFO]: DrCreeper получил достижение «[Каменный век]»
+2018-08-01 02:15:33,601 Thread-18 > [02:15:33] [Server thread/INFO]: DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 02:15:33,614 Thread-18 > [02:15:33] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Каменный век]»
+2018-08-01 02:15:33,615 Thread-18 > [02:15:33] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Дресс-код]»
+2018-08-01 02:15:33,665 Thread-18 > [02:15:33] [Client thread/INFO]: Loaded 25 advancements
+2018-08-01 02:15:53,908 Thread-18 > [02:15:53] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:15:53,922 Thread-18 > [02:15:53] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:15:54,644 Thread-18 > [02:15:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:15:54,646 Thread-18 > [02:15:54] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:15:55,660 Thread-18 > [02:15:55] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:15:55,661 Thread-18 > [02:15:55] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:15:55,667 Thread-18 > [02:15:55] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:15:55,669 Thread-18 > [02:15:55] [Server thread/INFO]: Stopping server
+2018-08-01 02:15:55,670 Thread-18 > [02:15:55] [Server thread/INFO]: Saving players
+2018-08-01 02:15:55,671 Thread-18 > [02:15:55] [Server thread/INFO]: Saving worlds
+2018-08-01 02:15:55,672 Thread-18 > [02:15:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/overworld
+2018-08-01 02:15:55,816 Thread-18 > [02:15:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_nether
+2018-08-01 02:15:55,818 Thread-18 > [02:15:55] [Server thread/INFO]: Saving chunks for level 'Новый мир'/the_end
+2018-08-01 02:15:58,961 Thread-18 > [02:15:58] [Client thread/INFO]: Deleting level Новый мирррррррррр
+2018-08-01 02:15:58,962 Thread-18 > [02:15:58] [Client thread/INFO]: Attempt 1...
+2018-08-01 02:16:11,255 Thread-18 > [02:16:11] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:16:11,259 Thread-18 > [02:16:11] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:16:11,262 Thread-18 > [02:16:11] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:16:11,265 Thread-18 > [02:16:11] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-01 02:16:11,267 Thread-18 > [02:16:11] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-01 02:16:11,268 Thread-18 > [02:16:11] [Client thread/INFO]: Loaded 0 recipes
+2018-08-01 02:16:11,269 Thread-18 > [02:16:11] [Client thread/INFO]: Loaded 0 advancements
+2018-08-01 02:16:11,269 Thread-18 > [02:16:11] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-01 02:16:11,271 Thread-18 > [02:16:11] [Server thread/INFO]: Generating keypair
+2018-08-01 02:16:11,297 Thread-18 > [02:16:11] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-01 02:16:11,514 Thread-18 > [02:16:11] [Server thread/INFO]: Loaded 524 recipes
+2018-08-01 02:16:11,825 Thread-18 > [02:16:11] [Server thread/INFO]: Loaded 571 advancements
+2018-08-01 02:16:11,830 Thread-18 > [02:16:11] [Server thread/INFO]: Preparing start region for level 0
+2018-08-01 02:16:11,855 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-01 02:16:11,864 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-01 02:16:11,873 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-01 02:16:11,882 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-01 02:16:11,893 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-01 02:16:11,903 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-01 02:16:11,913 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-01 02:16:11,925 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-01 02:16:11,935 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-01 02:16:11,946 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-01 02:16:11,959 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-01 02:16:11,970 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-01 02:16:11,984 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-01 02:16:11,995 Thread-18 > [02:16:11] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-01 02:16:12,007 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-01 02:16:12,018 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-01 02:16:12,028 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-01 02:16:12,037 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-01 02:16:12,046 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-01 02:16:12,055 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-01 02:16:12,065 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-01 02:16:12,081 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-01 02:16:12,091 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-01 02:16:12,099 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-01 02:16:12,108 Thread-18 > [02:16:12] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-01 02:16:12,109 Thread-18 > [02:16:12] [Server thread/INFO]: Time elapsed: 277 ms
+2018-08-01 02:16:12,113 Thread-18 > [02:16:12] [Server thread/INFO]: Changing view distance to 12, from 10
+2018-08-01 02:16:12,323 Thread-18 > [02:16:12] [Server thread/INFO]: DrCreeper[local:E:37e10b43] logged in with entity id 35726 at (374.96415809425537, 38.99323530006213, 562.6374570809696)
+2018-08-01 02:16:12,325 Thread-18 > [02:16:12] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-01 02:16:13,539 Thread-18 > [02:16:13] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:16:13,542 Thread-18 > [02:16:13] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/overworld
+2018-08-01 02:16:13,549 Thread-18 > [02:16:13] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/the_nether
+2018-08-01 02:16:13,563 Thread-18 > [02:16:13] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/the_end
+2018-08-01 02:16:13,734 Thread-18 > [02:16:13] [Client thread/INFO]: Loaded 105 advancements
+2018-08-01 02:16:13,739 Thread-18 > [02:16:13] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.slime.jump_small
+2018-08-01 02:16:13,940 Thread-18 > [02:16:13] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.slime.squish_small
+2018-08-01 02:16:20,258 Thread-18 > [02:16:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-01 02:16:20,264 Thread-18 > [02:16:20] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/overworld
+2018-08-01 02:16:20,282 Thread-18 > [02:16:20] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/the_nether
+2018-08-01 02:16:20,283 Thread-18 > [02:16:20] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/the_end
+2018-08-01 02:16:22,114 Thread-18 > [02:16:22] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-01 02:16:22,116 Thread-18 > [02:16:22] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-01 02:16:22,121 Thread-18 > [02:16:22] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-01 02:16:22,126 Thread-18 > [02:16:22] [Server thread/INFO]: Stopping server
+2018-08-01 02:16:22,127 Thread-18 > [02:16:22] [Server thread/INFO]: Saving players
+2018-08-01 02:16:22,128 Thread-18 > [02:16:22] [Server thread/INFO]: Saving worlds
+2018-08-01 02:16:22,129 Thread-18 > [02:16:22] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/overworld
+2018-08-01 02:16:22,143 Thread-18 > [02:16:22] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/the_nether
+2018-08-01 02:16:22,145 Thread-18 > [02:16:22] [Server thread/INFO]: Saving chunks for level 'Калькулятор'/the_end
+2018-08-01 02:16:32,245 Thread-18 > [02:16:32] [Client thread/INFO]: Deleting level Калькуляторq
+2018-08-01 02:16:32,246 Thread-18 > [02:16:32] [Client thread/INFO]: Attempt 1...
+2018-08-01 02:16:38,649 Thread-18 > [02:16:38] [Client thread/INFO]: Stopping!
+2018-08-01 02:16:39,327 Thread-18 > [02:16:39] [Client thread/INFO]: SoundSystem shutting down...
+2018-08-01 02:16:39,546 Thread-18 > [02:16:39] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-08-01 02:16:39,904 Thread-18 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-08-01 02:16:39,990 Thread-18 Here I am!
+2018-08-01 02:16:40,012 Thread-18 [VersionManager] Refreshing versions locally...
+2018-08-01 02:16:40,020 Thread-18 [VersionManager] Versions has been refreshed (7 ms)
+2018-08-01 02:16:40,033 LoopedThread#6 [Launcher] Launcher exited.
+2018-08-01 02:16:40,037 Thread-18 [Launcher] Minecraft closed with exit code: 0
+2018-08-01 02:16:41,896 AWT-EventQueue-0 Good bye!
