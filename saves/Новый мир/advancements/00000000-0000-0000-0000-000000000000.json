@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2018-08-01 22:12:40 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2018-07-24 22:23:44 +0300"
@@ -182,6 +188,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-31 18:09:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-08-01 20:29:59 +0300"
     },
     "done": true
   },
@@ -386,9 +398,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-07-22 10:49:11 +0300",
+      "baked_potato": "2018-08-01 20:40:40 +0300",
       "bread": "2018-07-24 21:55:28 +0300",
       "rotten_flesh": "2018-07-22 11:19:05 +0300",
       "dried_kelp": "2018-07-31 18:12:24 +0300",
+      "melon_slice": "2018-08-01 20:30:01 +0300",
       "beetroot": "2018-07-24 23:10:29 +0300",
       "cooked_rabbit": "2018-07-22 11:26:43 +0300",
       "cooked_chicken": "2018-07-22 11:26:52 +0300",
@@ -945,13 +959,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-07-22 11:11:18 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-07-22 11:11:18 +0300"
     },
@@ -988,6 +1002,7 @@
       "minecraft:magma_cube": "2018-07-27 13:08:33 +0300",
       "minecraft:spider": "2018-07-22 10:56:45 +0300",
       "minecraft:zombie": "2018-07-22 10:55:39 +0300",
+      "minecraft:drowned": "2018-08-01 22:18:49 +0300",
       "minecraft:creeper": "2018-07-22 11:17:36 +0300",
       "minecraft:zombie_villager": "2018-07-24 23:17:35 +0300"
     },
@@ -1002,6 +1017,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-07-27 13:02:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-08-01 20:32:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2018-08-01 20:32:38 +0300"
     },
     "done": true
   },
@@ -1071,9 +1098,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2018-08-01 20:32:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-31 18:09:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2018-08-01 20:29:59 +0300"
     },
     "done": true
   },
@@ -1798,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-08-01 20:32:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2018-07-22 11:04:59 +0300"
@@ -1806,13 +1851,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2018-08-01 22:03:37 +0300",
       "minecraft:forest": "2018-07-22 10:07:21 +0300",
       "minecraft:desert_hills": "2018-07-22 10:47:28 +0300",
       "minecraft:desert": "2018-07-22 10:08:22 +0300",
+      "minecraft:birch_forest": "2018-08-01 22:10:29 +0300",
+      "minecraft:deep_lukewarm_ocean": "2018-08-01 21:13:10 +0300",
       "minecraft:savanna_plateau": "2018-07-22 10:51:46 +0300",
       "minecraft:beach": "2018-07-22 11:57:59 +0300",
+      "minecraft:dark_forest": "2018-08-01 22:09:17 +0300",
+      "minecraft:lukewarm_ocean": "2018-08-01 21:12:54 +0300",
       "minecraft:river": "2018-07-22 11:28:21 +0300",
       "minecraft:wooded_hills": "2018-07-24 23:05:55 +0300",
+      "minecraft:stone_shore": "2018-08-01 22:04:37 +0300",
+      "minecraft:swamp": "2018-08-01 22:16:48 +0300",
       "minecraft:savanna": "2018-07-22 10:07:38 +0300",
       "minecraft:plains": "2018-07-22 10:06:32 +0300"
     },
@@ -1839,6 +1891,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2018-07-30 20:20:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2018-08-01 20:35:46 +0300"
     },
     "done": true
   },
@@ -2145,6 +2203,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-07-22 10:42:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2018-08-01 20:29:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-08-01 20:32:22 +0300"
     },
     "done": true
   },

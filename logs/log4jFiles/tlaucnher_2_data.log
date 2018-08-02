@@ -1540,3 +1540,234 @@ C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.versi
 2018-08-01 02:16:40,033 LoopedThread#6 [Launcher] Launcher exited.
 2018-08-01 02:16:40,037 Thread-18 [Launcher] Minecraft closed with exit code: 0
 2018-08-01 02:16:41,896 AWT-EventQueue-0 Good bye!
+2018-08-02 15:52:48,854 main [Loading] INITALIZING
+Starting TLauncher 2.43
+For more information, visit https://tlauncher.org/
+Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+Startup time: 02.08.2018 15:52:47
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2018-08-02 15:52:48,855 main [Downloader2] Loaded configuration: good
+2018-08-02 15:52:48,979 ExtendedThread#4 [Updater] Requesting an update...
+2018-08-02 15:52:48,985 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-02 15:52:48,986 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-08-02 15:52:49,116 ExtendedThread#4 [Updater] Request time: 131 ms
+2018-08-02 15:52:49,116 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-02 15:52:49,286 main [Browser] Loading resources...
+2018-08-02 15:52:49,471 main [Browser] Loading background...
+2018-08-02 15:52:49,576 main [Browser] Cleaning up after loading:
+2018-08-02 15:52:49,576 main Starting garbage collector: 32 / 87 MB
+2018-08-02 15:52:49,650 main Garbage collector completed: 13 / 109 MB
+2018-08-02 15:52:49,657 main [Loading] LOADING_MANAGERS
+2018-08-02 15:52:49,668 main [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-08-02 15:52:49,681 main [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-08-02 15:52:49,684 main [TLauncherManager] Refresh allowed: true
+2018-08-02 15:52:49,686 ExtendedThread#4 [TLauncherManager] Refreshing TLauncher...
+2018-08-02 15:52:49,687 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-08-02 15:52:49,687 main [AdvertisingStatusObserver]  started to get ad information
+2018-08-02 15:52:49,688 main [AdvertisingStatusObserver]  finished to get add information
+2018-08-02 15:52:49,706 main [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-08-02 15:52:49,746 ExtendedThread#4 [TLauncherManager] Refreshed successfully!
+2018-08-02 15:52:49,905 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-08-02 15:52:49,913 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2018-08-02 15:52:49,913 JavaFX Application Thread [Browser] Preparing JavaFX...
+2018-08-02 15:52:49,993 JavaFX Application Thread [Browser] Initializing...
+2018-08-02 15:52:50,126 main [Loading] LOADING_WINDOW
+2018-08-02 15:52:50,211 main [Loading] PREPARING_MAINPANE
+2018-08-02 15:52:50,850 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-08-02 15:52:50,851 JavaFX Application Thread [Browser@1402818754] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-08-02 15:52:50,996 JavaFX Application Thread [Browser] add listens into server_choose
+2018-08-02 15:52:51,206 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-02 15:52:51,239 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-08-02 15:52:51,240 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-08-02 15:52:51,240 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-08-02 15:52:51,240 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-08-02 15:52:51,240 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-08-02 15:52:51,241 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-08-02 15:52:51,251 main [Downloader2] Loaded configuration: good
+2018-08-02 15:52:51,282 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 42 ms.
+2018-08-02 15:52:51,298 AsyncObject#8 [SkinVersionList] Got in 59 ms
+2018-08-02 15:52:51,368 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 127 ms.
+2018-08-02 15:52:51,406 AsyncObject#7 [ExtraVersionList] Got in 167 ms
+2018-08-02 15:52:52,163 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 922 ms.
+2018-08-02 15:52:52,222 AsyncObject#6 [OfficialVersionList] Got in 983 ms
+2018-08-02 15:52:52,223 ExtendedThread#4 [VersionManager] Versions has been refreshed (1016 ms)
+2018-08-02 15:52:52,738 main [Loading] POSTINIT_GUI
+2018-08-02 15:52:52,738 main [Frame] Packing main frame...
+2018-08-02 15:52:52,854 main [Frame] Resizing main pane...
+2018-08-02 15:52:52,855 main Updater is already closed. Showing up...
+2018-08-02 15:52:52,855 main Visibility set.
+2018-08-02 15:52:52,856 main [Loading] REFRESHING_INFO
+2018-08-02 15:52:52,858 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-02 15:52:52,858 main Started! (4899 ms.)
+2018-08-02 15:52:52,858 main [Loading] SUCCESS
+2018-08-02 15:52:52,874 ExtendedThread#14 [ServerListManager] Refreshing servers...
+2018-08-02 15:52:52,884 ExtendedThread#14 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2018-08-02 15:52:52,884 ExtendedThread#14 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/configs/servers.json
+2018-08-02 15:52:52,923 main [TLauncher] show tlauncher!!!
+2018-08-02 15:52:52,937 main send unique id  Wed Aug 01 16:23:28 MSK 2018 long value= 1533129808015
+2018-08-02 15:52:52,957 main [Double running] clear time label
+2018-08-02 15:52:52,973 ExtendedThread#14 [REPO][SERVERLIST_REPO] Success: Reached the repo in 87 ms.
+2018-08-02 15:52:52,998 ExtendedThread#14 [ServerListManager] Got in 114 ms
+2018-08-02 15:52:52,999 ExtendedThread#14 [ServerListManager] Servers has been refreshed (115 ms)
+2018-08-02 15:52:52,999 ExtendedThread#14 [ServerListManager] ServerList{[]}
+2018-08-02 15:52:53,021 AsyncObject#18 [SkinVersionList] Got in 65 ms
+2018-08-02 15:52:53,107 AsyncObject#17 [ExtraVersionList] Got in 152 ms
+2018-08-02 15:52:53,112 AsyncObject#16 [OfficialVersionList] Got in 156 ms
+2018-08-02 15:52:53,113 ExtendedThread#4 [VersionManager] Versions has been refreshed (176 ms)
+2018-08-02 15:52:53,372 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/lch/server_info_page.json
+2018-08-02 15:52:53,384 Thread-14 run server on  37842
+2018-08-02 15:52:53,403 main #####    all servers are available   ######
+2018-08-02 15:52:54,579 LoopedThread#9 [LoginForm] Login was OK. Trying to launch now.
+2018-08-02 15:52:54,629 ExtendedThread#4 [TLauncher] init popupMenuManager
+2018-08-02 15:52:55,114 LoopedThread#9 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-08-02 15:52:55,115 LoopedThread#9 [Launcher] Running under TLauncher 2.43
+2018-08-02 15:52:55,116 LoopedThread#9 [Launcher] Current machine: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-08-02 15:52:55,119 LoopedThread#9 [Launcher] Collecting info...
+2018-08-02 15:52:55,130 LoopedThread#9 [TLauncherManager] before clearLibrary null
+2018-08-02 15:52:55,133 LoopedThread#9 [TLauncherManager] written:  []
+2018-08-02 15:52:55,134 LoopedThread#9 [TLauncherManager] after clearLibrary null
+2018-08-02 15:52:55,136 LoopedThread#9 [Launcher] Force update: false
+2018-08-02 15:52:55,137 LoopedThread#9 [Launcher] Selected version: latest-release
+2018-08-02 15:52:55,138 LoopedThread#9 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=DrCreeper}
+2018-08-02 15:52:55,141 LoopedThread#9 [Launcher] Version sync info: VersionSyncInfo{id='1.13',
+local=CompleteVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@54422ee9, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:0.1.27', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@7697a4c3, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@13127127, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@54422ee9}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-08-02 15:52:55,239 LoopedThread#9 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+2018-08-02 15:52:55,246 LoopedThread#9 [Launcher] Checking conditions...
+2018-08-02 15:52:55,259 LoopedThread#9 [Launcher] Comparing assets...
+2018-08-02 15:52:55,260 LoopedThread#9 [AssetsManager] Checking resources...
+2018-08-02 15:52:55,261 LoopedThread#9 [AssetsManager] Reading indexes from file C:\Programs\Minecraft\assets\indexes\1.13.json
+2018-08-02 15:52:55,287 LoopedThread#9 [AssetsManager] Fast comparing: true
+2018-08-02 15:52:55,532 LoopedThread#9 [Launcher] Delta time to compare assets: 272 ms.
+2018-08-02 15:52:55,851 LoopedThread#9 [VersionManager] Required for version 1.13: []
+2018-08-02 15:52:55,854 LoopedThread#9 [Modpack]  got container
+2018-08-02 15:52:55,884 LoopedThread#9 [Launcher] Unpacking natives...
+2018-08-02 15:52:55,896 LoopedThread#9 [Launcher] Constructing process...
+2018-08-02 15:52:55,898 LoopedThread#9 [Launcher] Constructing classpath...
+2018-08-02 15:52:55,903 LoopedThread#9 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Programs\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Programs\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Programs\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Programs\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Programs\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Programs\Minecraft\libraries\com\mojang\brigadier\0.1.27\brigadier-0.1.27.jar;C:\Programs\Minecraft\libraries\com\mojang\datafixerupper\1.0.16\datafixerupper-1.0.16.jar;C:\Programs\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Programs\Minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Programs\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Programs\Minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Programs\Minecraft\libraries\com\mojang\realms\1.13.3\realms-1.13.3.jar;C:\Programs\Minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Programs\Minecraft\versions\1.13\1.13.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main
+2018-08-02 15:52:55,970 LoopedThread#9 [Launcher] Getting Minecraft arguments...
+2018-08-02 15:52:55,986 LoopedThread#9 read servers from servers.dat []
+2018-08-02 15:52:55,987 LoopedThread#9 [InnerMinecraftServersImpl]  search removed servers
+2018-08-02 15:52:55,988 LoopedThread#9 [InnerMinecraftServersImpl]  prepare inner servers
+2018-08-02 15:52:55,992 LoopedThread#9 save servers to servers.dat []
+2018-08-02 15:52:55,994 LoopedThread#9 [Launcher] Launching Minecraft...
+2018-08-02 15:52:55,999 LoopedThread#9 I'm hiding!
+2018-08-02 15:52:56,000 LoopedThread#9 [TLauncherManager] before onMinecraftLaunch null
+2018-08-02 15:52:56,003 LoopedThread#9 [TLauncherManager] read from  C:\Programs\Minecraft\TempOptifineStore-1.0.json []
+2018-08-02 15:52:56,006 LoopedThread#9 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-08-02 15:52:56,007 LoopedThread#9 [TLauncherManager] after onMinecraftLaunch null
+2018-08-02 15:52:56,008 LoopedThread#9 [Launcher] Starting Minecraft latest-release...
+2018-08-02 15:52:56,010 LoopedThread#9 [Launcher] Launching in: C:\Programs\Minecraft
+2018-08-02 15:52:56,020 LoopedThread#9 [Launcher] Processing post-launch actions. Assist launch: true
+2018-08-02 15:52:58,546 Thread-15 ===============================================================================================
+2018-08-02 15:52:58,548 Thread-15 > [15:52:58] [Client thread/INFO]: Setting user: DrCreeper
+2018-08-02 15:53:03,046 Thread-15 > [15:53:03] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-08-02 15:53:06,434 Thread-15 > [15:53:06] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-08-02 15:53:07,368 Thread-15 > [15:53:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-08-02 15:53:07,635 Thread-15 > [15:53:07] [Thread-2/INFO]: Initializing No Sound
+2018-08-02 15:53:07,638 Thread-15 > [15:53:07] [Thread-2/INFO]: (Silent Mode)
+2018-08-02 15:53:07,822 Thread-15 > [15:53:07] [Thread-2/INFO]: OpenAL initialized.
+2018-08-02 15:53:08,015 Thread-15 > [15:53:08] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-08-02 15:53:08,019 Thread-15 > [15:53:08] [Sound Library Loader/INFO]: Sound engine started
+2018-08-02 15:53:15,331 Thread-15 > [15:53:15] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-08-02 15:53:18,908 Thread-15 > [15:53:18] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-08-02 15:53:20,968 Thread-15 > [15:53:20] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-08-02 15:53:27,743 Thread-15 > [15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-02 15:53:27,751 Thread-15 > [15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-02 15:53:27,755 Thread-15 > [15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-02 15:53:27,759 Thread-15 > [15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-02 15:53:27,764 Thread-15 > [15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-02 15:53:27,785 Thread-15 > [15:53:27] [Client thread/INFO]: Loaded 0 recipes
+2018-08-02 15:53:27,789 Thread-15 > [15:53:27] [Client thread/INFO]: Loaded 0 advancements
+2018-08-02 15:53:27,801 Thread-15 > [15:53:27] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-02 15:53:27,803 Thread-15 > [15:53:27] [Server thread/INFO]: Generating keypair
+2018-08-02 15:53:27,885 Thread-15 > [15:53:27] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-02 15:53:29,273 Thread-15 > [15:53:29] [Server thread/INFO]: Loaded 524 recipes
+2018-08-02 15:53:30,211 Thread-15 > [15:53:30] [Server thread/INFO]: Loaded 571 advancements
+2018-08-02 15:53:30,379 Thread-15 > [15:53:30] [Server thread/INFO]: Preparing start region for level 0
+2018-08-02 15:53:30,604 Thread-15 > [15:53:30] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-02 15:53:30,675 Thread-15 > [15:53:30] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-02 15:53:30,764 Thread-15 > [15:53:30] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-02 15:53:30,850 Thread-15 > [15:53:30] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-02 15:53:30,917 Thread-15 > [15:53:30] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-02 15:53:30,957 Thread-15 > [15:53:30] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-02 15:53:31,011 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-02 15:53:31,052 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-02 15:53:31,099 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-02 15:53:31,134 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-02 15:53:31,232 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-02 15:53:31,350 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-02 15:53:31,403 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-02 15:53:31,485 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-02 15:53:31,541 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-02 15:53:31,589 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-02 15:53:31,645 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-02 15:53:31,716 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-02 15:53:31,763 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-02 15:53:31,821 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-02 15:53:31,917 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-02 15:53:31,944 Thread-15 > [15:53:31] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-02 15:53:32,004 Thread-15 > [15:53:32] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-02 15:53:32,043 Thread-15 > [15:53:32] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-02 15:53:32,099 Thread-15 > [15:53:32] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-02 15:53:32,101 Thread-15 > [15:53:32] [Server thread/INFO]: Time elapsed: 1719 ms
+2018-08-02 15:53:35,452 Thread-15 > [15:53:35] [Server thread/INFO]: DrCreeper[local:E:fe28f1e8] logged in with entity id 534 at (116.21090120923868, 68.0, -222.35395315653253)
+2018-08-02 15:53:35,503 Thread-15 > [15:53:35] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-02 15:53:37,432 Thread-15 > [15:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+2018-08-02 15:53:37,490 Thread-15 > [15:53:37] [Server thread/INFO]: Saving and pausing game...
+2018-08-02 15:53:37,491 Thread-15 > [15:53:37] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:53:38,165 Thread-15 > [15:53:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:53:38,167 Thread-15 > [15:53:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:53:38,911 Thread-15 > [15:53:38] [Client thread/INFO]: Loaded 386 advancements
+2018-08-02 15:53:59,803 Thread-15 > [15:53:59] [Server thread/INFO]: Saving and pausing game...
+2018-08-02 15:53:59,886 Thread-15 > [15:53:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:54:00,745 Thread-15 > [15:54:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:54:00,747 Thread-15 > [15:54:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:54:27,755 Thread-15 > [15:54:27] [Server thread/INFO]: Saving and pausing game...
+2018-08-02 15:54:27,775 Thread-15 > [15:54:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:54:28,230 Thread-15 > [15:54:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:54:28,233 Thread-15 > [15:54:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:55:15,705 Thread-15 > [15:55:15] [Server thread/INFO]: Saving and pausing game...
+2018-08-02 15:55:15,718 Thread-15 > [15:55:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:55:15,897 Thread-15 > [15:55:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:55:15,898 Thread-15 > [15:55:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:55:25,903 Thread-15 > [15:55:25] [Server thread/INFO]: Saving and pausing game...
+2018-08-02 15:55:25,911 Thread-15 > [15:55:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:55:26,103 Thread-15 > [15:55:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:55:26,107 Thread-15 > [15:55:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:56:03,203 Thread-15 > [15:56:03] [Server thread/INFO]: Saving and pausing game...
+2018-08-02 15:56:03,214 Thread-15 > [15:56:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:56:03,413 Thread-15 > [15:56:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:56:03,416 Thread-15 > [15:56:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:56:38,553 Thread-15 > [15:56:38] [Server thread/INFO]: Saving and pausing game...
+2018-08-02 15:56:38,563 Thread-15 > [15:56:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:56:38,762 Thread-15 > [15:56:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:56:38,764 Thread-15 > [15:56:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:56:39,074 Thread-15 > [15:56:39] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-02 15:56:39,667 Thread-15 > [15:56:39] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-02 15:56:39,697 Thread-15 > [15:56:39] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-02 15:56:39,702 Thread-15 > [15:56:39] [Server thread/INFO]: Stopping server
+2018-08-02 15:56:39,703 Thread-15 > [15:56:39] [Server thread/INFO]: Saving players
+2018-08-02 15:56:39,703 Thread-15 > [15:56:39] [Server thread/INFO]: Saving worlds
+2018-08-02 15:56:39,706 Thread-15 > [15:56:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-02 15:56:39,901 Thread-15 > [15:56:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-02 15:56:39,902 Thread-15 > [15:56:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-02 15:56:40,462 Thread-15 > [15:56:40] [Client thread/INFO]: Stopping!
+2018-08-02 15:56:41,016 Thread-15 > [15:56:41] [Client thread/INFO]: SoundSystem shutting down...
+2018-08-02 15:56:41,234 Thread-15 > [15:56:41] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-08-02 15:56:41,624 Thread-15 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-08-02 15:56:41,751 Thread-15 Here I am!
+2018-08-02 15:56:41,794 Thread-15 [VersionManager] Refreshing versions locally...
+2018-08-02 15:56:41,802 Thread-15 [VersionManager] Versions has been refreshed (6 ms)
+2018-08-02 15:56:41,823 LoopedThread#9 [Launcher] Launcher exited.
+2018-08-02 15:56:41,824 Thread-15 [Launcher] Minecraft closed with exit code: 0
+2018-08-02 15:56:43,026 AWT-EventQueue-0 Good bye!

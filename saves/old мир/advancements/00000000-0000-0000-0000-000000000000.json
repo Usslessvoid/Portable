@@ -883,13 +883,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-01-22 01:37:27 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-01-22 01:37:27 +0300"
     },
@@ -915,13 +915,13 @@
       "minecraft:wither_skeleton": "2018-01-24 17:00:14 +0300",
       "minecraft:zombie_pigman": "2018-01-24 17:20:04 +0300",
       "minecraft:ghast": "2018-01-23 15:51:22 +0300",
-      "minecraft:vindicator": "2018-01-25 01:16:53 +0300",
       "minecraft:enderman": "2018-01-22 02:44:53 +0300",
+      "minecraft:vindicator": "2018-01-25 01:16:53 +0300",
       "minecraft:magma_cube": "2018-01-24 16:59:44 +0300",
       "minecraft:spider": "2018-01-22 01:19:36 +0300",
       "minecraft:zombie": "2018-01-22 01:21:00 +0300",
-      "minecraft:drowned": "2018-08-01 01:25:21 +0300",
       "minecraft:creeper": "2018-01-22 01:51:59 +0300",
+      "minecraft:drowned": "2018-08-01 01:25:21 +0300",
       "minecraft:zombie_villager": "2018-01-22 03:01:07 +0300",
       "minecraft:slime": "2018-01-22 01:52:46 +0300"
     },
@@ -1585,8 +1585,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2018-01-24 18:06:02 +0300",
-      "minecraft:forest": "2018-01-22 01:20:07 +0300",
       "minecraft:mountains": "2018-01-24 17:49:51 +0300",
+      "minecraft:forest": "2018-01-22 01:20:07 +0300",
       "minecraft:taiga": "2018-01-24 18:03:20 +0300",
       "minecraft:giant_tree_taiga": "2018-01-24 18:03:38 +0300",
       "minecraft:taiga_hills": "2018-01-24 18:03:14 +0300",
@@ -1599,8 +1599,8 @@
       "minecraft:birch_forest_hills": "2018-01-24 17:58:01 +0300",
       "minecraft:wooded_mountains": "2018-01-25 01:08:09 +0300",
       "minecraft:wooded_hills": "2018-01-24 17:51:52 +0300",
-      "minecraft:giant_tree_taiga_hills": "2018-01-24 18:04:09 +0300",
       "minecraft:stone_shore": "2018-01-24 23:45:16 +0300",
+      "minecraft:giant_tree_taiga_hills": "2018-01-24 18:04:09 +0300",
       "minecraft:swamp": "2018-01-24 17:55:59 +0300",
       "minecraft:plains": "2018-01-22 01:16:54 +0300"
     },
