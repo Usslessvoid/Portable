@@ -1,94 +1,282 @@
-[15:53:03] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
-[15:53:06] [Client thread/INFO]: Reloading ResourceManager: Default
-[15:53:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[15:53:07] [Thread-2/INFO]: Initializing No Sound
-[15:53:07] [Thread-2/INFO]: (Silent Mode)
-[15:53:07] [Thread-2/INFO]: OpenAL initialized.
-[15:53:08] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
-[15:53:08] [Sound Library Loader/INFO]: Sound engine started
-[15:53:15] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[15:53:18] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[15:53:20] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:53:27] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:53:27] [Client thread/INFO]: Loaded 0 recipes
-[15:53:27] [Client thread/INFO]: Loaded 0 advancements
-[15:53:27] [Server thread/INFO]: Starting integrated minecraft server version 1.13
-[15:53:27] [Server thread/INFO]: Generating keypair
-[15:53:27] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:53:29] [Server thread/INFO]: Loaded 524 recipes
-[15:53:30] [Server thread/INFO]: Loaded 571 advancements
-[15:53:30] [Server thread/INFO]: Preparing start region for level 0
-[15:53:30] [Server thread/INFO]: Подготовка области возрождения: 4%
-[15:53:30] [Server thread/INFO]: Подготовка области возрождения: 8%
-[15:53:30] [Server thread/INFO]: Подготовка области возрождения: 12%
-[15:53:30] [Server thread/INFO]: Подготовка области возрождения: 16%
-[15:53:30] [Server thread/INFO]: Подготовка области возрождения: 20%
-[15:53:30] [Server thread/INFO]: Подготовка области возрождения: 24%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 28%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 32%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 36%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 40%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 44%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 48%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 52%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 56%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 60%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 64%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 68%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 72%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 76%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 80%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 84%
-[15:53:31] [Server thread/INFO]: Подготовка области возрождения: 88%
-[15:53:32] [Server thread/INFO]: Подготовка области возрождения: 92%
-[15:53:32] [Server thread/INFO]: Подготовка области возрождения: 96%
-[15:53:32] [Server thread/INFO]: Подготовка области возрождения: 100%
-[15:53:32] [Server thread/INFO]: Time elapsed: 1719 ms
-[15:53:35] [Server thread/INFO]: DrCreeper[local:E:fe28f1e8] logged in with entity id 534 at (116.21090120923868, 68.0, -222.35395315653253)
-[15:53:35] [Server thread/INFO]: DrCreeper присоединился к игре
-[15:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
-[15:53:37] [Server thread/INFO]: Saving and pausing game...
-[15:53:37] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:53:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:53:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:53:38] [Client thread/INFO]: Loaded 386 advancements
-[15:53:59] [Server thread/INFO]: Saving and pausing game...
-[15:53:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:54:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:54:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:54:27] [Server thread/INFO]: Saving and pausing game...
-[15:54:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:54:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:54:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:55:15] [Server thread/INFO]: Saving and pausing game...
-[15:55:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:55:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:55:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:55:25] [Server thread/INFO]: Saving and pausing game...
-[15:55:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:55:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:55:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:56:03] [Server thread/INFO]: Saving and pausing game...
-[15:56:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:56:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:56:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:56:38] [Server thread/INFO]: Saving and pausing game...
-[15:56:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:56:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:56:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:56:39] [Server thread/INFO]: DrCreeper lost connection: Отключение
-[15:56:39] [Server thread/INFO]: DrCreeper покинул игру
-[15:56:39] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[15:56:39] [Server thread/INFO]: Stopping server
-[15:56:39] [Server thread/INFO]: Saving players
-[15:56:39] [Server thread/INFO]: Saving worlds
-[15:56:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
-[15:56:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
-[15:56:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
-[15:56:40] [Client thread/INFO]: Stopping!
-[15:56:41] [Client thread/INFO]: SoundSystem shutting down...
-[15:56:41] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+[19:43:33] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+[19:43:35] [Client thread/INFO]: Reloading ResourceManager: Default
+[19:43:35] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:43:36] [Thread-2/INFO]: Initializing No Sound
+[19:43:36] [Thread-2/INFO]: (Silent Mode)
+[19:43:36] [Thread-2/INFO]: OpenAL initialized.
+[19:43:36] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+[19:43:36] [Sound Library Loader/INFO]: Sound engine started
+[19:43:40] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[19:43:42] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[19:43:43] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:43:48] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:43:48] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:43:48] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:43:48] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:43:48] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:43:48] [Client thread/INFO]: Loaded 0 recipes
+[19:43:48] [Client thread/INFO]: Loaded 0 advancements
+[19:43:48] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+[19:43:48] [Server thread/INFO]: Generating keypair
+[19:43:49] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:43:49] [Server thread/INFO]: Loaded 524 recipes
+[19:43:50] [Server thread/INFO]: Loaded 571 advancements
+[19:43:50] [Server thread/INFO]: Preparing start region for level 0
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 4%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 8%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 12%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 16%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 20%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 24%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 28%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 32%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 36%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 40%
+[19:43:50] [Server thread/INFO]: Подготовка области возрождения: 44%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 48%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 52%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 56%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 60%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 64%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 68%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 72%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 76%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 80%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 84%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 88%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 92%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 96%
+[19:43:51] [Server thread/INFO]: Подготовка области возрождения: 100%
+[19:43:51] [Server thread/INFO]: Time elapsed: 1337 ms
+[19:43:53] [Server thread/INFO]: DrCreeper[local:E:0edabec8] logged in with entity id 370 at (153.62665443234917, 64.0, -225.35487593528407)
+[19:43:53] [Server thread/INFO]: DrCreeper присоединился к игре
+[19:43:54] [Server thread/INFO]: Saving and pausing game...
+[19:43:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[19:43:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[19:43:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[19:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[19:43:56] [Client thread/INFO]: Loaded 390 advancements
+[19:43:59] [Server thread/INFO]: Saving and pausing game...
+[19:43:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[19:43:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[19:43:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[19:46:50] [Server thread/INFO]: Saving and pausing game...
+[19:46:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[19:46:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[19:46:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[19:46:53] [Server thread/INFO]: Saving and pausing game...
+[19:46:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[19:46:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[19:46:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[19:48:27] [Server thread/INFO]: Saving and pausing game...
+[19:48:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[19:48:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[19:48:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:03:21] [Server thread/INFO]: Saving and pausing game...
+[20:03:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:03:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:03:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:03:32] [Client thread/WARN]: Received passengers for unknown entity
+[20:03:49] [Client thread/WARN]: Received passengers for unknown entity
+[20:04:45] [Server thread/INFO]: Saving and pausing game...
+[20:04:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:04:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:04:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:04:48] [Server thread/INFO]: Saving and pausing game...
+[20:04:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:04:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:04:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:04:53] [Server thread/INFO]: Saving and pausing game...
+[20:04:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:04:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:04:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:04:56] [Server thread/INFO]: Saving and pausing game...
+[20:04:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:04:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:04:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:04:58] [Server thread/INFO]: Saving and pausing game...
+[20:04:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:04:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:04:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:04:59] [Server thread/INFO]: Saving and pausing game...
+[20:04:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:05:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:05:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:05:44] [Server thread/INFO]: Saving and pausing game...
+[20:05:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:05:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:05:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:05:59] [Server thread/INFO]: Saving and pausing game...
+[20:05:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:06:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:06:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:06:28] [Client thread/WARN]: Received passengers for unknown entity
+[20:06:38] [Server thread/INFO]: Saving and pausing game...
+[20:06:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:06:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:06:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:09:14] [Server thread/INFO]: Saving and pausing game...
+[20:09:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:09:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:09:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:13:28] [Server thread/INFO]: Saving and pausing game...
+[20:13:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:13:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:13:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:14:13] [Server thread/INFO]: Saving and pausing game...
+[20:14:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:14:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:14:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:18:05] [Server thread/WARN]: Keeping entity minecraft:skeleton that already exists with UUID da79db3c-6b55-4044-b151-ed880df002db
+[20:26:17] [Client thread/INFO]: Loaded 390 advancements
+[20:28:34] [Server thread/INFO]: Saving and pausing game...
+[20:28:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:28:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:28:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:31:11] [Server thread/INFO]: Saving and pausing game...
+[20:31:11] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:31:11] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:31:11] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:33:35] [Server thread/INFO]: Saving and pausing game...
+[20:33:35] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:33:35] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:33:35] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:33:53] [Server thread/INFO]: Saving and pausing game...
+[20:33:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:33:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:33:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:36:55] [Client thread/WARN]: Received passengers for unknown entity
+[20:37:21] [Client thread/WARN]: Received passengers for unknown entity
+[20:40:21] [Server thread/INFO]: Saving and pausing game...
+[20:40:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:40:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:40:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:42:28] [Client thread/INFO]: Loaded 391 advancements
+[20:42:31] [Client thread/INFO]: Loaded 396 advancements
+[20:44:23] [Server thread/INFO]: Saving and pausing game...
+[20:44:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:44:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:44:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:44:26] [Server thread/INFO]: Saving and pausing game...
+[20:44:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:44:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:44:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:44:28] [Server thread/INFO]: Saving and pausing game...
+[20:44:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:44:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:44:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:50:14] [Server thread/INFO]: Saving and pausing game...
+[20:50:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:50:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:50:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:50:15] [Server thread/INFO]: Saving and pausing game...
+[20:50:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:50:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:50:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:50:53] [Server thread/INFO]: Saving and pausing game...
+[20:50:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:50:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:50:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:51:07] [Server thread/INFO]: Saving and pausing game...
+[20:51:07] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[20:51:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[20:51:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[20:55:39] [Server thread/INFO]: DrCreeper был убит Фантом
+[20:55:39] [Client thread/INFO]: [CHAT] DrCreeper был убит Фантом
+[20:55:42] [Server thread/WARN]: DrCreeper moved wrongly!
+[21:01:20] [Client thread/INFO]: Loaded 397 advancements
+[21:03:31] [Server thread/INFO]: Saving and pausing game...
+[21:03:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:03:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:03:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:03:50] [Server thread/INFO]: Saving and pausing game...
+[21:03:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:03:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:03:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:04:57] [Server thread/INFO]: Saving and pausing game...
+[21:04:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:04:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:04:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:04:58] [Server thread/INFO]: Saving and pausing game...
+[21:04:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:04:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:04:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:05:00] [Server thread/INFO]: Saving and pausing game...
+[21:05:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:05:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:05:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:06:05] [Server thread/INFO]: Saving and pausing game...
+[21:06:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:06:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:06:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:06:12] [Server thread/INFO]: Saving and pausing game...
+[21:06:12] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:06:12] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:06:12] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:06:22] [Server thread/INFO]: Saving and pausing game...
+[21:06:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:06:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:06:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:08:55] [Server thread/INFO]: Saving and pausing game...
+[21:08:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:08:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:08:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:08:59] [Server thread/INFO]: Saving and pausing game...
+[21:08:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:08:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:08:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:09:02] [Server thread/INFO]: Saving and pausing game...
+[21:09:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:09:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:09:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:09:25] [Server thread/INFO]: Saving and pausing game...
+[21:09:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:09:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:09:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:09:32] [Server thread/INFO]: Saving and pausing game...
+[21:09:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:09:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:09:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:09:36] [Server thread/INFO]: Saving and pausing game...
+[21:09:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:09:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:09:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:12:05] [Client thread/INFO]: Loaded 399 advancements
+[21:13:34] [Server thread/INFO]: Saving and pausing game...
+[21:13:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:13:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:13:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[21:20:49] [Server thread/INFO]: DrCreeper был взорван Крипер
+[21:20:49] [Client thread/INFO]: [CHAT] DrCreeper был взорван Крипер
+[21:20:51] [Server thread/WARN]: DrCreeper moved wrongly!
+[21:23:13] [Client thread/INFO]: Loaded 400 advancements
+[21:27:00] [Server thread/INFO]: Saving and pausing game...
+[21:27:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:27:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:27:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:28:06] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[21:30:48] [Server thread/INFO]: Saving and pausing game...
+[21:30:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:30:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:30:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:37:55] [Server thread/INFO]: Saving and pausing game...
+[21:37:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:37:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:37:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:41:06] [Server thread/INFO]: Saving and pausing game...
+[21:41:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:41:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:41:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:41:07] [Server thread/INFO]: DrCreeper lost connection: Отключение
+[21:41:07] [Server thread/INFO]: DrCreeper покинул игру
+[21:41:07] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:41:07] [Server thread/INFO]: Stopping server
+[21:41:07] [Server thread/INFO]: Saving players
+[21:41:07] [Server thread/INFO]: Saving worlds
+[21:41:07] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+[21:41:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+[21:41:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+[21:41:08] [Client thread/INFO]: Stopping!
+[21:41:09] [Client thread/INFO]: SoundSystem shutting down...
+[21:41:09] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
