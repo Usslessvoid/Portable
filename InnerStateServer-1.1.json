@@ -1,6 +1,33 @@
 {
-  "remoteServerList": [],
+  "remoteServerList": [
+    {
+      "minVersion": "1.8",
+      "ignoreVersions": [],
+      "includeVersions": [],
+      "removedTime": [],
+      "recoveryServerTime": 1,
+      "maxRemovingCountServer": 3,
+      "addedDate": "Aug 13, 2018 11:42:35 PM",
+      "name": "MineBlaze.ru",
+      "address": "mc.mineblaze.ru:25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    }
+  ],
   "oldServer": [
+    {
+      "minVersion": "1.8",
+      "ignoreVersions": [],
+      "includeVersions": [],
+      "removedTime": [],
+      "recoveryServerTime": 1,
+      "maxRemovingCountServer": 3,
+      "addedDate": "Aug 13, 2018 4:41:40 PM",
+      "name": "VimeMC.ru",
+      "address": "mc.vimemc.ru:25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    },
     {
       "minVersion": "1.8",
       "ignoreVersions": [
@@ -19,6 +46,33 @@
     }
   ],
   "userServer": [],
-  "serverDatFile": [],
+  "serverDatFile": [
+    {
+      "minVersion": "1.8",
+      "ignoreVersions": [],
+      "includeVersions": [],
+      "removedTime": [],
+      "recoveryServerTime": 1,
+      "maxRemovingCountServer": 3,
+      "addedDate": "Aug 13, 2018 11:42:35 PM",
+      "name": "MineBlaze.ru",
+      "address": "mc.mineblaze.ru:25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    },
+    {
+      "minVersion": "1.8",
+      "ignoreVersions": [],
+      "includeVersions": [],
+      "removedTime": [],
+      "recoveryServerTime": 1,
+      "maxRemovingCountServer": 3,
+      "addedDate": "Aug 13, 2018 4:41:40 PM",
+      "name": "VimeMC.ru",
+      "address": "mc.vimemc.ru:25565",
+      "hideAddress": true,
+      "acceptTextures": 1
+    }
+  ],
   "pageServerList": []
 }

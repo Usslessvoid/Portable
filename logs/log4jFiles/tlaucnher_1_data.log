@@ -4820,3 +4820,1425 @@ C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.versi
 2018-08-03 01:37:41,980 LoopedThread#6 [Launcher] Launcher exited.
 2018-08-03 01:37:41,988 Thread-18 [Launcher] Minecraft closed with exit code: 0
 2018-08-03 01:37:44,249 AWT-EventQueue-0 Good bye!
+2018-08-12 21:22:51,865 main [Loading] INITALIZING
+Starting TLauncher 2.43
+For more information, visit https://tlauncher.org/
+Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+Startup time: 12.08.2018 21:22:51
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2018-08-12 21:22:51,866 main [Downloader2] Loaded configuration: good
+2018-08-12 21:22:51,986 ExtendedThread#4 [Updater] Requesting an update...
+2018-08-12 21:22:51,988 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-12 21:22:51,989 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-08-12 21:22:52,108 ExtendedThread#4 [Updater] Request time: 120 ms
+2018-08-12 21:22:52,109 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-12 21:22:52,117 main [Browser] Loading resources...
+2018-08-12 21:22:52,270 main [Browser] Loading background...
+2018-08-12 21:22:52,355 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-08-12 21:22:52,373 main [Browser] Cleaning up after loading:
+2018-08-12 21:22:52,373 main Starting garbage collector: 41 / 87 MB
+2018-08-12 21:22:52,438 main Garbage collector completed: 14 / 107 MB
+2018-08-12 21:22:52,440 main [Loading] LOADING_MANAGERS
+2018-08-12 21:22:52,442 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2018-08-12 21:22:52,442 JavaFX Application Thread [Browser] Preparing JavaFX...
+2018-08-12 21:22:52,451 main [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-08-12 21:22:52,464 main [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-08-12 21:22:52,466 main [TLauncherManager] Refresh allowed: true
+2018-08-12 21:22:52,467 ExtendedThread#4 [TLauncherManager] Refreshing TLauncher...
+2018-08-12 21:22:52,468 main [AdvertisingStatusObserver]  started to get ad information
+2018-08-12 21:22:52,468 main [AdvertisingStatusObserver]  finished to get add information
+2018-08-12 21:22:52,469 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-08-12 21:22:52,474 main [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-08-12 21:22:52,509 JavaFX Application Thread [Browser] Initializing...
+2018-08-12 21:22:52,534 ExtendedThread#4 [TLauncherManager] Refreshed successfully!
+2018-08-12 21:22:53,001 main [Loading] LOADING_WINDOW
+2018-08-12 21:22:53,039 main [Loading] PREPARING_MAINPANE
+2018-08-12 21:22:53,053 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-08-12 21:22:53,054 JavaFX Application Thread [Browser@1458824551] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-08-12 21:22:53,163 JavaFX Application Thread [Browser] add listens into server_choose
+2018-08-12 21:22:53,489 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-12 21:22:53,513 main [Downloader2] Loaded configuration: good
+2018-08-12 21:22:53,519 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-08-12 21:22:53,520 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-08-12 21:22:53,521 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-08-12 21:22:53,521 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-08-12 21:22:53,523 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-08-12 21:22:53,523 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-08-12 21:22:53,569 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 45 ms.
+2018-08-12 21:22:53,584 AsyncObject#8 [SkinVersionList] Got in 62 ms
+2018-08-12 21:22:53,617 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 95 ms.
+2018-08-12 21:22:53,653 AsyncObject#7 [ExtraVersionList] Got in 133 ms
+2018-08-12 21:22:54,066 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 543 ms.
+2018-08-12 21:22:54,116 AsyncObject#6 [OfficialVersionList] Got in 597 ms
+2018-08-12 21:22:54,117 ExtendedThread#4 [VersionManager] Versions has been refreshed (627 ms)
+2018-08-12 21:22:54,735 main [Loading] POSTINIT_GUI
+2018-08-12 21:22:54,735 main [Frame] Packing main frame...
+2018-08-12 21:22:54,782 main [Frame] Resizing main pane...
+2018-08-12 21:22:54,783 main Updater is already closed. Showing up...
+2018-08-12 21:22:54,783 main Visibility set.
+2018-08-12 21:22:54,784 main [Loading] REFRESHING_INFO
+2018-08-12 21:22:54,785 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-12 21:22:54,787 main Started! (3558 ms.)
+2018-08-12 21:22:54,788 main [Loading] SUCCESS
+2018-08-12 21:22:54,790 ExtendedThread#14 [ServerListManager] Refreshing servers...
+2018-08-12 21:22:54,791 ExtendedThread#14 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2018-08-12 21:22:54,791 ExtendedThread#14 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/configs/servers.json
+2018-08-12 21:22:54,799 main [TLauncher] show tlauncher!!!
+2018-08-12 21:22:54,802 main [Double running] clear time label
+2018-08-12 21:22:54,840 ExtendedThread#14 [REPO][SERVERLIST_REPO] Success: Reached the repo in 49 ms.
+2018-08-12 21:22:54,846 ExtendedThread#14 [ServerListManager] Got in 55 ms
+2018-08-12 21:22:54,847 ExtendedThread#14 [ServerListManager] Servers has been refreshed (56 ms)
+2018-08-12 21:22:54,847 ExtendedThread#14 [ServerListManager] ServerList{[]}
+2018-08-12 21:22:54,881 AsyncObject#16 [OfficialVersionList] Got in 50 ms
+2018-08-12 21:22:54,927 AsyncObject#18 [SkinVersionList] Got in 95 ms
+2018-08-12 21:22:54,989 AsyncObject#17 [ExtraVersionList] Got in 157 ms
+2018-08-12 21:22:54,996 ExtendedThread#4 [VersionManager] Versions has been refreshed (183 ms)
+2018-08-12 21:22:55,177 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/lch/server_info_page.json
+2018-08-12 21:22:55,183 Thread-14 run server on  37842
+2018-08-12 21:22:55,316 main #####    all servers are available   ######
+2018-08-12 21:22:56,020 ExtendedThread#4 [TLauncher] init popupMenuManager
+2018-08-12 21:23:02,525 LoopedThread#9 [LoginForm] Login was OK. Trying to launch now.
+2018-08-12 21:23:02,841 LoopedThread#9 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-08-12 21:23:02,843 LoopedThread#9 [Launcher] Running under TLauncher 2.43
+2018-08-12 21:23:02,844 LoopedThread#9 [Launcher] Current machine: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-08-12 21:23:02,845 LoopedThread#9 [Launcher] Collecting info...
+2018-08-12 21:23:02,857 LoopedThread#9 [TLauncherManager] before clearLibrary null
+2018-08-12 21:23:02,861 LoopedThread#9 [TLauncherManager] written:  []
+2018-08-12 21:23:02,862 LoopedThread#9 [TLauncherManager] after clearLibrary null
+2018-08-12 21:23:02,863 LoopedThread#9 [Launcher] Force update: false
+2018-08-12 21:23:02,864 LoopedThread#9 [Launcher] Selected version: latest-release
+2018-08-12 21:23:02,865 LoopedThread#9 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=DrCreeper}
+2018-08-12 21:23:02,867 LoopedThread#9 [Launcher] Version sync info: VersionSyncInfo{id='1.13',
+local=CompleteVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@3597dad3, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:0.1.27', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@5b82553d, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@13601b6c, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@3597dad3}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-08-12 21:23:02,960 LoopedThread#9 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+2018-08-12 21:23:02,962 LoopedThread#9 [Launcher] Checking conditions...
+2018-08-12 21:23:02,970 LoopedThread#9 [Launcher] Comparing assets...
+2018-08-12 21:23:02,971 LoopedThread#9 [AssetsManager] Checking resources...
+2018-08-12 21:23:02,972 LoopedThread#9 [AssetsManager] Reading indexes from file C:\Programs\Minecraft\assets\indexes\1.13.json
+2018-08-12 21:23:02,991 LoopedThread#9 [AssetsManager] Fast comparing: true
+2018-08-12 21:23:03,095 LoopedThread#9 [Launcher] Delta time to compare assets: 123 ms.
+2018-08-12 21:23:03,316 LoopedThread#9 [VersionManager] Required for version 1.13: []
+2018-08-12 21:23:03,318 LoopedThread#9 [Modpack]  got container
+2018-08-12 21:23:03,346 LoopedThread#9 [Launcher] Unpacking natives...
+2018-08-12 21:23:03,354 LoopedThread#9 [Launcher] Constructing process...
+2018-08-12 21:23:03,355 LoopedThread#9 [Launcher] Constructing classpath...
+2018-08-12 21:23:03,360 LoopedThread#9 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Programs\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Programs\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Programs\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Programs\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Programs\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Programs\Minecraft\libraries\com\mojang\brigadier\0.1.27\brigadier-0.1.27.jar;C:\Programs\Minecraft\libraries\com\mojang\datafixerupper\1.0.16\datafixerupper-1.0.16.jar;C:\Programs\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Programs\Minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Programs\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Programs\Minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Programs\Minecraft\libraries\com\mojang\realms\1.13.3\realms-1.13.3.jar;C:\Programs\Minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Programs\Minecraft\versions\1.13\1.13.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main
+2018-08-12 21:23:03,414 LoopedThread#9 [Launcher] Getting Minecraft arguments...
+2018-08-12 21:23:03,424 LoopedThread#9 read servers from servers.dat []
+2018-08-12 21:23:03,425 LoopedThread#9 [InnerMinecraftServersImpl]  search removed servers
+2018-08-12 21:23:03,426 LoopedThread#9 [InnerMinecraftServersImpl]  prepare inner servers
+2018-08-12 21:23:03,430 LoopedThread#9 save servers to servers.dat []
+2018-08-12 21:23:03,432 LoopedThread#9 [Launcher] Launching Minecraft...
+2018-08-12 21:23:03,434 LoopedThread#9 I'm hiding!
+2018-08-12 21:23:03,436 LoopedThread#9 [TLauncherManager] before onMinecraftLaunch null
+2018-08-12 21:23:03,438 LoopedThread#9 [TLauncherManager] read from  C:\Programs\Minecraft\TempOptifineStore-1.0.json []
+2018-08-12 21:23:03,440 LoopedThread#9 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-08-12 21:23:03,441 LoopedThread#9 [TLauncherManager] after onMinecraftLaunch null
+2018-08-12 21:23:03,442 LoopedThread#9 [Launcher] Starting Minecraft latest-release...
+2018-08-12 21:23:03,443 LoopedThread#9 [Launcher] Launching in: C:\Programs\Minecraft
+2018-08-12 21:23:03,447 LoopedThread#9 [Launcher] Processing post-launch actions. Assist launch: true
+2018-08-12 21:23:04,651 Thread-16 ===============================================================================================
+2018-08-12 21:23:04,653 Thread-16 > [21:23:04] [Client thread/INFO]: Setting user: DrCreeper
+2018-08-12 21:23:07,042 Thread-16 > [21:23:07] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-08-12 21:23:09,688 Thread-16 > [21:23:09] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-08-12 21:23:10,226 Thread-16 > [21:23:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-08-12 21:23:10,453 Thread-16 > [21:23:10] [Thread-2/INFO]: Initializing No Sound
+2018-08-12 21:23:10,459 Thread-16 > [21:23:10] [Thread-2/INFO]: (Silent Mode)
+2018-08-12 21:23:11,572 Thread-16 > [21:23:11] [Thread-2/INFO]: OpenAL initialized.
+2018-08-12 21:23:11,574 Thread-16 > [21:23:11] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-08-12 21:23:11,581 Thread-16 > [21:23:11] [Sound Library Loader/INFO]: Sound engine started
+2018-08-12 21:23:13,801 Thread-16 > [21:23:13] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-08-12 21:23:15,676 Thread-16 > [21:23:15] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-08-12 21:23:16,927 Thread-16 > [21:23:16] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-08-12 21:23:20,945 Thread-16 > [21:23:20] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-12 21:23:20,954 Thread-16 > [21:23:20] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-12 21:23:20,957 Thread-16 > [21:23:20] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-12 21:23:20,960 Thread-16 > [21:23:20] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-12 21:23:20,965 Thread-16 > [21:23:20] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-12 21:23:20,985 Thread-16 > [21:23:20] [Client thread/INFO]: Loaded 0 recipes
+2018-08-12 21:23:20,988 Thread-16 > [21:23:20] [Client thread/INFO]: Loaded 0 advancements
+2018-08-12 21:23:20,998 Thread-16 > [21:23:20] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-12 21:23:21,000 Thread-16 > [21:23:20] [Server thread/INFO]: Generating keypair
+2018-08-12 21:23:21,095 Thread-16 > [21:23:21] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-12 21:23:21,663 Thread-16 > [21:23:21] [Server thread/INFO]: Loaded 524 recipes
+2018-08-12 21:23:22,228 Thread-16 > [21:23:22] [Server thread/INFO]: Loaded 571 advancements
+2018-08-12 21:23:22,351 Thread-16 > [21:23:22] [Server thread/INFO]: Preparing start region for level 0
+2018-08-12 21:23:22,497 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-12 21:23:22,571 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-12 21:23:22,611 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-12 21:23:22,652 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-12 21:23:22,706 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-12 21:23:22,744 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-12 21:23:22,771 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-12 21:23:22,799 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-12 21:23:22,825 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-12 21:23:22,859 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-12 21:23:22,920 Thread-16 > [21:23:22] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-12 21:23:23,023 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-12 21:23:23,064 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-12 21:23:23,110 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-12 21:23:23,173 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-12 21:23:23,207 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-12 21:23:23,251 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-12 21:23:23,295 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-12 21:23:23,343 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-12 21:23:23,398 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-12 21:23:23,455 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-12 21:23:23,492 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-12 21:23:23,525 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-12 21:23:23,572 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-12 21:23:23,601 Thread-16 > [21:23:23] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-12 21:23:23,613 Thread-16 > [21:23:23] [Server thread/INFO]: Time elapsed: 1250 ms
+2018-08-12 21:23:25,478 Thread-16 > [21:23:25] [Server thread/INFO]: DrCreeper[local:E:84305a21] logged in with entity id 430 at (115.86673635882246, 68.0, -225.86920821304673)
+2018-08-12 21:23:25,520 Thread-16 > [21:23:25] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-12 21:23:26,484 Thread-16 > [21:23:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:23:26,562 Thread-16 > [21:23:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:23:27,561 Thread-16 > [21:23:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:23:27,565 Thread-16 > [21:23:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:23:27,567 Thread-16 > [21:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+2018-08-12 21:23:28,413 Thread-16 > [21:23:28] [Client thread/INFO]: Loaded 400 advancements
+2018-08-12 21:25:39,915 Thread-16 > [21:25:39] [Client thread/INFO]: Loaded 403 advancements
+2018-08-12 21:25:40,359 Thread-16 > [21:25:40] [Client thread/INFO]: Loaded 406 advancements
+2018-08-12 21:25:50,007 Thread-16 > [21:25:50] [Client thread/INFO]: Loaded 409 advancements
+2018-08-12 21:30:09,456 Thread-16 > [21:30:09] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:30:09,465 Thread-16 > [21:30:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:30:09,621 Thread-16 > [21:30:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:30:09,623 Thread-16 > [21:30:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:30:28,657 Thread-16 > [21:30:28] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:30:28,665 Thread-16 > [21:30:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:30:28,813 Thread-16 > [21:30:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:30:28,814 Thread-16 > [21:30:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:30:46,655 Thread-16 > [21:30:46] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:30:46,665 Thread-16 > [21:30:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:30:46,801 Thread-16 > [21:30:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:30:46,803 Thread-16 > [21:30:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:32:34,806 Thread-16 > [21:32:34] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:32:34,811 Thread-16 > [21:32:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:32:34,954 Thread-16 > [21:32:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:32:34,956 Thread-16 > [21:32:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:33:04,756 Thread-16 > [21:33:04] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:33:04,763 Thread-16 > [21:33:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:33:04,899 Thread-16 > [21:33:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:33:04,901 Thread-16 > [21:33:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:37:09,305 Thread-16 > [21:37:09] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:37:09,314 Thread-16 > [21:37:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:37:09,464 Thread-16 > [21:37:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:37:09,466 Thread-16 > [21:37:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:38:28,258 Thread-16 > [21:38:28] [Server thread/INFO]: DrCreeper получил достижение «[Осыпь меня алмазами]»
+2018-08-12 21:38:28,267 Thread-16 > [21:38:28] [Client thread/INFO]: [CHAT] DrCreeper получил достижение «[Осыпь меня алмазами]»
+2018-08-12 21:38:28,269 Thread-16 > [21:38:28] [Client thread/INFO]: Loaded 409 advancements
+2018-08-12 21:39:09,855 Thread-16 > [21:39:09] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:39:09,862 Thread-16 > [21:39:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:39:10,043 Thread-16 > [21:39:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:39:10,046 Thread-16 > [21:39:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:39:12,255 Thread-16 > [21:39:12] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:39:12,263 Thread-16 > [21:39:12] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:39:12,403 Thread-16 > [21:39:12] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:39:12,406 Thread-16 > [21:39:12] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:39:17,105 Thread-16 > [21:39:17] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:39:17,114 Thread-16 > [21:39:17] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:39:17,258 Thread-16 > [21:39:17] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:39:17,259 Thread-16 > [21:39:17] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:39:36,558 Thread-16 > [21:39:36] [Client thread/INFO]: Loaded 412 advancements
+2018-08-12 21:40:35,405 Thread-16 > [21:40:35] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:40:35,414 Thread-16 > [21:40:35] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:40:35,552 Thread-16 > [21:40:35] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:40:35,553 Thread-16 > [21:40:35] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:41:25,606 Thread-16 > [21:41:25] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:41:25,613 Thread-16 > [21:41:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:41:25,800 Thread-16 > [21:41:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:41:25,802 Thread-16 > [21:41:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:41:51,205 Thread-16 > [21:41:51] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:41:51,213 Thread-16 > [21:41:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:41:51,359 Thread-16 > [21:41:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:41:51,360 Thread-16 > [21:41:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:46:20,855 Thread-16 > [21:46:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:46:20,863 Thread-16 > [21:46:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:46:20,980 Thread-16 > [21:46:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:46:20,982 Thread-16 > [21:46:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 21:59:18,355 Thread-16 > [21:59:18] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 21:59:18,364 Thread-16 > [21:59:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 21:59:18,476 Thread-16 > [21:59:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 21:59:18,479 Thread-16 > [21:59:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:01:09,455 Thread-16 > [22:01:09] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:01:09,462 Thread-16 > [22:01:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:01:09,615 Thread-16 > [22:01:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:01:09,617 Thread-16 > [22:01:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:01:20,706 Thread-16 > [22:01:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:01:20,715 Thread-16 > [22:01:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:01:20,863 Thread-16 > [22:01:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:01:20,865 Thread-16 > [22:01:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:01:56,205 Thread-16 > [22:01:56] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:01:56,211 Thread-16 > [22:01:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:01:56,373 Thread-16 > [22:01:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:01:56,374 Thread-16 > [22:01:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:01:59,755 Thread-16 > [22:01:59] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:01:59,763 Thread-16 > [22:01:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:01:59,895 Thread-16 > [22:01:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:01:59,897 Thread-16 > [22:01:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:04:42,155 Thread-16 > [22:04:42] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:04:42,159 Thread-16 > [22:04:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:04:42,301 Thread-16 > [22:04:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:04:42,303 Thread-16 > [22:04:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:15:32,156 Thread-16 > [22:15:32] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:15:32,165 Thread-16 > [22:15:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:15:32,290 Thread-16 > [22:15:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:15:32,291 Thread-16 > [22:15:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:16:04,655 Thread-16 > [22:16:04] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:16:04,664 Thread-16 > [22:16:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:16:04,792 Thread-16 > [22:16:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:16:04,793 Thread-16 > [22:16:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:16:06,555 Thread-16 > [22:16:06] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:16:06,563 Thread-16 > [22:16:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:16:06,673 Thread-16 > [22:16:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:16:06,675 Thread-16 > [22:16:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:16:08,906 Thread-16 > [22:16:08] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-12 22:17:02,006 Thread-16 > [22:17:02] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:17:02,013 Thread-16 > [22:17:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:17:02,141 Thread-16 > [22:17:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:17:02,143 Thread-16 > [22:17:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:17:13,955 Thread-16 > [22:17:13] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:17:13,962 Thread-16 > [22:17:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:17:14,080 Thread-16 > [22:17:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:17:14,081 Thread-16 > [22:17:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:17:38,255 Thread-16 > [22:17:38] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:17:38,263 Thread-16 > [22:17:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:17:38,386 Thread-16 > [22:17:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:17:38,387 Thread-16 > [22:17:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:17:44,705 Thread-16 > [22:17:44] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:17:44,710 Thread-16 > [22:17:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:17:44,824 Thread-16 > [22:17:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:17:44,827 Thread-16 > [22:17:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:18:54,355 Thread-16 > [22:18:54] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:18:54,362 Thread-16 > [22:18:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:18:54,485 Thread-16 > [22:18:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:18:54,486 Thread-16 > [22:18:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:19:00,305 Thread-16 > [22:19:00] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:19:00,314 Thread-16 > [22:19:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:19:00,444 Thread-16 > [22:19:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:19:00,446 Thread-16 > [22:19:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:19:44,356 Thread-16 > [22:19:44] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:19:44,367 Thread-16 > [22:19:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:19:44,476 Thread-16 > [22:19:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:19:44,478 Thread-16 > [22:19:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:21:23,105 Thread-16 > [22:21:23] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:21:23,113 Thread-16 > [22:21:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:21:23,230 Thread-16 > [22:21:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:21:23,231 Thread-16 > [22:21:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:21:24,855 Thread-16 > [22:21:24] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:21:24,862 Thread-16 > [22:21:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:21:24,962 Thread-16 > [22:21:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:21:24,963 Thread-16 > [22:21:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:24:48,155 Thread-16 > [22:24:48] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:24:48,169 Thread-16 > [22:24:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:24:48,334 Thread-16 > [22:24:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:24:48,336 Thread-16 > [22:24:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:30:31,955 Thread-16 > [22:30:31] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:30:31,962 Thread-16 > [22:30:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:30:32,114 Thread-16 > [22:30:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:30:32,115 Thread-16 > [22:30:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:36:18,255 Thread-16 > [22:36:18] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:36:18,261 Thread-16 > [22:36:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:36:18,370 Thread-16 > [22:36:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:36:18,372 Thread-16 > [22:36:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:41:58,106 Thread-16 > [22:41:58] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:41:58,112 Thread-16 > [22:41:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:41:58,272 Thread-16 > [22:41:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:41:58,273 Thread-16 > [22:41:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:42:19,455 Thread-16 > [22:42:19] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:42:19,470 Thread-16 > [22:42:19] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:42:19,590 Thread-16 > [22:42:19] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:42:19,594 Thread-16 > [22:42:19] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:42:22,205 Thread-16 > [22:42:22] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:42:22,211 Thread-16 > [22:42:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:42:22,392 Thread-16 > [22:42:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:42:22,394 Thread-16 > [22:42:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:42:25,255 Thread-16 > [22:42:25] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:42:25,262 Thread-16 > [22:42:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:42:25,402 Thread-16 > [22:42:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:42:25,404 Thread-16 > [22:42:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:43:02,356 Thread-16 > [22:43:02] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:43:02,363 Thread-16 > [22:43:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:43:02,539 Thread-16 > [22:43:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:43:02,541 Thread-16 > [22:43:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:43:04,055 Thread-16 > [22:43:04] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:43:04,063 Thread-16 > [22:43:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:43:04,204 Thread-16 > [22:43:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:43:04,205 Thread-16 > [22:43:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:44:59,605 Thread-16 > [22:44:59] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:44:59,613 Thread-16 > [22:44:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:44:59,749 Thread-16 > [22:44:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:44:59,752 Thread-16 > [22:44:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:47:39,355 Thread-16 > [22:47:39] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:47:39,362 Thread-16 > [22:47:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:47:39,511 Thread-16 > [22:47:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:47:39,514 Thread-16 > [22:47:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:47:45,705 Thread-16 > [22:47:45] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:47:45,711 Thread-16 > [22:47:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:47:45,850 Thread-16 > [22:47:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:47:45,852 Thread-16 > [22:47:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:47:51,305 Thread-16 > [22:47:51] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:47:51,312 Thread-16 > [22:47:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:47:51,445 Thread-16 > [22:47:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:47:51,447 Thread-16 > [22:47:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:54:57,456 Thread-16 > [22:54:57] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:54:57,464 Thread-16 > [22:54:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:54:57,587 Thread-16 > [22:54:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:54:57,589 Thread-16 > [22:54:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:55:15,005 Thread-16 > [22:55:15] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-12 22:55:30,605 Thread-16 > [22:55:30] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-12 22:58:14,105 Thread-16 > [22:58:14] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:58:14,112 Thread-16 > [22:58:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:58:14,242 Thread-16 > [22:58:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:58:14,244 Thread-16 > [22:58:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 22:59:09,055 Thread-16 > [22:59:09] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 22:59:09,063 Thread-16 > [22:59:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 22:59:09,208 Thread-16 > [22:59:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 22:59:09,210 Thread-16 > [22:59:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:01:42,106 Thread-16 > [23:01:42] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:01:42,113 Thread-16 > [23:01:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:01:42,236 Thread-16 > [23:01:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:01:42,237 Thread-16 > [23:01:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:01:45,406 Thread-16 > [23:01:45] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:01:45,412 Thread-16 > [23:01:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:01:45,530 Thread-16 > [23:01:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:01:45,531 Thread-16 > [23:01:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:01:48,606 Thread-16 > [23:01:48] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:01:48,614 Thread-16 > [23:01:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:01:48,754 Thread-16 > [23:01:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:01:48,757 Thread-16 > [23:01:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:03:16,655 Thread-16 > [23:03:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:03:16,662 Thread-16 > [23:03:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:03:16,789 Thread-16 > [23:03:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:03:16,792 Thread-16 > [23:03:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:03:20,355 Thread-16 > [23:03:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:03:20,362 Thread-16 > [23:03:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:03:20,489 Thread-16 > [23:03:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:03:20,490 Thread-16 > [23:03:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:06:27,905 Thread-16 > [23:06:27] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:06:27,913 Thread-16 > [23:06:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:06:28,057 Thread-16 > [23:06:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:06:28,059 Thread-16 > [23:06:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:07:40,705 Thread-16 > [23:07:40] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:07:40,713 Thread-16 > [23:07:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:07:40,850 Thread-16 > [23:07:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:07:40,852 Thread-16 > [23:07:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:07:42,906 Thread-16 > [23:07:42] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:07:42,914 Thread-16 > [23:07:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:07:43,030 Thread-16 > [23:07:43] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:07:43,032 Thread-16 > [23:07:43] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:24:18,855 Thread-16 > [23:24:18] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:24:18,862 Thread-16 > [23:24:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:24:18,988 Thread-16 > [23:24:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:24:18,990 Thread-16 > [23:24:18] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:26:37,413 Thread-16 > [23:26:37] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-12 23:29:24,511 Thread-16 > [23:29:24] [Client thread/INFO]: Loaded 412 advancements
+2018-08-12 23:30:36,305 Thread-16 > [23:30:36] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:30:36,312 Thread-16 > [23:30:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:30:36,467 Thread-16 > [23:30:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:30:36,468 Thread-16 > [23:30:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:31:24,256 Thread-16 > [23:31:24] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:31:24,262 Thread-16 > [23:31:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:31:24,417 Thread-16 > [23:31:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:31:24,419 Thread-16 > [23:31:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:33:53,905 Thread-16 > [23:33:53] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-12 23:33:53,955 Thread-16 > [23:33:53] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-12 23:34:09,406 Thread-16 > [23:34:09] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-12 23:34:50,706 Thread-16 > [23:34:50] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:34:50,713 Thread-16 > [23:34:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:34:50,848 Thread-16 > [23:34:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:34:50,849 Thread-16 > [23:34:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:38:01,805 Thread-16 > [23:38:01] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:38:01,812 Thread-16 > [23:38:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:38:01,930 Thread-16 > [23:38:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:38:01,931 Thread-16 > [23:38:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:38:10,305 Thread-16 > [23:38:10] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:38:10,313 Thread-16 > [23:38:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:38:10,425 Thread-16 > [23:38:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:38:10,427 Thread-16 > [23:38:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:38:21,006 Thread-16 > [23:38:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:38:21,015 Thread-16 > [23:38:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:38:21,129 Thread-16 > [23:38:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:38:21,132 Thread-16 > [23:38:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:38:24,156 Thread-16 > [23:38:24] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:38:24,163 Thread-16 > [23:38:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:38:24,310 Thread-16 > [23:38:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:38:24,311 Thread-16 > [23:38:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:38:26,206 Thread-16 > [23:38:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:38:26,212 Thread-16 > [23:38:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:38:26,311 Thread-16 > [23:38:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:38:26,312 Thread-16 > [23:38:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:38:28,306 Thread-16 > [23:38:28] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:38:28,312 Thread-16 > [23:38:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:38:28,421 Thread-16 > [23:38:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:38:28,422 Thread-16 > [23:38:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:39:21,005 Thread-16 > [23:39:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:39:21,012 Thread-16 > [23:39:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:39:21,146 Thread-16 > [23:39:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:39:21,148 Thread-16 > [23:39:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:39:23,606 Thread-16 > [23:39:23] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:39:23,613 Thread-16 > [23:39:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:39:23,728 Thread-16 > [23:39:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:39:23,730 Thread-16 > [23:39:23] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:39:26,155 Thread-16 > [23:39:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:39:26,162 Thread-16 > [23:39:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:39:26,271 Thread-16 > [23:39:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:39:26,272 Thread-16 > [23:39:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:39:28,405 Thread-16 > [23:39:28] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:39:28,411 Thread-16 > [23:39:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:39:28,528 Thread-16 > [23:39:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:39:28,529 Thread-16 > [23:39:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:39:32,755 Thread-16 > [23:39:32] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:39:32,762 Thread-16 > [23:39:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:39:32,872 Thread-16 > [23:39:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:39:32,874 Thread-16 > [23:39:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:51:48,605 Thread-16 > [23:51:48] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:51:48,612 Thread-16 > [23:51:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:51:48,756 Thread-16 > [23:51:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:51:48,758 Thread-16 > [23:51:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:52:47,755 Thread-16 > [23:52:47] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:52:47,763 Thread-16 > [23:52:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:52:47,888 Thread-16 > [23:52:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:52:47,889 Thread-16 > [23:52:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:53:16,405 Thread-16 > [23:53:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:53:16,415 Thread-16 > [23:53:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:53:16,534 Thread-16 > [23:53:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:53:16,536 Thread-16 > [23:53:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:53:20,205 Thread-16 > [23:53:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:53:20,219 Thread-16 > [23:53:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:53:20,339 Thread-16 > [23:53:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:53:20,340 Thread-16 > [23:53:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:53:21,955 Thread-16 > [23:53:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:53:21,963 Thread-16 > [23:53:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:53:22,099 Thread-16 > [23:53:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:53:22,100 Thread-16 > [23:53:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-12 23:53:24,105 Thread-16 > [23:53:24] [Server thread/INFO]: Saving and pausing game...
+2018-08-12 23:53:24,111 Thread-16 > [23:53:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-12 23:53:24,230 Thread-16 > [23:53:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-12 23:53:24,231 Thread-16 > [23:53:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:02:34,205 Thread-16 > [00:02:34] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:02:34,215 Thread-16 > [00:02:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:02:34,368 Thread-16 > [00:02:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:02:34,369 Thread-16 > [00:02:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:05:03,156 Thread-16 > [00:05:03] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:05:03,174 Thread-16 > [00:05:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:05:03,326 Thread-16 > [00:05:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:05:03,328 Thread-16 > [00:05:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:05:16,632 Thread-16 > [00:05:16] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-13 00:08:26,774 Thread-16 > [00:08:26] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-13 00:08:35,128 Thread-16 > [00:08:35] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-13 00:11:06,872 Thread-16 > [00:11:06] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-13 00:14:25,505 Thread-16 > [00:14:25] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:14:25,512 Thread-16 > [00:14:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:14:25,629 Thread-16 > [00:14:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:14:25,631 Thread-16 > [00:14:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:14:26,805 Thread-16 > [00:14:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:14:26,812 Thread-16 > [00:14:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:14:26,920 Thread-16 > [00:14:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:14:26,923 Thread-16 > [00:14:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:15:35,956 Thread-16 > [00:15:35] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-13 00:15:53,805 Thread-16 > [00:15:53] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:15:53,813 Thread-16 > [00:15:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:15:53,933 Thread-16 > [00:15:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:15:53,934 Thread-16 > [00:15:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:17:55,756 Thread-16 > [00:17:55] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:17:55,762 Thread-16 > [00:17:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:17:55,890 Thread-16 > [00:17:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:17:55,893 Thread-16 > [00:17:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:19:21,112 Thread-16 > [00:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+2018-08-13 00:20:21,905 Thread-16 > [00:20:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:20:21,913 Thread-16 > [00:20:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:20:21,993 Thread-16 > [00:20:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:20:22,051 Thread-16 > [00:20:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:20:39,668 Thread-16 > [00:20:39] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-13 00:20:39,670 Thread-16 > [00:20:39] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-13 00:20:40,219 Thread-16 > [00:20:40] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-13 00:20:40,221 Thread-16 > [00:20:40] [Server thread/INFO]: Stopping server
+2018-08-13 00:20:40,222 Thread-16 > [00:20:40] [Server thread/INFO]: Saving players
+2018-08-13 00:20:40,223 Thread-16 > [00:20:40] [Server thread/INFO]: Saving worlds
+2018-08-13 00:20:40,224 Thread-16 > [00:20:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:20:40,304 Thread-16 > [00:20:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:20:40,365 Thread-16 > [00:20:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:21:23,136 Thread-16 > [00:21:23] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:21:23,139 Thread-16 > [00:21:23] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:21:23,144 Thread-16 > [00:21:23] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:21:23,147 Thread-16 > [00:21:23] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:21:23,150 Thread-16 > [00:21:23] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:21:23,153 Thread-16 > [00:21:23] [Client thread/INFO]: Loaded 0 recipes
+2018-08-13 00:21:23,155 Thread-16 > [00:21:23] [Client thread/INFO]: Loaded 0 advancements
+2018-08-13 00:21:23,156 Thread-16 > [00:21:23] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-13 00:21:23,158 Thread-16 > [00:21:23] [Server thread/INFO]: Generating keypair
+2018-08-13 00:21:23,218 Thread-16 > [00:21:23] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-13 00:21:23,497 Thread-16 > [00:21:23] [Server thread/INFO]: Loaded 524 recipes
+2018-08-13 00:21:23,846 Thread-16 > [00:21:23] [Server thread/INFO]: Loaded 571 advancements
+2018-08-13 00:21:23,869 Thread-16 > [00:21:23] [Server thread/INFO]: Preparing start region for level 0
+2018-08-13 00:21:23,934 Thread-16 > [00:21:23] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-13 00:21:23,963 Thread-16 > [00:21:23] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-13 00:21:23,966 Thread-16 > [00:21:23] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 7d62c1a9-c0ab-423f-ba31-c6a9a269c41c
+2018-08-13 00:21:23,973 Thread-16 > [00:21:23] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 3307a8cd-e397-4a9f-a2de-417f4b1f8e67
+2018-08-13 00:21:23,994 Thread-16 > [00:21:23] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-13 00:21:23,998 Thread-16 > [00:21:23] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID eb733ac3-8df0-415e-9062-c8e044d85589
+2018-08-13 00:21:24,022 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-13 00:21:24,034 Thread-16 > [00:21:24] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID d71461c5-ca97-4654-90cc-0c31d74b1d42
+2018-08-13 00:21:24,049 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-13 00:21:24,061 Thread-16 > [00:21:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6a7bcc07-7f9f-4405-aa1b-f235a6285efc
+2018-08-13 00:21:24,076 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-13 00:21:24,102 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-13 00:21:24,151 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-13 00:21:24,189 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-13 00:21:24,216 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-13 00:21:24,248 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-13 00:21:24,282 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-13 00:21:24,313 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-13 00:21:24,345 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-13 00:21:24,378 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-13 00:21:24,408 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-13 00:21:24,437 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-13 00:21:24,466 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-13 00:21:24,517 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-13 00:21:24,546 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-13 00:21:24,577 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-13 00:21:24,605 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-13 00:21:24,632 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-13 00:21:24,649 Thread-16 > [00:21:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6a7bcc07-7f9f-4405-aa1b-f235a6285efc
+2018-08-13 00:21:24,651 Thread-16 > [00:21:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID c3b46c7e-582b-4c3a-9f0e-8f03cee2888f
+2018-08-13 00:21:24,668 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-13 00:21:24,695 Thread-16 > [00:21:24] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-13 00:21:24,697 Thread-16 > [00:21:24] [Server thread/INFO]: Time elapsed: 826 ms
+2018-08-13 00:21:24,833 Thread-16 > [00:21:24] [Server thread/INFO]: DrCreeper[local:E:f19a5f53] logged in with entity id 248447 at (-281.03596237266976, 84.0, -27.641256314030986)
+2018-08-13 00:21:24,844 Thread-16 > [00:21:24] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-13 00:21:25,375 Thread-16 > [00:21:25] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:21:25,381 Thread-16 > [00:21:25] [Server thread/INFO]: Saving chunks for level 'Parcour'/overworld
+2018-08-13 00:21:25,573 Thread-16 > [00:21:25] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_nether
+2018-08-13 00:21:25,574 Thread-16 > [00:21:25] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_end
+2018-08-13 00:21:26,161 Thread-16 > [00:21:26] [Client thread/INFO]: Loaded 100 advancements
+2018-08-13 00:22:00,646 Thread-16 > [00:22:00] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:22:00,651 Thread-16 > [00:22:00] [Server thread/INFO]: Saving chunks for level 'Parcour'/overworld
+2018-08-13 00:22:00,779 Thread-16 > [00:22:00] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_nether
+2018-08-13 00:22:00,781 Thread-16 > [00:22:00] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_end
+2018-08-13 00:22:01,928 Thread-16 > [00:22:01] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-13 00:22:01,930 Thread-16 > [00:22:01] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-13 00:22:01,933 Thread-16 > [00:22:01] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-13 00:22:01,935 Thread-16 > [00:22:01] [Server thread/INFO]: Stopping server
+2018-08-13 00:22:01,936 Thread-16 > [00:22:01] [Server thread/INFO]: Saving players
+2018-08-13 00:22:01,937 Thread-16 > [00:22:01] [Server thread/INFO]: Saving worlds
+2018-08-13 00:22:01,937 Thread-16 > [00:22:01] [Server thread/INFO]: Saving chunks for level 'Parcour'/overworld
+2018-08-13 00:22:02,039 Thread-16 > [00:22:02] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_nether
+2018-08-13 00:22:02,040 Thread-16 > [00:22:02] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_end
+2018-08-13 00:22:14,212 Thread-16 > [00:22:14] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:22:14,218 Thread-16 > [00:22:14] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:22:14,220 Thread-16 > [00:22:14] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:22:14,224 Thread-16 > [00:22:14] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:22:14,228 Thread-16 > [00:22:14] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:22:14,231 Thread-16 > [00:22:14] [Client thread/INFO]: Loaded 0 recipes
+2018-08-13 00:22:14,232 Thread-16 > [00:22:14] [Client thread/INFO]: Loaded 0 advancements
+2018-08-13 00:22:14,233 Thread-16 > [00:22:14] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-13 00:22:14,235 Thread-16 > [00:22:14] [Server thread/INFO]: Generating keypair
+2018-08-13 00:22:14,254 Thread-16 > [00:22:14] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-13 00:22:14,520 Thread-16 > [00:22:14] [Server thread/INFO]: Loaded 524 recipes
+2018-08-13 00:22:14,882 Thread-16 > [00:22:14] [Server thread/INFO]: Loaded 571 advancements
+2018-08-13 00:22:14,886 Thread-16 > [00:22:14] [Server thread/INFO]: Preparing start region for level 0
+2018-08-13 00:22:14,936 Thread-16 > [00:22:14] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-13 00:22:14,976 Thread-16 > [00:22:14] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-13 00:22:15,002 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-13 00:22:15,035 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-13 00:22:15,061 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-13 00:22:15,086 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-13 00:22:15,111 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-13 00:22:15,135 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-13 00:22:15,160 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-13 00:22:15,184 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-13 00:22:15,219 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-13 00:22:15,246 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-13 00:22:15,275 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-13 00:22:15,303 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-13 00:22:15,330 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-13 00:22:15,357 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-13 00:22:15,385 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-13 00:22:15,414 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-13 00:22:15,443 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-13 00:22:15,494 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-13 00:22:15,523 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-13 00:22:15,547 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-13 00:22:15,571 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-13 00:22:15,595 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-13 00:22:15,619 Thread-16 > [00:22:15] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-13 00:22:15,620 Thread-16 > [00:22:15] [Server thread/INFO]: Time elapsed: 732 ms
+2018-08-13 00:22:15,896 Thread-16 > [00:22:15] [Server thread/INFO]: DrCreeper[local:E:4fe9c78b] logged in with entity id 260749 at (43.69999998807907, 37.63647511925052, -38.72406915571351)
+2018-08-13 00:22:15,898 Thread-16 > [00:22:15] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-13 00:22:17,290 Thread-16 > [00:22:17] [Client thread/INFO]: Loaded 412 advancements
+2018-08-13 00:22:18,519 Thread-16 > [00:22:18] [Client thread/INFO]: [CHAT] Неизвестная команда
+2018-08-13 00:22:18,528 Thread-16 > [00:22:18] [Client thread/INFO]: [CHAT] gamemode creative<--[ЗДЕСЬ]
+2018-08-13 00:22:21,219 Thread-16 > [00:22:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:22:21,228 Thread-16 > [00:22:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:22:21,370 Thread-16 > [00:22:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:22:21,425 Thread-16 > [00:22:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:23:00,264 Thread-16 > [00:23:00] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-13 00:23:00,265 Thread-16 > [00:23:00] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-13 00:23:00,273 Thread-16 > [00:23:00] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-13 00:23:00,275 Thread-16 > [00:23:00] [Server thread/INFO]: Stopping server
+2018-08-13 00:23:00,276 Thread-16 > [00:23:00] [Server thread/INFO]: Saving players
+2018-08-13 00:23:00,278 Thread-16 > [00:23:00] [Server thread/INFO]: Saving worlds
+2018-08-13 00:23:00,279 Thread-16 > [00:23:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:23:00,396 Thread-16 > [00:23:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:23:00,447 Thread-16 > [00:23:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:23:07,292 Thread-16 > [00:23:07] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:23:07,294 Thread-16 > [00:23:07] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:23:07,296 Thread-16 > [00:23:07] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:23:07,298 Thread-16 > [00:23:07] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:23:07,301 Thread-16 > [00:23:07] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:23:07,304 Thread-16 > [00:23:07] [Client thread/INFO]: Loaded 0 recipes
+2018-08-13 00:23:07,306 Thread-16 > [00:23:07] [Client thread/INFO]: Loaded 0 advancements
+2018-08-13 00:23:07,307 Thread-16 > [00:23:07] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-13 00:23:07,309 Thread-16 > [00:23:07] [Server thread/INFO]: Generating keypair
+2018-08-13 00:23:07,332 Thread-16 > [00:23:07] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-13 00:23:07,559 Thread-16 > [00:23:07] [Server thread/INFO]: Loaded 524 recipes
+2018-08-13 00:23:07,860 Thread-16 > [00:23:07] [Server thread/INFO]: Loaded 571 advancements
+2018-08-13 00:23:07,865 Thread-16 > [00:23:07] [Server thread/INFO]: Preparing start region for level 0
+2018-08-13 00:23:07,912 Thread-16 > [00:23:07] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-13 00:23:07,942 Thread-16 > [00:23:07] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-13 00:23:07,945 Thread-16 > [00:23:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 7d62c1a9-c0ab-423f-ba31-c6a9a269c41c
+2018-08-13 00:23:07,950 Thread-16 > [00:23:07] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 3307a8cd-e397-4a9f-a2de-417f4b1f8e67
+2018-08-13 00:23:07,970 Thread-16 > [00:23:07] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-13 00:23:07,972 Thread-16 > [00:23:07] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID eb733ac3-8df0-415e-9062-c8e044d85589
+2018-08-13 00:23:07,997 Thread-16 > [00:23:07] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-13 00:23:08,010 Thread-16 > [00:23:08] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID d71461c5-ca97-4654-90cc-0c31d74b1d42
+2018-08-13 00:23:08,026 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-13 00:23:08,038 Thread-16 > [00:23:08] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6a7bcc07-7f9f-4405-aa1b-f235a6285efc
+2018-08-13 00:23:08,052 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-13 00:23:08,078 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-13 00:23:08,122 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-13 00:23:08,148 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-13 00:23:08,174 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-13 00:23:08,201 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-13 00:23:08,230 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-13 00:23:08,259 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-13 00:23:08,290 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-13 00:23:08,322 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-13 00:23:08,352 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-13 00:23:08,381 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-13 00:23:08,410 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-13 00:23:08,457 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-13 00:23:08,485 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-13 00:23:08,514 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-13 00:23:08,541 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-13 00:23:08,567 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-13 00:23:08,582 Thread-16 > [00:23:08] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 6a7bcc07-7f9f-4405-aa1b-f235a6285efc
+2018-08-13 00:23:08,585 Thread-16 > [00:23:08] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID c3b46c7e-582b-4c3a-9f0e-8f03cee2888f
+2018-08-13 00:23:08,595 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-13 00:23:08,621 Thread-16 > [00:23:08] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-13 00:23:08,622 Thread-16 > [00:23:08] [Server thread/INFO]: Time elapsed: 755 ms
+2018-08-13 00:23:08,741 Thread-16 > [00:23:08] [Server thread/INFO]: DrCreeper[local:E:03f429bb] logged in with entity id 261293 at (-280.95861520935273, 84.0, -27.67518900079794)
+2018-08-13 00:23:08,747 Thread-16 > [00:23:08] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-13 00:23:09,582 Thread-16 > [00:23:09] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:23:09,587 Thread-16 > [00:23:09] [Server thread/INFO]: Saving chunks for level 'Parcour'/overworld
+2018-08-13 00:23:09,710 Thread-16 > [00:23:09] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_nether
+2018-08-13 00:23:09,711 Thread-16 > [00:23:09] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_end
+2018-08-13 00:23:10,275 Thread-16 > [00:23:10] [Client thread/INFO]: Loaded 100 advancements
+2018-08-13 00:23:11,623 Thread-16 > [00:23:11] [Server thread/INFO]: [DrCreeper: Ваш режим игры изменён на Творческий режим]
+2018-08-13 00:23:11,626 Thread-16 > [00:23:11] [Client thread/INFO]: [CHAT] Ваш режим игры изменён на Творческий режим
+2018-08-13 00:23:16,471 Thread-16 > [00:23:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:23:16,476 Thread-16 > [00:23:16] [Server thread/INFO]: Saving chunks for level 'Parcour'/overworld
+2018-08-13 00:23:16,581 Thread-16 > [00:23:16] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_nether
+2018-08-13 00:23:16,583 Thread-16 > [00:23:16] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_end
+2018-08-13 00:23:18,930 Thread-16 > [00:23:18] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-13 00:23:18,931 Thread-16 > [00:23:18] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-13 00:23:18,936 Thread-16 > [00:23:18] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-13 00:23:18,937 Thread-16 > [00:23:18] [Server thread/INFO]: Stopping server
+2018-08-13 00:23:18,938 Thread-16 > [00:23:18] [Server thread/INFO]: Saving players
+2018-08-13 00:23:18,941 Thread-16 > [00:23:18] [Server thread/INFO]: Saving worlds
+2018-08-13 00:23:18,942 Thread-16 > [00:23:18] [Server thread/INFO]: Saving chunks for level 'Parcour'/overworld
+2018-08-13 00:23:19,042 Thread-16 > [00:23:19] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_nether
+2018-08-13 00:23:19,043 Thread-16 > [00:23:19] [Server thread/INFO]: Saving chunks for level 'Parcour'/the_end
+2018-08-13 00:23:36,529 Thread-16 > [00:23:36] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:23:36,535 Thread-16 > [00:23:36] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:23:36,537 Thread-16 > [00:23:36] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:23:36,538 Thread-16 > [00:23:36] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-13 00:23:36,541 Thread-16 > [00:23:36] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-13 00:23:36,544 Thread-16 > [00:23:36] [Client thread/INFO]: Loaded 0 recipes
+2018-08-13 00:23:36,545 Thread-16 > [00:23:36] [Client thread/INFO]: Loaded 0 advancements
+2018-08-13 00:23:36,546 Thread-16 > [00:23:36] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-13 00:23:36,548 Thread-16 > [00:23:36] [Server thread/INFO]: Generating keypair
+2018-08-13 00:23:36,576 Thread-16 > [00:23:36] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-13 00:23:36,851 Thread-16 > [00:23:36] [Server thread/INFO]: Loaded 524 recipes
+2018-08-13 00:23:37,174 Thread-16 > [00:23:37] [Server thread/INFO]: Loaded 571 advancements
+2018-08-13 00:23:37,179 Thread-16 > [00:23:37] [Server thread/INFO]: Preparing start region for level 0
+2018-08-13 00:23:37,212 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-13 00:23:37,237 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-13 00:23:37,262 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-13 00:23:37,286 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-13 00:23:37,311 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-13 00:23:37,335 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-13 00:23:37,360 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-13 00:23:37,384 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-13 00:23:37,408 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-13 00:23:37,432 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-13 00:23:37,465 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-13 00:23:37,491 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-13 00:23:37,517 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-13 00:23:37,547 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-13 00:23:37,574 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-13 00:23:37,601 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-13 00:23:37,630 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-13 00:23:37,658 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-13 00:23:37,685 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-13 00:23:37,735 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-13 00:23:37,767 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-13 00:23:37,792 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-13 00:23:37,815 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-13 00:23:37,838 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-13 00:23:37,862 Thread-16 > [00:23:37] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-13 00:23:37,863 Thread-16 > [00:23:37] [Server thread/INFO]: Time elapsed: 683 ms
+2018-08-13 00:23:38,036 Thread-16 > [00:23:38] [Server thread/INFO]: DrCreeper[local:E:d31dc254] logged in with entity id 264315 at (43.69999998807907, 27.398707392063212, -38.72406915571351)
+2018-08-13 00:23:38,041 Thread-16 > [00:23:38] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-13 00:23:39,355 Thread-16 > [00:23:39] [Client thread/INFO]: Loaded 412 advancements
+2018-08-13 00:23:43,489 Thread-16 > [00:23:43] [Server thread/INFO]: DrCreeper решил поплавать в лаве
+2018-08-13 00:23:43,497 Thread-16 > [00:23:43] [Client thread/INFO]: [CHAT] DrCreeper решил поплавать в лаве
+2018-08-13 00:23:46,042 Thread-16 > [00:23:46] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-13 00:23:46,177 Thread-16 > [00:23:46] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:23:46,184 Thread-16 > [00:23:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:23:46,364 Thread-16 > [00:23:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:23:46,415 Thread-16 > [00:23:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:25:56,612 Thread-16 > [00:25:56] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:25:56,618 Thread-16 > [00:25:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:25:56,755 Thread-16 > [00:25:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:25:56,757 Thread-16 > [00:25:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:26:56,713 Thread-16 > [00:26:56] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:26:56,721 Thread-16 > [00:26:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:26:56,863 Thread-16 > [00:26:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:26:56,864 Thread-16 > [00:26:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:28:02,713 Thread-16 > [00:28:02] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:28:02,721 Thread-16 > [00:28:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:28:02,890 Thread-16 > [00:28:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:28:02,891 Thread-16 > [00:28:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:28:04,012 Thread-16 > [00:28:04] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:28:04,019 Thread-16 > [00:28:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:28:04,176 Thread-16 > [00:28:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:28:04,178 Thread-16 > [00:28:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:28:05,462 Thread-16 > [00:28:05] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:28:05,469 Thread-16 > [00:28:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:28:05,599 Thread-16 > [00:28:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:28:05,601 Thread-16 > [00:28:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:28:06,862 Thread-16 > [00:28:06] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:28:06,869 Thread-16 > [00:28:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:28:06,998 Thread-16 > [00:28:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:28:07,001 Thread-16 > [00:28:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:28:14,262 Thread-16 > [00:28:14] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:28:14,270 Thread-16 > [00:28:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:28:14,408 Thread-16 > [00:28:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:28:14,409 Thread-16 > [00:28:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:40:27,864 Thread-16 > [00:40:27] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:40:27,870 Thread-16 > [00:40:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:40:28,006 Thread-16 > [00:40:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:40:28,007 Thread-16 > [00:40:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:40:29,062 Thread-16 > [00:40:29] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:40:29,069 Thread-16 > [00:40:29] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:40:29,206 Thread-16 > [00:40:29] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:40:29,207 Thread-16 > [00:40:29] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:46:33,713 Thread-16 > [00:46:33] [Server thread/INFO]: Saving and pausing game...
+2018-08-13 00:46:33,722 Thread-16 > [00:46:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:46:33,866 Thread-16 > [00:46:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:46:33,867 Thread-16 > [00:46:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:46:34,791 Thread-16 > [00:46:34] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-13 00:46:34,794 Thread-16 > [00:46:34] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-13 00:46:34,805 Thread-16 > [00:46:34] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-13 00:46:34,808 Thread-16 > [00:46:34] [Server thread/INFO]: Stopping server
+2018-08-13 00:46:34,810 Thread-16 > [00:46:34] [Server thread/INFO]: Saving players
+2018-08-13 00:46:34,812 Thread-16 > [00:46:34] [Server thread/INFO]: Saving worlds
+2018-08-13 00:46:34,813 Thread-16 > [00:46:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-13 00:46:34,950 Thread-16 > [00:46:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-13 00:46:34,951 Thread-16 > [00:46:34] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-13 00:46:35,777 Thread-16 > [00:46:35] [Client thread/INFO]: Stopping!
+2018-08-13 00:46:36,257 Thread-16 > [00:46:36] [Client thread/INFO]: SoundSystem shutting down...
+2018-08-13 00:46:36,474 Thread-16 > [00:46:36] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-08-13 00:46:36,837 Thread-16 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-08-13 00:46:36,922 Thread-16 Here I am!
+2018-08-13 00:46:36,944 Thread-16 [VersionManager] Refreshing versions locally...
+2018-08-13 00:46:36,950 Thread-16 [VersionManager] Versions has been refreshed (5 ms)
+2018-08-13 00:46:36,960 Thread-16 [Launcher] Minecraft closed with exit code: 0
+2018-08-13 00:46:36,963 LoopedThread#9 [Launcher] Launcher exited.
+2018-08-13 00:46:39,226 AWT-EventQueue-0 Good bye!
+2018-08-14 15:04:03,791 main [Loading] INITALIZING
+Starting TLauncher 2.43
+For more information, visit https://tlauncher.org/
+Machine info: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+Startup time: 14.08.2018 15:04:02
+---
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\DrCreeper\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2018-08-14 15:04:03,792 main [Downloader2] Loaded configuration: good
+2018-08-14 15:04:03,921 ExtendedThread#4 [Updater] Requesting an update...
+2018-08-14 15:04:03,931 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-14 15:04:03,933 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.43&client=ae78c8d3-0b1b-42ce-9d08-273e819ac135
+2018-08-14 15:04:04,068 ExtendedThread#4 [Updater] Request time: 137 ms
+2018-08-14 15:04:04,069 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2018-08-14 15:04:04,276 main [Browser] Loading resources...
+2018-08-14 15:04:04,444 main [Browser] Loading background...
+2018-08-14 15:04:04,522 main [Browser] Cleaning up after loading:
+2018-08-14 15:04:04,523 main Starting garbage collector: 35 / 87 MB
+2018-08-14 15:04:04,585 main Garbage collector completed: 13 / 109 MB
+2018-08-14 15:04:04,602 main [Loading] LOADING_MANAGERS
+2018-08-14 15:04:04,614 main [LocalVersionList] Base directory: C:\Programs\Minecraft
+2018-08-14 15:04:04,627 main [ProfileManager] Refreshing profiles from: C:\Programs\Minecraft\TlauncherProfiles.json
+2018-08-14 15:04:04,629 main [TLauncherManager] Refresh allowed: true
+2018-08-14 15:04:04,630 ExtendedThread#4 [TLauncherManager] Refreshing TLauncher...
+2018-08-14 15:04:04,631 main [AdvertisingStatusObserver]  started to get ad information
+2018-08-14 15:04:04,632 main [AdvertisingStatusObserver]  finished to get add information
+2018-08-14 15:04:04,633 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.0.json
+2018-08-14 15:04:04,641 main [GsonUtil]  request to http://repo.tlauncher.org/update/lch/servers/servers_info.xml
+2018-08-14 15:04:04,694 ExtendedThread#4 [TLauncherManager] Refreshed successfully!
+2018-08-14 15:04:04,839 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2018-08-14 15:04:04,845 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2018-08-14 15:04:04,845 JavaFX Application Thread [Browser] Preparing JavaFX...
+2018-08-14 15:04:04,912 JavaFX Application Thread [Browser] Initializing...
+2018-08-14 15:04:05,107 main [Loading] LOADING_WINDOW
+2018-08-14 15:04:05,164 main [Loading] PREPARING_MAINPANE
+2018-08-14 15:04:05,644 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2018-08-14 15:04:05,645 JavaFX Application Thread [Browser@1407587735] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2018-08-14 15:04:05,773 JavaFX Application Thread [Browser] add listens into server_choose
+2018-08-14 15:04:06,037 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-14 15:04:06,076 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Selecting relevant path...
+2018-08-14 15:04:06,078 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: https://launchermeta.mojang.com/mc/game/
+2018-08-14 15:04:06,088 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Selecting relevant path...
+2018-08-14 15:04:06,089 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Selecting relevant path...
+2018-08-14 15:04:06,090 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/skin/versions/
+2018-08-14 15:04:06,091 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new2/
+2018-08-14 15:04:06,099 main [Downloader2] Loaded configuration: good
+2018-08-14 15:04:06,136 AsyncObject#8 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 46 ms.
+2018-08-14 15:04:06,153 AsyncObject#8 [SkinVersionList] Got in 64 ms
+2018-08-14 15:04:06,180 AsyncObject#7 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 88 ms.
+2018-08-14 15:04:06,224 AsyncObject#7 [ExtraVersionList] Got in 136 ms
+2018-08-14 15:04:06,764 AsyncObject#6 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 682 ms.
+2018-08-14 15:04:06,815 AsyncObject#6 [OfficialVersionList] Got in 739 ms
+2018-08-14 15:04:06,817 ExtendedThread#4 [VersionManager] Versions has been refreshed (779 ms)
+2018-08-14 15:04:07,596 main [Loading] POSTINIT_GUI
+2018-08-14 15:04:07,597 main [Frame] Packing main frame...
+2018-08-14 15:04:07,685 main [Frame] Resizing main pane...
+2018-08-14 15:04:07,686 main Updater is already closed. Showing up...
+2018-08-14 15:04:07,686 main Visibility set.
+2018-08-14 15:04:07,689 main [Loading] REFRESHING_INFO
+2018-08-14 15:04:07,696 ExtendedThread#14 [ServerListManager] Refreshing servers...
+2018-08-14 15:04:07,696 ExtendedThread#14 [REPO][SERVERLIST_REPO] Selecting relevant path...
+2018-08-14 15:04:07,698 main Started! (4881 ms.)
+2018-08-14 15:04:07,698 main [Loading] SUCCESS
+2018-08-14 15:04:07,699 ExtendedThread#14 [REPO][SERVERLIST_REPO] Attempt #1; timeout: 5000 ms; url: http://repo.tlauncher.org/update/downloads/configs/servers.json
+2018-08-14 15:04:07,702 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2018-08-14 15:04:07,711 main [TLauncher] show tlauncher!!!
+2018-08-14 15:04:07,714 main send unique id  Mon Aug 13 16:41:25 MSK 2018 long value= 1534167685688
+2018-08-14 15:04:07,716 main [Double running] clear time label
+2018-08-14 15:04:07,748 ExtendedThread#14 [REPO][SERVERLIST_REPO] Success: Reached the repo in 46 ms.
+2018-08-14 15:04:07,759 ExtendedThread#14 [ServerListManager] Got in 63 ms
+2018-08-14 15:04:07,760 ExtendedThread#14 [ServerListManager] Servers has been refreshed (64 ms)
+2018-08-14 15:04:07,760 ExtendedThread#14 [ServerListManager] ServerList{[RemoteServer{minVersion='1.8', ignoreVersions=[], includeVersions=[], removedTime=[], recoveryServerTime=1, maxRemovingCountServer=3, addedDate=null}]}
+2018-08-14 15:04:08,117 main #####    all servers are available   ######
+2018-08-14 15:04:08,244 AsyncObject#23 [SkinVersionList] Got in 48 ms
+2018-08-14 15:04:08,250 AsyncObject#21 [OfficialVersionList] Got in 53 ms
+2018-08-14 15:04:08,292 AsyncObject#22 [ExtraVersionList] Got in 96 ms
+2018-08-14 15:04:08,293 ExtendedThread#4 [VersionManager] Versions has been refreshed (109 ms)
+2018-08-14 15:04:08,325 ExtendedThread#4 [GsonUtil]  request to http://repo.tlauncher.org/update/lch/server_info_page.json
+2018-08-14 15:04:08,348 Thread-16 run server on  37842
+2018-08-14 15:04:09,299 ExtendedThread#4 [TLauncher] init popupMenuManager
+2018-08-14 15:04:18,908 LoopedThread#9 [LoginForm] Login was OK. Trying to launch now.
+2018-08-14 15:04:19,233 LoopedThread#9 [Launcher] Minecraft Launcher [21;9] has initialized
+2018-08-14 15:04:19,235 LoopedThread#9 [Launcher] Running under TLauncher 2.43
+2018-08-14 15:04:19,236 LoopedThread#9 [Launcher] Current machine: Windows 10 10.0, Java 1.8.0_181 ,jvm bit=x64, 6005 MB RAM
+2018-08-14 15:04:19,237 LoopedThread#9 [Launcher] Collecting info...
+2018-08-14 15:04:19,248 LoopedThread#9 [TLauncherManager] before clearLibrary null
+2018-08-14 15:04:19,252 LoopedThread#9 [TLauncherManager] written:  []
+2018-08-14 15:04:19,253 LoopedThread#9 [TLauncherManager] after clearLibrary null
+2018-08-14 15:04:19,255 LoopedThread#9 [Launcher] Force update: false
+2018-08-14 15:04:19,256 LoopedThread#9 [Launcher] Selected version: latest-release
+2018-08-14 15:04:19,257 LoopedThread#9 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=DrCreeper}
+2018-08-14 15:04:19,262 LoopedThread#9 [Launcher] Version sync info: VersionSyncInfo{id='1.13',
+local=CompleteVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.13', source=local_version_repo, list=net.minecraft.launcher.updater.OfficialVersionList@22cb597, libraries=[Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:0.1.27', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:1.0.16', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.13.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.1.6', rules=null, natives={LINUX=natives-linux, OSX=natives-macos, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@5282ac2b, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@37c94e39, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.13', time=Fri Jul 20 16:11:52 MSK 2018, release=Wed Jul 18 18:11:46 MSK 2018, type=release, source=official_version_repo, skinVersion=false, list=net.minecraft.launcher.updater.OfficialVersionList@22cb597}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2018-08-14 15:04:19,358 LoopedThread#9 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+2018-08-14 15:04:19,360 LoopedThread#9 [Launcher] Checking conditions...
+2018-08-14 15:04:19,372 LoopedThread#9 [Launcher] Comparing assets...
+2018-08-14 15:04:19,373 LoopedThread#9 [AssetsManager] Checking resources...
+2018-08-14 15:04:19,374 LoopedThread#9 [AssetsManager] Reading indexes from file C:\Programs\Minecraft\assets\indexes\1.13.json
+2018-08-14 15:04:19,394 LoopedThread#9 [AssetsManager] Fast comparing: true
+2018-08-14 15:04:19,544 LoopedThread#9 [Launcher] Delta time to compare assets: 170 ms.
+2018-08-14 15:04:19,850 LoopedThread#9 [VersionManager] Required for version 1.13: []
+2018-08-14 15:04:19,852 LoopedThread#9 [Modpack]  got container
+2018-08-14 15:04:19,882 LoopedThread#9 [Launcher] Unpacking natives...
+2018-08-14 15:04:19,892 LoopedThread#9 [Launcher] Constructing process...
+2018-08-14 15:04:19,893 LoopedThread#9 [Launcher] Constructing classpath...
+2018-08-14 15:04:19,899 LoopedThread#9 [Launcher] Half command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Xmn128M -Xmx4605M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Programs\Minecraft\versions\1.13\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Programs\Minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Programs\Minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Programs\Minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Programs\Minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Programs\Minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Programs\Minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Programs\Minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Programs\Minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Programs\Minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Programs\Minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Programs\Minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Programs\Minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Programs\Minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Programs\Minecraft\libraries\com\mojang\brigadier\0.1.27\brigadier-0.1.27.jar;C:\Programs\Minecraft\libraries\com\mojang\datafixerupper\1.0.16\datafixerupper-1.0.16.jar;C:\Programs\Minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Programs\Minecraft\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar;C:\Programs\Minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Programs\Minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Programs\Minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Programs\Minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Programs\Minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl\3.1.6\lwjgl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.1.6\lwjgl-jemalloc-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-openal\3.1.6\lwjgl-openal-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-opengl\3.1.6\lwjgl-opengl-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-glfw\3.1.6\lwjgl-glfw-3.1.6.jar;C:\Programs\Minecraft\libraries\org\lwjgl\lwjgl-stb\3.1.6\lwjgl-stb-3.1.6.jar;C:\Programs\Minecraft\libraries\com\mojang\realms\1.13.3\realms-1.13.3.jar;C:\Programs\Minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Programs\Minecraft\versions\1.13\1.13.jar -XX:+UseConcMarkSweepGC -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.client.main.Main
+2018-08-14 15:04:19,939 LoopedThread#9 [Launcher] Getting Minecraft arguments...
+2018-08-14 15:04:19,965 LoopedThread#9 read servers from servers.dat [Server{name='MineBlaze.ru', address='mc.mineblaze.ru:25565', ip='mc.mineblaze.ru', port='25565', hideAddress=true, acceptTextures=1}, Server{name='VimeMC.ru', address='mc.vimemc.ru:25565', ip='mc.vimemc.ru', port='25565', hideAddress=true, acceptTextures=1}]
+2018-08-14 15:04:19,968 LoopedThread#9 [InnerMinecraftServersImpl]  search removed servers
+2018-08-14 15:04:19,969 LoopedThread#9 [InnerMinecraftServersImpl]  prepare inner servers
+2018-08-14 15:04:19,973 LoopedThread#9 save servers to servers.dat [RemoteServer{minVersion='1.8', ignoreVersions=[], includeVersions=[], removedTime=[], recoveryServerTime=1, maxRemovingCountServer=3, addedDate=Mon Aug 13 23:42:35 MSK 2018}, RemoteServer{minVersion='1.8', ignoreVersions=[], includeVersions=[], removedTime=[], recoveryServerTime=1, maxRemovingCountServer=3, addedDate=Mon Aug 13 16:41:40 MSK 2018}]
+2018-08-14 15:04:19,981 LoopedThread#9 [Launcher] Launching Minecraft...
+2018-08-14 15:04:19,985 LoopedThread#9 I'm hiding!
+2018-08-14 15:04:19,986 LoopedThread#9 [TLauncherManager] before onMinecraftLaunch null
+2018-08-14 15:04:19,989 LoopedThread#9 [TLauncherManager] read from  C:\Programs\Minecraft\TempOptifineStore-1.0.json []
+2018-08-14 15:04:19,992 LoopedThread#9 [TLauncherManager] has written in  TempOptifineStore-1.0.json []
+2018-08-14 15:04:19,993 LoopedThread#9 [TLauncherManager] after onMinecraftLaunch null
+2018-08-14 15:04:19,994 LoopedThread#9 [Launcher] Starting Minecraft latest-release...
+2018-08-14 15:04:19,995 LoopedThread#9 [Launcher] Launching in: C:\Programs\Minecraft
+2018-08-14 15:04:20,001 LoopedThread#9 [Launcher] Processing post-launch actions. Assist launch: true
+2018-08-14 15:04:21,471 Thread-18 ===============================================================================================
+2018-08-14 15:04:21,473 Thread-18 > [15:04:21] [Client thread/INFO]: Setting user: DrCreeper
+2018-08-14 15:04:24,339 Thread-18 > [15:04:24] [Client thread/INFO]: LWJGL Version: 3.1.6 build 14
+2018-08-14 15:04:26,228 Thread-18 > [15:04:26] [Client thread/INFO]: Reloading ResourceManager: Default
+2018-08-14 15:04:26,989 Thread-18 > [15:04:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+2018-08-14 15:04:27,217 Thread-18 > [15:04:27] [Thread-2/INFO]: Initializing No Sound
+2018-08-14 15:04:27,222 Thread-18 > [15:04:27] [Thread-2/INFO]: (Silent Mode)
+2018-08-14 15:04:27,613 Thread-18 > [15:04:27] [Thread-2/INFO]: OpenAL initialized.
+2018-08-14 15:04:27,644 Thread-18 > [15:04:27] [Sound Library Loader/INFO]: Preloading sound minecraft:sounds/ambient/underwater/underwater_ambience.ogg
+2018-08-14 15:04:27,647 Thread-18 > [15:04:27] [Sound Library Loader/INFO]: Sound engine started
+2018-08-14 15:04:31,604 Thread-18 > [15:04:31] [Client thread/INFO]: Created: 1024x512 textures-atlas
+2018-08-14 15:04:33,740 Thread-18 > [15:04:33] [Client thread/INFO]: Narrator library for x64 successfully loaded
+2018-08-14 15:04:34,961 Thread-18 > [15:04:34] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+2018-08-14 15:04:39,018 Thread-18 > [15:04:39] [Client thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-14 15:04:39,021 Thread-18 > [15:04:39] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-14 15:04:39,025 Thread-18 > [15:04:39] [Client thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-14 15:04:39,029 Thread-18 > [15:04:39] [Client thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2018-08-14 15:04:39,035 Thread-18 > [15:04:39] [Client thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2018-08-14 15:04:39,059 Thread-18 > [15:04:39] [Client thread/INFO]: Loaded 0 recipes
+2018-08-14 15:04:39,062 Thread-18 > [15:04:39] [Client thread/INFO]: Loaded 0 advancements
+2018-08-14 15:04:39,069 Thread-18 > [15:04:39] [Server thread/INFO]: Starting integrated minecraft server version 1.13
+2018-08-14 15:04:39,099 Thread-18 > [15:04:39] [Server thread/INFO]: Generating keypair
+2018-08-14 15:04:39,323 Thread-18 > [15:04:39] [Server thread/INFO]: Reloading ResourceManager: Default
+2018-08-14 15:04:39,948 Thread-18 > [15:04:39] [Server thread/INFO]: Loaded 524 recipes
+2018-08-14 15:04:40,626 Thread-18 > [15:04:40] [Server thread/INFO]: Loaded 571 advancements
+2018-08-14 15:04:40,786 Thread-18 > [15:04:40] [Server thread/INFO]: Preparing start region for level 0
+2018-08-14 15:04:40,980 Thread-18 > [15:04:40] [Server thread/INFO]: Подготовка области возрождения: 4%
+2018-08-14 15:04:41,046 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 8%
+2018-08-14 15:04:41,098 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 12%
+2018-08-14 15:04:41,160 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 16%
+2018-08-14 15:04:41,232 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 20%
+2018-08-14 15:04:41,283 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 24%
+2018-08-14 15:04:41,325 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 28%
+2018-08-14 15:04:41,353 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 32%
+2018-08-14 15:04:41,409 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 36%
+2018-08-14 15:04:41,443 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 40%
+2018-08-14 15:04:41,547 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 44%
+2018-08-14 15:04:41,650 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 48%
+2018-08-14 15:04:41,698 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 52%
+2018-08-14 15:04:41,747 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 56%
+2018-08-14 15:04:41,794 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 60%
+2018-08-14 15:04:41,852 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 64%
+2018-08-14 15:04:41,924 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 68%
+2018-08-14 15:04:41,968 Thread-18 > [15:04:41] [Server thread/INFO]: Подготовка области возрождения: 72%
+2018-08-14 15:04:42,016 Thread-18 > [15:04:42] [Server thread/INFO]: Подготовка области возрождения: 76%
+2018-08-14 15:04:42,092 Thread-18 > [15:04:42] [Server thread/INFO]: Подготовка области возрождения: 80%
+2018-08-14 15:04:42,175 Thread-18 > [15:04:42] [Server thread/INFO]: Подготовка области возрождения: 84%
+2018-08-14 15:04:42,213 Thread-18 > [15:04:42] [Server thread/INFO]: Подготовка области возрождения: 88%
+2018-08-14 15:04:42,266 Thread-18 > [15:04:42] [Server thread/INFO]: Подготовка области возрождения: 92%
+2018-08-14 15:04:42,302 Thread-18 > [15:04:42] [Server thread/INFO]: Подготовка области возрождения: 96%
+2018-08-14 15:04:42,334 Thread-18 > [15:04:42] [Server thread/INFO]: Подготовка области возрождения: 100%
+2018-08-14 15:04:42,336 Thread-18 > [15:04:42] [Server thread/INFO]: Time elapsed: 1539 ms
+2018-08-14 15:04:46,419 Thread-18 > [15:04:46] [Server thread/INFO]: DrCreeper[local:E:8e7d2941] logged in with entity id 590 at (116.48990310982242, 68.0, -211.6563810013908)
+2018-08-14 15:04:46,459 Thread-18 > [15:04:46] [Server thread/INFO]: DrCreeper присоединился к игре
+2018-08-14 15:04:49,262 Thread-18 > [15:04:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+2018-08-14 15:04:49,264 Thread-18 > [15:04:49] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:04:49,306 Thread-18 > [15:04:49] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:04:49,955 Thread-18 > [15:04:49] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:04:49,957 Thread-18 > [15:04:49] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:04:50,366 Thread-18 > [15:04:50] [Client thread/INFO]: Loaded 420 advancements
+2018-08-14 15:04:53,423 Thread-18 > [15:04:53] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:04:53,462 Thread-18 > [15:04:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:04:53,764 Thread-18 > [15:04:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:04:53,766 Thread-18 > [15:04:53] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:09:39,187 Thread-18 > [15:09:39] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:09:39,196 Thread-18 > [15:09:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:09:39,393 Thread-18 > [15:09:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:09:39,395 Thread-18 > [15:09:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:09:56,765 Thread-18 > [15:09:56] [Server thread/INFO]: DrCreeper был взорван Крипер
+2018-08-14 15:09:56,774 Thread-18 > [15:09:56] [Client thread/INFO]: [CHAT] DrCreeper был взорван Крипер
+2018-08-14 15:09:59,202 Thread-18 > [15:09:59] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-14 15:10:02,387 Thread-18 > [15:10:02] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:10:02,399 Thread-18 > [15:10:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:10:02,707 Thread-18 > [15:10:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:10:02,709 Thread-18 > [15:10:02] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:10:22,088 Thread-18 > [15:10:22] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:10:22,094 Thread-18 > [15:10:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:10:22,254 Thread-18 > [15:10:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:10:22,256 Thread-18 > [15:10:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:10:26,524 Thread-18 > [15:10:26] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 15:10:45,120 Thread-18 > [15:10:45] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 15:10:56,810 Thread-18 > [15:10:56] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 15:11:15,187 Thread-18 > [15:11:15] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:11:15,195 Thread-18 > [15:11:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:11:15,379 Thread-18 > [15:11:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:11:15,381 Thread-18 > [15:11:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:12:15,256 Thread-18 > [15:12:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+2018-08-14 15:14:08,187 Thread-18 > [15:14:08] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:14:08,192 Thread-18 > [15:14:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:14:08,313 Thread-18 > [15:14:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:14:08,410 Thread-18 > [15:14:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:14:20,138 Thread-18 > [15:14:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:14:20,149 Thread-18 > [15:14:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:14:20,237 Thread-18 > [15:14:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:14:20,315 Thread-18 > [15:14:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:14:26,437 Thread-18 > [15:14:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:14:26,445 Thread-18 > [15:14:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:14:26,527 Thread-18 > [15:14:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:14:26,619 Thread-18 > [15:14:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:19:54,787 Thread-18 > [15:19:54] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:19:54,796 Thread-18 > [15:19:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:19:54,879 Thread-18 > [15:19:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:19:54,988 Thread-18 > [15:19:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:19:58,588 Thread-18 > [15:19:58] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:19:58,597 Thread-18 > [15:19:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:19:58,673 Thread-18 > [15:19:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:19:58,720 Thread-18 > [15:19:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:23:14,788 Thread-18 > [15:23:14] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:23:14,797 Thread-18 > [15:23:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:23:14,877 Thread-18 > [15:23:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:23:14,970 Thread-18 > [15:23:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:27:14,638 Thread-18 > [15:27:14] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:27:14,645 Thread-18 > [15:27:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:27:14,737 Thread-18 > [15:27:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:27:14,821 Thread-18 > [15:27:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:27:31,752 Thread-18 > [15:27:31] [Server thread/INFO]: Changing difficulty to PEACEFUL, from NORMAL
+2018-08-14 15:27:32,487 Thread-18 > [15:27:32] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:27:32,500 Thread-18 > [15:27:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:27:32,588 Thread-18 > [15:27:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:27:32,648 Thread-18 > [15:27:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:28:08,040 Thread-18 > [15:28:08] [Server thread/INFO]: DrCreeper решил поплавать в лаве
+2018-08-14 15:28:08,042 Thread-18 > [15:28:08] [Client thread/INFO]: [CHAT] DrCreeper решил поплавать в лаве
+2018-08-14 15:28:10,410 Thread-18 > [15:28:10] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-14 15:28:10,534 Thread-18 > [15:28:10] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:28:10,540 Thread-18 > [15:28:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:28:10,703 Thread-18 > [15:28:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:28:10,721 Thread-18 > [15:28:10] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:28:15,037 Thread-18 > [15:28:15] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:28:15,049 Thread-18 > [15:28:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:28:15,243 Thread-18 > [15:28:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:28:15,245 Thread-18 > [15:28:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:30:47,339 Thread-18 > [15:30:47] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:30:47,348 Thread-18 > [15:30:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:30:47,490 Thread-18 > [15:30:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:30:47,528 Thread-18 > [15:30:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:31:50,638 Thread-18 > [15:31:50] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:31:50,648 Thread-18 > [15:31:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:31:50,719 Thread-18 > [15:31:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:31:50,741 Thread-18 > [15:31:50] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:31:52,037 Thread-18 > [15:31:52] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:31:52,047 Thread-18 > [15:31:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:31:52,109 Thread-18 > [15:31:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:31:52,116 Thread-18 > [15:31:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:31:55,239 Thread-18 > [15:31:55] [Server thread/INFO]: Changing difficulty to HARD, from PEACEFUL
+2018-08-14 15:32:01,037 Thread-18 > [15:32:01] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:32:01,045 Thread-18 > [15:32:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:32:01,107 Thread-18 > [15:32:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:32:01,186 Thread-18 > [15:32:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:32:04,107 Thread-18 > [15:32:04] [Server thread/INFO]: Changing difficulty to NORMAL, from HARD
+2018-08-14 15:35:45,987 Thread-18 > [15:35:45] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:35:45,997 Thread-18 > [15:35:45] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:35:46,065 Thread-18 > [15:35:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:35:46,187 Thread-18 > [15:35:46] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:38:36,887 Thread-18 > [15:38:36] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:38:36,895 Thread-18 > [15:38:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:38:36,962 Thread-18 > [15:38:36] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:38:37,048 Thread-18 > [15:38:37] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:45:43,238 Thread-18 > [15:45:43] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:45:43,252 Thread-18 > [15:45:43] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:45:43,351 Thread-18 > [15:45:43] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:45:43,516 Thread-18 > [15:45:43] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:45:47,237 Thread-18 > [15:45:47] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:45:47,247 Thread-18 > [15:45:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:45:47,327 Thread-18 > [15:45:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:45:47,396 Thread-18 > [15:45:47] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 15:49:59,552 Thread-18 > [15:49:59] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 15:51:46,107 Thread-18 > [15:51:46] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 15:57:32,337 Thread-18 > [15:57:32] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 15:57:32,345 Thread-18 > [15:57:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 15:57:32,415 Thread-18 > [15:57:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 15:57:32,551 Thread-18 > [15:57:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:01:32,887 Thread-18 > [16:01:32] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:01:32,896 Thread-18 > [16:01:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:01:32,969 Thread-18 > [16:01:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:01:33,092 Thread-18 > [16:01:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:03:56,338 Thread-18 > [16:03:56] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:03:56,346 Thread-18 > [16:03:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:03:56,405 Thread-18 > [16:03:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:03:56,570 Thread-18 > [16:03:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:03:57,987 Thread-18 > [16:03:57] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:03:57,997 Thread-18 > [16:03:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:03:58,054 Thread-18 > [16:03:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:03:58,110 Thread-18 > [16:03:58] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:04:05,337 Thread-18 > [16:04:05] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:04:05,346 Thread-18 > [16:04:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:04:05,401 Thread-18 > [16:04:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:04:05,475 Thread-18 > [16:04:05] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:05:31,187 Thread-18 > [16:05:31] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:05:31,194 Thread-18 > [16:05:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:05:31,255 Thread-18 > [16:05:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:05:31,348 Thread-18 > [16:05:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:05:32,787 Thread-18 > [16:05:32] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:05:32,795 Thread-18 > [16:05:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:05:32,856 Thread-18 > [16:05:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:05:32,905 Thread-18 > [16:05:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:06:26,687 Thread-18 > [16:06:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:06:26,697 Thread-18 > [16:06:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:06:26,756 Thread-18 > [16:06:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:06:26,813 Thread-18 > [16:06:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:14:19,287 Thread-18 > [16:14:19] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:14:19,297 Thread-18 > [16:14:19] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:14:19,359 Thread-18 > [16:14:19] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:14:19,458 Thread-18 > [16:14:19] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:14:20,287 Thread-18 > [16:14:20] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:14:20,295 Thread-18 > [16:14:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:14:20,351 Thread-18 > [16:14:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:14:20,396 Thread-18 > [16:14:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:18:05,806 Thread-18 > [16:18:05] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:19:02,345 Thread-18 > [16:19:02] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:20:18,450 Thread-18 > [16:20:18] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:20:43,298 Thread-18 > [16:20:43] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:21:01,597 Thread-18 > [16:21:01] [Client thread/INFO]: Loaded 420 advancements
+2018-08-14 16:23:19,541 Thread-18 > [16:23:19] [Server thread/INFO]: DrCreeper был убит Свинозомби
+2018-08-14 16:23:19,547 Thread-18 > [16:23:19] [Client thread/INFO]: [CHAT] DrCreeper был убит Свинозомби
+2018-08-14 16:23:32,800 Thread-18 > [16:23:32] [Server thread/WARN]: DrCreeper moved wrongly!
+2018-08-14 16:23:32,944 Thread-18 > [16:23:32] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:23:32,950 Thread-18 > [16:23:32] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:23:33,076 Thread-18 > [16:23:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:23:33,148 Thread-18 > [16:23:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:23:38,237 Thread-18 > [16:23:38] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:23:38,243 Thread-18 > [16:23:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:23:38,355 Thread-18 > [16:23:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:23:38,356 Thread-18 > [16:23:38] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:27:04,637 Thread-18 > [16:27:04] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:27:04,644 Thread-18 > [16:27:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:27:04,723 Thread-18 > [16:27:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:27:04,788 Thread-18 > [16:27:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:31:17,688 Thread-18 > [16:31:17] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:31:17,694 Thread-18 > [16:31:17] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:31:17,765 Thread-18 > [16:31:17] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:31:17,815 Thread-18 > [16:31:17] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:35:13,778 Thread-18 > [16:35:13] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:36:48,595 Thread-18 > [16:36:48] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:37:03,502 Thread-18 > [16:37:03] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:37:17,295 Thread-18 > [16:37:17] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:37:49,503 Thread-18 > [16:37:49] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:44:54,645 Thread-18 > [16:44:54] [Client thread/WARN]: Received passengers for unknown entity
+2018-08-14 16:48:13,437 Thread-18 > [16:48:13] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:48:13,444 Thread-18 > [16:48:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:48:13,520 Thread-18 > [16:48:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:48:13,606 Thread-18 > [16:48:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:48:14,887 Thread-18 > [16:48:14] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:48:14,896 Thread-18 > [16:48:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:48:14,980 Thread-18 > [16:48:14] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:48:15,023 Thread-18 > [16:48:15] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:50:54,387 Thread-18 > [16:50:54] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:50:54,393 Thread-18 > [16:50:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:50:54,464 Thread-18 > [16:50:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:50:54,513 Thread-18 > [16:50:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:51:49,137 Thread-18 > [16:51:49] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:51:49,144 Thread-18 > [16:51:49] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:51:49,220 Thread-18 > [16:51:49] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:51:49,283 Thread-18 > [16:51:49] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:51:56,337 Thread-18 > [16:51:56] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:51:56,353 Thread-18 > [16:51:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:51:56,423 Thread-18 > [16:51:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:51:56,476 Thread-18 > [16:51:56] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:54:08,687 Thread-18 > [16:54:08] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:54:08,699 Thread-18 > [16:54:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:54:08,773 Thread-18 > [16:54:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:54:08,842 Thread-18 > [16:54:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:56:21,187 Thread-18 > [16:56:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:56:21,194 Thread-18 > [16:56:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:56:21,270 Thread-18 > [16:56:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:56:21,341 Thread-18 > [16:56:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 16:57:31,187 Thread-18 > [16:57:31] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 16:57:31,194 Thread-18 > [16:57:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 16:57:31,271 Thread-18 > [16:57:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 16:57:31,327 Thread-18 > [16:57:31] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:06:04,988 Thread-18 > [17:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+2018-08-14 17:06:57,487 Thread-18 > [17:06:57] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:06:57,493 Thread-18 > [17:06:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:06:57,634 Thread-18 > [17:06:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:06:57,635 Thread-18 > [17:06:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:09:26,188 Thread-18 > [17:09:26] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:09:26,196 Thread-18 > [17:09:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:09:26,353 Thread-18 > [17:09:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:09:26,354 Thread-18 > [17:09:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:11:16,187 Thread-18 > [17:11:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:11:16,194 Thread-18 > [17:11:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:11:16,323 Thread-18 > [17:11:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:11:16,325 Thread-18 > [17:11:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:12:19,987 Thread-18 > [17:12:19] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:12:19,994 Thread-18 > [17:12:19] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:12:20,088 Thread-18 > [17:12:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:12:20,179 Thread-18 > [17:12:20] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:14:21,788 Thread-18 > [17:14:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:14:21,796 Thread-18 > [17:14:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:14:21,871 Thread-18 > [17:14:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:14:21,945 Thread-18 > [17:14:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:14:27,437 Thread-18 > [17:14:27] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:14:27,445 Thread-18 > [17:14:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:14:27,520 Thread-18 > [17:14:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:14:27,566 Thread-18 > [17:14:27] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:14:33,138 Thread-18 > [17:14:33] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:14:33,146 Thread-18 > [17:14:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:14:33,223 Thread-18 > [17:14:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:14:33,268 Thread-18 > [17:14:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:14:39,937 Thread-18 > [17:14:39] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:14:39,946 Thread-18 > [17:14:39] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:14:40,024 Thread-18 > [17:14:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:14:40,077 Thread-18 > [17:14:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:17:24,388 Thread-18 > [17:17:24] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:17:24,396 Thread-18 > [17:17:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:17:24,472 Thread-18 > [17:17:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:17:24,519 Thread-18 > [17:17:24] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:19:08,887 Thread-18 > [17:19:08] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:19:08,895 Thread-18 > [17:19:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:19:08,971 Thread-18 > [17:19:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:19:09,055 Thread-18 > [17:19:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:19:40,087 Thread-18 > [17:19:40] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:19:40,095 Thread-18 > [17:19:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:19:40,174 Thread-18 > [17:19:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:19:40,227 Thread-18 > [17:19:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:21:37,337 Thread-18 > [17:21:37] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:21:37,343 Thread-18 > [17:21:37] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:21:37,435 Thread-18 > [17:21:37] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:21:37,509 Thread-18 > [17:21:37] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:25:48,287 Thread-18 > [17:25:48] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:25:48,295 Thread-18 > [17:25:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:25:48,373 Thread-18 > [17:25:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:25:48,442 Thread-18 > [17:25:48] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:25:51,337 Thread-18 > [17:25:51] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:25:51,345 Thread-18 > [17:25:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:25:51,417 Thread-18 > [17:25:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:25:51,470 Thread-18 > [17:25:51] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:25:54,438 Thread-18 > [17:25:54] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:25:54,447 Thread-18 > [17:25:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:25:54,524 Thread-18 > [17:25:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:25:54,573 Thread-18 > [17:25:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:26:19,529 Thread-18 > [17:26:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12492ms or 249 ticks behind
+2018-08-14 17:26:21,676 Thread-18 > [17:26:21] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:26:21,677 Thread-18 > [17:26:21] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:26:22,097 Thread-18 > [17:26:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:26:22,098 Thread-18 > [17:26:22] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:26:34,603 Thread-18 > [17:26:34] [Client thread/INFO]: Loaded 420 advancements
+2018-08-14 17:26:59,687 Thread-18 > [17:26:59] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:26:59,694 Thread-18 > [17:26:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:26:59,855 Thread-18 > [17:26:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:26:59,857 Thread-18 > [17:26:59] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:27:10,750 Thread-18 > [17:27:10] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+2018-08-14 17:27:40,437 Thread-18 > [17:27:40] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:27:40,444 Thread-18 > [17:27:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:27:40,644 Thread-18 > [17:27:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:27:40,646 Thread-18 > [17:27:40] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:30:15,500 Thread-18 > [17:30:15] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+2018-08-14 17:32:15,201 Thread-18 > [17:32:15] [Client thread/INFO]: Loaded 420 advancements
+2018-08-14 17:33:15,558 Thread-18 > [17:33:15] [Client thread/INFO]: Loaded 422 advancements
+2018-08-14 17:33:57,737 Thread-18 > [17:33:57] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:33:57,743 Thread-18 > [17:33:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:33:57,953 Thread-18 > [17:33:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:33:57,955 Thread-18 > [17:33:57] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:34:16,137 Thread-18 > [17:34:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:34:16,144 Thread-18 > [17:34:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:34:16,316 Thread-18 > [17:34:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:34:16,318 Thread-18 > [17:34:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:34:28,639 Thread-18 > [17:34:28] [Client thread/INFO]: Loaded 423 advancements
+2018-08-14 17:34:52,537 Thread-18 > [17:34:52] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:34:52,554 Thread-18 > [17:34:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:34:52,835 Thread-18 > [17:34:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:34:52,837 Thread-18 > [17:34:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:36:00,987 Thread-18 > [17:36:00] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:36:00,993 Thread-18 > [17:36:00] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:36:01,153 Thread-18 > [17:36:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:36:01,154 Thread-18 > [17:36:01] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:36:06,537 Thread-18 > [17:36:06] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:36:06,548 Thread-18 > [17:36:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:36:06,680 Thread-18 > [17:36:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:36:06,682 Thread-18 > [17:36:06] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:36:09,738 Thread-18 > [17:36:09] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:36:09,746 Thread-18 > [17:36:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:36:09,858 Thread-18 > [17:36:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:36:09,859 Thread-18 > [17:36:09] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:36:11,687 Thread-18 > [17:36:11] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:36:11,694 Thread-18 > [17:36:11] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:36:11,818 Thread-18 > [17:36:11] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:36:11,819 Thread-18 > [17:36:11] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:36:13,687 Thread-18 > [17:36:13] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:36:13,695 Thread-18 > [17:36:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:36:13,831 Thread-18 > [17:36:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:36:13,832 Thread-18 > [17:36:13] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:36:16,138 Thread-18 > [17:36:16] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:36:16,147 Thread-18 > [17:36:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:36:16,265 Thread-18 > [17:36:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:36:16,267 Thread-18 > [17:36:16] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:38:03,822 Thread-18 > [17:38:03] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:38:03,829 Thread-18 > [17:38:03] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:38:04,107 Thread-18 > [17:38:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:38:04,109 Thread-18 > [17:38:04] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:38:07,938 Thread-18 > [17:38:07] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:38:07,957 Thread-18 > [17:38:07] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:38:08,141 Thread-18 > [17:38:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:38:08,143 Thread-18 > [17:38:08] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:43:28,638 Thread-18 > [17:43:28] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:43:28,645 Thread-18 > [17:43:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:43:28,932 Thread-18 > [17:43:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:43:28,933 Thread-18 > [17:43:28] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:44:32,898 Thread-18 > [17:44:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+2018-08-14 17:45:25,138 Thread-18 > [17:45:25] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:45:25,146 Thread-18 > [17:45:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:45:25,427 Thread-18 > [17:45:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:45:25,429 Thread-18 > [17:45:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:46:37,545 Thread-18 > [17:46:37] [Client thread/INFO]: Loaded 423 advancements
+2018-08-14 17:46:52,538 Thread-18 > [17:46:52] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:46:52,558 Thread-18 > [17:46:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:46:52,775 Thread-18 > [17:46:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:46:52,777 Thread-18 > [17:46:52] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:46:54,967 Thread-18 > [17:46:54] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:46:54,994 Thread-18 > [17:46:54] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:46:55,177 Thread-18 > [17:46:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:46:55,178 Thread-18 > [17:46:55] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:47:42,675 Thread-18 > [17:47:42] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:47:42,683 Thread-18 > [17:47:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:47:42,855 Thread-18 > [17:47:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:47:42,858 Thread-18 > [17:47:42] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 17:52:44,287 Thread-18 > [17:52:44] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 17:52:44,293 Thread-18 > [17:52:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 17:52:44,472 Thread-18 > [17:52:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 17:52:44,474 Thread-18 > [17:52:44] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 18:00:33,037 Thread-18 > [18:00:33] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 18:00:33,043 Thread-18 > [18:00:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 18:00:33,170 Thread-18 > [18:00:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 18:00:33,172 Thread-18 > [18:00:33] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 18:04:25,186 Thread-18 > [18:04:25] [Server thread/INFO]: Saving and pausing game...
+2018-08-14 18:04:25,194 Thread-18 > [18:04:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 18:04:25,353 Thread-18 > [18:04:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 18:04:25,355 Thread-18 > [18:04:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 18:04:25,666 Thread-18 > [18:04:25] [Server thread/INFO]: DrCreeper lost connection: Отключение
+2018-08-14 18:04:25,668 Thread-18 > [18:04:25] [Server thread/INFO]: DrCreeper покинул игру
+2018-08-14 18:04:25,676 Thread-18 > [18:04:25] [Server thread/INFO]: Stopping singleplayer server as player logged out
+2018-08-14 18:04:25,687 Thread-18 > [18:04:25] [Server thread/INFO]: Stopping server
+2018-08-14 18:04:25,689 Thread-18 > [18:04:25] [Server thread/INFO]: Saving players
+2018-08-14 18:04:25,690 Thread-18 > [18:04:25] [Server thread/INFO]: Saving worlds
+2018-08-14 18:04:25,691 Thread-18 > [18:04:25] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/overworld
+2018-08-14 18:04:26,442 Thread-18 > [18:04:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_nether
+2018-08-14 18:04:26,444 Thread-18 > [18:04:26] [Server thread/INFO]: Saving chunks for level 'Создано в Питере (5)'/the_end
+2018-08-14 18:04:27,318 Thread-18 > [18:04:27] [Client thread/INFO]: Stopping!
+2018-08-14 18:04:27,861 Thread-18 > [18:04:27] [Client thread/INFO]: SoundSystem shutting down...
+2018-08-14 18:04:28,088 Thread-18 > [18:04:28] [Client thread/INFO]: SoundSystem Author: Paul Lamb, www.paulscode.com
+2018-08-14 18:04:28,458 Thread-18 > AL lib: (EE) alc_cleanup: 1 device not closed
+2018-08-14 18:04:28,544 Thread-18 Here I am!
+2018-08-14 18:04:28,565 Thread-18 [VersionManager] Refreshing versions locally...
+2018-08-14 18:04:28,570 Thread-18 [VersionManager] Versions has been refreshed (3 ms)
+2018-08-14 18:04:28,582 Thread-18 [Launcher] Minecraft closed with exit code: 0
+2018-08-14 18:04:28,585 LoopedThread#9 [Launcher] Launcher exited.
+2018-08-14 18:04:31,046 AWT-EventQueue-0 Good bye!
